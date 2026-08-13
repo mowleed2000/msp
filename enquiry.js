@@ -43,7 +43,7 @@
             .then(function (data) {
                 if (!feedback) return;
                 if (data.success) {
-                    feedback.style.color = '#10b981';
+                    feedback.style.color = '#f87171';
                     feedback.textContent = 'Enquiry sent! We will contact you shortly.';
                     form.reset();
                 } else {
