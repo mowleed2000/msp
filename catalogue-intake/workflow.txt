@@ -1,0 +1,94 @@
+MSP catalogue rebuild — your side, then mine
+============================================
+
+Your workflow is the right one. Do not dump 500 photos on the site.
+Do not one-image-per-flavour. Do this instead.
+
+Folders
+-------
+msp-stock/
+  batches/batch-01 ... batch-50     (10 photos each)
+  lists/batch-01.csv ...            (AI output)
+  master.csv                        (merged unique products)
+  new-images/                       (one clean pack shot per NEW line)
+
+Step 1 — Sort
+-------------
+Put the 500 photos into folders of 10. Name folders batch-01, batch-02, ...
+No need to name the photos yet.
+
+Step 2 — 50 AI batches
+----------------------
+For each folder:
+  1. Open a new chat (or the same chat).
+  2. Paste batch-prompt.txt
+  3. Type: Batch number: 07
+  4. Attach the 10 photos
+  5. Save the CSV it returns as lists/batch-07.csv
+
+The prompt forces ONE row per product RANGE (Velo, Lost Mary 30K, iPhone 15)
+with flavours in one cell: Cherry | Blueberry | Peppermint
+
+Step 3 — Merge
+--------------
+Paste all 50 CSVs into one sheet (Google Sheets or Excel).
+Remove exact duplicate names (same Lost Mary 30K from 12 photos = 1 row).
+If two rows are the same range with different flavours, keep ONE row and
+join the flavour lists.
+
+You should land around 80–200 unique lines, not 500.
+
+Step 4 — Compare to what is already live
+----------------------------------------
+Open current-catalogue.csv (this folder). It is the live site list (123 items).
+
+Match on name, loosely:
+  "Velo Nicotine Pouches"  = already live  -> action SKIP_ALREADY_IN_CATALOGUE
+  "Lost Mary 30K"          = already live  -> SKIP, but copy any extra flavours
+                                             you found into that row's notes
+  "Elf Bar 600"            = not live      -> action ADD
+
+Anything SKIP does not need a new image.
+Anything ADD needs exactly one image.
+
+Step 5 — Grab only the missing images
+-------------------------------------
+For each ADD row, save ONE clean pack shot into new-images/
+named exactly as image_filename in the CSV:
+
+  velo-nicotine-pouches.webp
+  lost-mary-30k.webp
+  iphone-15.webp
+
+Rules for the photo:
+  - Front of the box / device, as square as you can
+  - One product, not a whole shelf
+  - White or plain background if you can
+  - Not one file per flavour
+
+Use manufacturer pack shots or a cropped photo you took. Not Google Images.
+
+Step 6 — Send it to me
+----------------------
+Attach in one follow-up:
+  1. master.csv  (columns from new-products-template.csv)
+  2. the new-images folder (only ADD products)
+
+I will map each filename onto the catalogue, put flavours on the cards,
+and leave SKIP products as they are unless you marked extra flavours.
+
+Categories to use
+-----------------
+Smartphones
+Tablets
+Laptops
+Gaming
+Vape Kits
+Vape Refills
+E-Liquids
+Nicotine Pouches
+Tech Accessories
+Protection & Cases
+
+Vapes / liquids / pouches = flavours field.
+Phones / laptops = variants field (128GB | Unlocked, i5 | 8GB | 256GB).

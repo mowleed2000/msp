@@ -1,0 +1,31 @@
+You are cataloguing stock photos for MSP Vape & Mobile Store, 128 King St, Hammersmith.
+
+I will send 10 photos. For EACH photo, identify the product. Then MERGE duplicates so the same product line appears once.
+
+RULES
+- Vapes, e-liquids, nic salts, pouches = ONE row per RANGE / KIT, not one row per flavour.
+- List every readable flavour on that range in a single "flavours" field, separated by " | ".
+- Phones, laptops, tablets, accessories = ONE row per model.
+- If a photo is a messy shelf with several products, list each distinct product you can read.
+- Ignore price tags, reflections, and neighbouring shops.
+- If you cannot read the name, say UNKNOWN and describe what you see.
+- Do not invent flavours you cannot see.
+
+CATEGORIES (use exactly one)
+Smartphones | Tablets | Laptops | Gaming | Vape Kits | Vape Refills | E-Liquids | Nicotine Pouches | Tech Accessories | Protection & Cases
+
+OUTPUT
+Return CSV only, with this header:
+batch,source_photo,name,category,flavours,variants,image_filename,action,notes
+
+- batch = the batch number I give you
+- source_photo = the filename of the photo you used
+- name = clean retail name, e.g. "Velo Nicotine Pouches" or "Lost Mary 30K"
+- flavours = "Cherry | Blueberry | ..." or leave empty for phones/accessories
+- variants = storage/RAM/puff count/condition if visible, else empty
+- image_filename = lowercase kebab-case, one file per product line, e.g. velo-nicotine-pouches.webp
+- action = always NEW for now
+- notes = anything uncertain
+
+After the 10 photos, also print:
+UNIQUE_COUNT: N

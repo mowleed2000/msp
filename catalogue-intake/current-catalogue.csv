@@ -1,0 +1,124 @@
+id,name,match_key,category,flavours,variants,current_image,status
+1,iPhone 17 Pro Max,iphone 17 pro max,Smartphones,,Good condition | 256GB | Unlocked,catalogue-images/iPhone 17 Pro Max 256GB.jpg,IN_CATALOGUE
+2,iPhone 17,iphone 17,Smartphones,,Good condition | Unlocked,catalogue-images/iphone 17.webp,IN_CATALOGUE
+3,iPhone 16 Pro Max,iphone 16 pro max,Smartphones,,Good condition | Unlocked,catalogue-images/iphone_16_promax.png,IN_CATALOGUE
+4,iPhone 16,iphone 16,Smartphones,,Good condition | Unlocked,catalogue-images/iPhone 16.jpg,IN_CATALOGUE
+5,iPhone 15 Pro Max,iphone 15 pro max,Smartphones,,Good condition | Unlocked,catalogue-images/iphone_15_promax.png,IN_CATALOGUE
+6,iPhone 15 Plus,iphone 15 plus,Smartphones,,Good condition | Unlocked,catalogue-images/Iphone 15 plus.jpg,IN_CATALOGUE
+7,iPhone 15,iphone 15,Smartphones,,Good condition | 128GB | Unlocked,catalogue-images/iPhone 15.jpg,IN_CATALOGUE
+8,iPhone 14 Pro Max,iphone 14 pro max,Smartphones,,Good condition | 128GB | Unlocked,catalogue-images/iPhone 14 Pro Max 128GB.webp,IN_CATALOGUE
+9,iPhone 14 Pro,iphone 14 pro,Smartphones,,Good condition | Unlocked,catalogue-images/Iphone 14 pro.jpg,IN_CATALOGUE
+10,iPhone 14,iphone 14,Smartphones,,Good condition | Unlocked,catalogue-images/iPhone 14 midnight transparent background.jpg,IN_CATALOGUE
+11,iPhone 13 Pro Max,iphone 13 pro max,Smartphones,,Good condition | 256GB | Unlocked,catalogue-images/iPhone 13 Pro Max.jpg,IN_CATALOGUE
+12,iPhone 13,iphone 13,Smartphones,,Good condition | 128GB | Unlocked,catalogue-images/iPhone 13 128GB.jpg,IN_CATALOGUE
+13,iPhone 12 Pro Max,iphone 12 pro max,Smartphones,,Good condition | 128GB | Unlocked,catalogue-images/iPhone 12 Pro Max 128GB.jpg,IN_CATALOGUE
+14,iPhone 12 Pro,iphone 12 pro,Smartphones,,Good condition | 128GB | Unlocked,catalogue-images/iPhone 12 Pro.jpg,IN_CATALOGUE
+15,iPhone 12,iphone 12,Smartphones,,Good condition | 128GB | Unlocked,catalogue-images/iPhone 12 base model.jpg,IN_CATALOGUE
+16,iPhone 12 Mini,iphone 12 mini,Smartphones,,Good condition | 128GB | Unlocked,catalogue-images/iPhone 12  12 Mini.jpg,IN_CATALOGUE
+17,iPhone 11 Pro,iphone 11 pro,Smartphones,,Good condition | Unlocked,catalogue-images/iPhone 11 Pro.jpg,IN_CATALOGUE
+18,iPhone 11,iphone 11,Smartphones,,Good condition | Unlocked,catalogue-images/iphone_11.png,IN_CATALOGUE
+19,iPhone 8,iphone 8,Smartphones,,Good condition | Unlocked,catalogue-images/iPhone 8 space gray white background.jpg,IN_CATALOGUE
+20,iPhone SE,iphone se,Smartphones,,Good condition | Unlocked,catalogue-images/iPhone SE black background transparent.png,IN_CATALOGUE
+21,Van Dens Tempered Glass,van dens tempered glass,Protection & Cases,,,catalogue-images/Van - Dens tempered glass Iphone.jpg,IN_CATALOGUE
+22,iPhone XR,iphone xr,Smartphones,,Good condition | Unlocked,catalogue-images/iPhone XR.jpg,IN_CATALOGUE
+23,Amazon Fire 7 Tablet,amazon fire 7 tablet,Tablets,,,catalogue-images/Amazon Fire 7 Tablet.jpg,IN_CATALOGUE
+24,Apple iPad 6th Gen,apple ipad 6th gen,Tablets,,,catalogue-images/Apple iPad 6th Gen.jpg,IN_CATALOGUE
+25,Apple iPad 9th Gen,apple ipad 9th gen,Tablets,,64GB,catalogue-images/Apple iPad 9th Gen.jpg,IN_CATALOGUE
+26,Hopestar P61 Portable Mini Speaker,hopestar p61 portable mini speaker,Tablets,,,catalogue-images/Hopestar P61 Portable Mini Speaker.jpg,IN_CATALOGUE
+27,Samsung Galaxy Tab A+,samsung galaxy tab a,Tablets,,,catalogue-images/Samsung Galaxy Tab Active 2.jpg,IN_CATALOGUE
+28,Samsung Galaxy Tab A11,samsung galaxy tab a11,Tablets,,SIM,catalogue-images/Galaxy Tab A11.webp,IN_CATALOGUE
+29,Samsung Galaxy Tab S10 Plus,samsung galaxy tab s10 plus,Tablets,,,catalogue-images/Samsung Galaxy Tab S10 Plus.jpg,IN_CATALOGUE
+30,Samsung Tab A9 Ultra 5G,samsung tab a9 ultra 5g,Tablets,,256GB,catalogue-images/Samsung Galaxy S23 Ultra 5G.webp,IN_CATALOGUE
+31,Yesido GaN 67W Retractable Charger YC146,yesido gan 67w retractable charger yc146,Tablets,,,catalogue-images/Yesido GaN 67W Retractable Charger YC146.jpg,IN_CATALOGUE
+32,ASUS VivoBook Core i5,asus vivobook core i5,Laptops,,INTEL PENTIUM | 4GB RAM | 128GB SSD,catalogue-images/ASUS VivoBook Core i5.webp,IN_CATALOGUE
+33,Apple MacBook Air 13 Inch,apple macbook air 13 inch,Laptops,,Core i5 | 8GB RAM | 128GB SSD | 2017,catalogue-images/Apple MacBook Air 13 Inch.webp,IN_CATALOGUE
+34,"Apple MacBook Pro 13""",apple macbook pro 13,Laptops,,Core i7 | RAM 32GB | SSD 512GB,catalogue-images/Apple MacBook Pro 13 Inch.jpg,IN_CATALOGUE
+35,Apple MacBook Pro 16 Inch,apple macbook pro 16 inch,Laptops,,CORE i7 | RAM 32GB | SSD 512GB | YEAR 2020,catalogue-images/Apple MacBook Pro 16 Inch.webp,IN_CATALOGUE
+36,DELL Dell Laptop,dell dell laptop,Laptops,,,catalogue-images/Dell G5 15 Gaming Laptop.jpg,IN_CATALOGUE
+37,DELL Latitude 5530,dell latitude 5530,Laptops,,Xth Gen Processor (partial) | 256GB SSD,catalogue-images/Dell Latitude 3400.jpg,IN_CATALOGUE
+38,Dell G5 15 Gaming Laptop,dell g5 15 gaming laptop,Laptops,,NVIDIA GeForce RT (model number mostly obscured) | Intel Core i7 (10th Gen) | 16GB RAM | 512GB SSD,catalogue-images/Dell G5 15 Gaming Laptop.jpg,IN_CATALOGUE
+39,Dell Inspiron 15 3530,dell inspiron 15 3530,Laptops,,CORE i5 | 16GB RAM | 512GB SSD,catalogue-images/Dell Inspiron 15 3530.jpg,IN_CATALOGUE
+40,Dell Latitude 3400,dell latitude 3400,Laptops,,CORE i5 (8TH Gen) | 8GB RAM | 256GB SSD,catalogue-images/Dell Latitude 3400.jpg,IN_CATALOGUE
+41,HP ELITEBOOK 850 G7,hp elitebook 850 g7,Laptops,,i5 | 8GB RAM | 256GB SSD,catalogue-images/HP EliteBook 840 G5.jpg,IN_CATALOGUE
+42,HP PROBOOK 440 G7,hp probook 440 g7,Laptops,,i5 | 8GB RAM | 256GB SSD,catalogue-images/HP ProBook Core i5.jpg,IN_CATALOGUE
+43,HP ProBook Core i5,hp probook core i5,Laptops,,,catalogue-images/HP ProBook Core i5.jpg,IN_CATALOGUE
+44,Lenovo IdeaPad 3,lenovo ideapad 3,Laptops,,i5 (11th Gen) | 8GB RAM | 512GB SSD,catalogue-images/Lenovo IdeaPad 3.jpg,IN_CATALOGUE
+45,Lenovo ThinkPad X1,lenovo thinkpad x1,Laptops,,CORE i5 (11TH GEN) | 16GB RAM | 256GB SSD,catalogue-images/Lenovo ThinkPad X1.webp,IN_CATALOGUE
+46,Lenovo ThinkPad X13,lenovo thinkpad x13,Laptops,,CORE i5 (11TH GEN) | 16GB RAM | 256GB SSD,catalogue-images/Lenovo ThinkPad X13.webp,IN_CATALOGUE
+47,Microsoft Surface Business Laptop,microsoft surface business laptop,Laptops,,INTEL ULTRA 5 | 16GB RAM | 256GB SSD (associated with display tag),catalogue-images/Microsoft Surface Business Laptop.jpg,IN_CATALOGUE
+48,Universal Laptop AC Power Adapters,universal laptop ac power adapters,Laptops,,,catalogue-images/Universal Laptop AC Power Adapters.jpg,IN_CATALOGUE
+49,Nintendo Switch OLED,nintendo switch oled,Gaming,,64GB,catalogue-images/Nintendo Switch OLED.jpg,IN_CATALOGUE
+50,PS5 DualSense Controller,ps5 dualsense controller,Gaming,,,catalogue-images/PS5 DualSense Controller.webp,IN_CATALOGUE
+51,Sony PS5 DualSense Controller,sony ps5 dualsense controller,Gaming,,,catalogue-images/Sony PS5 DualSense Controller.webp,IN_CATALOGUE
+52,Hayati Pro Ultra+ 25K (Starter Kit),hayati pro ultra 25k starter kit,Vape Kits,strawberry cherry / raspberry ice | sour apple / juicy peach | blue razz pineapple / strawberry ice | raspberry cola | blueberry n' bubba / watermelon n' bubba | lemon & lime / summer dream | Blueberry Sour Raspberry | Watermelon Ice | Lemon & Lime | Strawberry Ice | Fresh Mint,"25,000+ Puffs Capacity, 20mg Nic Salt, Dual Tank Swappable System",Fast acsess images/hayati_pro_25k.png,IN_CATALOGUE
+53,Crown Bar Al Fakher 30K Hypermax Advanced,crown bar al fakher 30k hypermax advanced,Vape Kits,blueberry sour raspberry | blueberry gum | grape | blackcurrant mint | peach ice | cherry ice | strawberry punch | menthol | two apple | cool mango | berry blue | blueberry lemonade | hubba,"30, 000 Puffs Massive Output DTL Sub-Ohm Disposable Mod Line",Fast acsess images/alfakher_30k.png,IN_CATALOGUE
+54,IVG Pro 10K Starter Kit,ivg pro 10k starter kit,Vape Kits,strawberry ice | kiwi passionfruit guava | sour cherry watermelon | tobacco | blue raspberry ice | blueberry mint | pineapple ice | strawberry raspberry cherry | fresh menthol mojito | pink lemonade | blue razz lemonade | Strawberry Watermelon,"10, 000 Puffs High-Volume Intelligent Smart Battery Station",Fast acsess images/ivg_pro_10k_kit.png,IN_CATALOGUE
+55,Lost Mary 30K,lost mary 30k,Vape Kits,cola | blackberry raspberry | watermelon ice | strawberry blueberry cherry | pineapple ice | strawberry kiwi | triple mango | blueberry ice | Blueberry Sour Raspberry | Cherry Ice | Miami Mint,"30,000 Puffs Smart Screen Indicator, Dual-Mesh Adjustable Wattage",Fast acsess images/Lost mary 30k.jpg,IN_CATALOGUE
+56,Lost Mary BM6000 / 6K Pods,lost mary bm6000 6k pods,Vape Kits,strawberry raspberry cherry ice | cherry ice | smooth tobacco | triple melon | strawberry watermelon | pink lemonade | pineapple ice | blue razz lemonade | blueberry | blueberry sour raspberry | cola | strawberry ice | lemon lime | fresh mint | menthol | miami mint | triple mango | watermelon ice | double apple | cherry peach lemonade,"6,000 Puffs Rechargeable Device with Click-In E-Liquid Bottle System",Fast acsess images/Lost Mary BM6000.jpg,IN_CATALOGUE
+57,Hayati Pro Max 4000,hayati pro max 4000,Vape Kits,blue razz gummy bear | summer dream | fresh mint | lemon & lime | cherry cola | Blueberry Sour Raspberry | Watermelon Ice | Strawberry Ice,"Up to 4000 Puffs Disposable Vape, 1400mAh Battery, Prefilled Mesh Coil, TPD Compliant",Fast acsess images/Hayati Pro Max 4000.jpg,IN_CATALOGUE
+58,IVG 600 Disposable Vape,ivg 600 disposable vape,Vape Kits,strawberry watermelon | blue raspberry ice | classic menthol | fizzy cherry | Pink Lemonade | Fresh Menthol Mojito | Strawberry Ice,"Up to 600 Puffs, 2ml Prefilled E-Liquid, 20mg (2%) Nicotine, Draw-Activated Vapour",Fast acsess images/IVG 600.jpg,IN_CATALOGUE
+59,Bar Juice 5000 E-Liquids,bar juice 5000 e liquids,E-Liquids,Blue Razz Lemonade | Strawberry Ice | Watermelon | Fresh Mint | Cherry Ice,,catalogue-images/Bar Juice 5000 E-Liquids.jpg,IN_CATALOGUE
+60,Blue Sour Raspberry Nic Salt,blue sour raspberry nic salt,E-Liquids,Watermelon Ice | Blueberry Sour Raspberry | Strawberry Ice | Menthol | Lemon & Lime,,catalogue-images/Blue Sour Raspberry Nic Salt.jpg,IN_CATALOGUE
+61,Pro Crypto 20mg Nic Salt,pro crypto 20mg nic salt,E-Liquids,Watermelon Ice | Blueberry Sour Raspberry | Strawberry Ice | Menthol | Lemon & Lime,,catalogue-images/Pro Crypto 20mg Nic Salt.jpg,IN_CATALOGUE
+62,Hayati Pro Ultra+ Duo Flavour,hayati pro ultra duo flavour,Vape Kits,Watermelon Ice | Blueberry Sour Raspberry | Strawberry Ice | Menthol | Lemon & Lime,,catalogue-images/Pro Ultra+ Duo Flavour VapePro Ultra+.jpg,IN_CATALOGUE
+63,SKE 35K Disposable Vape,ske 35k disposable vape,Vape Kits,Blueberry Sour Raspberry | Watermelon Ice | Lemon & Lime | Pink Lemonade | Cherry Ice,,catalogue-images/SKE 35K Disposable Vape.jpg,IN_CATALOGUE
+64,IVG 2400 4-in-1 Multi Flavour,ivg 2400 4 in 1 multi flavour,Vape Kits,Blue Raspberry Ice | Strawberry Watermelon | Pink Lemonade | Fresh Menthol Mojito | Strawberry Ice,,catalogue-images/IVG 2400 4-in-1 Multi Flavour.jpg,IN_CATALOGUE
+65,IVG Smart 5500,ivg smart 5500,Vape Kits,Blue Raspberry Ice | Strawberry Watermelon | Pink Lemonade | Fresh Menthol Mojito | Strawberry Ice,,catalogue-images/IVG Smart 5500 (.jpg,IN_CATALOGUE
+66,IVG Pro Pod 10K Replacement Pods,ivg pro pod 10k replacement pods,Vape Refills,blueberry raspberry | cola cherry | pink lemonade | blue razz lemonade | sour cherry watermelon | Blue Raspberry Ice | Strawberry Watermelon | Fresh Menthol Mojito | Strawberry Ice,Click-in Replacement Big Puff Empty-to-Full Flavor Modules,Fast acsess images/IVG Pro Pod 10K (Replacement Pods).webp,IN_CATALOGUE
+67,Lost Mary ECO 15K/6K Pod System,lost mary eco 15k 6k pod system,Vape Refills,watermelon ice | blueberry sour raspberry | blue razz lemonade | strawberry ice | double apple | cherry ice | Pineapple Ice | Triple Mango | Miami Mint,Eco-conscious Modular Replacement Prefilled Cartridge Cartridges,Fast acsess images/lost_mary_pods.png,IN_CATALOGUE
+68,Hayati 6K Pods,hayati 6k pods,Vape Refills,blue razz lemonade | strawberry raspberry | lemon & lime | juicy peach | Blueberry Sour Raspberry | Watermelon Ice | Strawberry Ice | Fresh Mint,"6,000 Puffs Capacity, Prefilled Mesh Coil Pods, Rich Flavor Profiles",Fast acsess images/Hayatti 6k.webp,IN_CATALOGUE
+69,Lost Mary NERA 15K Pods,lost mary nera 15k pods,Vape Refills,strawberry ice | kiwi passion fruit guava | fizzy pineapple | raspberry watermelon | pineapple ice | summer grape | dubai chocolate | strawberry watermelon | golden mango | sour pineapple | triple mango | juicy peach | mint | cherry sour raspberry | blueberry raspberry | cherry ice | raspberry peach | menthol | miami mint | fruit punch,"15,000 Puffs Capacity Replacement Pods, Intelligent Smart Display Panel",Fast acsess images/Lost mary 15k.jpg,IN_CATALOGUE
+70,Maryliq Nic Salt 10ml,maryliq nic salt 10ml,E-Liquids,triple mango | watermelon ice | double apple | peach ice | blackcurrant apple | lemon lime | blueberry sour raspberry,"10ml E-Liquid by Lost Mary, 20mg Nicotine Strength, Rich Flavor Options",Fast acsess images/Maryliq 10ml bottle png.jpg,IN_CATALOGUE
+71,Velo Nicotine Pouches,velo nicotine pouches,Nicotine Pouches,freezing peppermint / peppermint storm | crispy peppermint | bright spearmint | spicy papaya | mango flame | ruby berry / blush berry | Peppermint | Spearmint | Berry | Mango | Watermelon,Premium Spit-Free Nicotine Pouches (All Strengths),Fast acsess images/velo nicotine pouches.webp,IN_CATALOGUE
+72,20W USB-C Fast Charger Plug,20w usb c fast charger plug,Tech Accessories,,,catalogue-images/20W USB-C Fast Charger Plug.webp,IN_CATALOGUE
+73,ASUS ASUS,asus asus,Tech Accessories,,CORE i7 (10th GEN) | RAM 8GB | SSD 512GB,catalogue-images/asus 10th gen.jpg,IN_CATALOGUE
+74,AirPods Pro 2,airpods pro 2,Tech Accessories,,,catalogue-images/AirPods Pro 2.jpg,IN_CATALOGUE
+75,Apple Watch Band 41mm,apple watch band 41mm,Tech Accessories,,,catalogue-images/Apple Watch Band 41mm.webp,IN_CATALOGUE
+76,Braided USB-C to Lightning Cable,braided usb c to lightning cable,Tech Accessories,,,catalogue-images/Braided USB-C to Lightning Cable.webp,IN_CATALOGUE
+77,Foldable Handheld Ice Compress Fan,foldable handheld ice compress fan,Tech Accessories,,,catalogue-images/Foldable Handheld Ice Compress Fan.jpg,IN_CATALOGUE
+78,Google Pixel 8 Pro,google pixel 8 pro,Tech Accessories,,,catalogue-images/Google Pixel 8 Pro.webp,IN_CATALOGUE
+79,HP Pavilion 13th Gen,hp pavilion 13th gen,Tech Accessories,,CORE i5 | RAM 8GB | SSD 512GB,catalogue-images/HP Pavilion 13th Gen.jpg,IN_CATALOGUE
+80,HP ZBook Studio G5,hp zbook studio g5,Tech Accessories,,,catalogue-images/HP ZBook Studio G5.jpg,IN_CATALOGUE
+81,Hopestar P58 PRO Wireless Speaker,hopestar p58 pro wireless speaker,Tech Accessories,,,catalogue-images/Hopestar P58 PRO Wireless Speaker.jpg,IN_CATALOGUE
+82,Hopestar Partybox 168 100W Speaker,hopestar partybox 168 100w speaker,Tech Accessories,,,catalogue-images/Hopestar Partybox 168 100W Speaker.jpg,IN_CATALOGUE
+83,Hopestar Partybox Ultra 550W Speaker,hopestar partybox ultra 550w speaker,Tech Accessories,,,catalogue-images/Hopestar Partybox Ultra 550W Speaker.jpg,IN_CATALOGUE
+84,IMO Q2 Pro,imo q2 pro,Tech Accessories,,,catalogue-images/IMO Q2 Pro.jpg,IN_CATALOGUE
+85,Instant Print Camera,instant print camera,Tech Accessories,,,catalogue-images/Instant Print Camera.jpg,IN_CATALOGUE
+86,Intenso MicroSD Class 10,intenso microsd class 10,Tech Accessories,,32GB,catalogue-images/Intenso 32GB MicroSD Class 10.jpg,IN_CATALOGUE
+87,Motorola Moto G6,motorola moto g6,Tech Accessories,,,catalogue-images/Motorola Moto G6.jpg,IN_CATALOGUE
+88,Nokia G21,nokia g21,Tech Accessories,,,catalogue-images/Nokia G21.jpg,IN_CATALOGUE
+89,Privacy Tempered Glass Screen Protector,privacy tempered glass screen protector,Tech Accessories,,,catalogue-images/Privacy Tempered Glass Screen Protector.jpg,IN_CATALOGUE
+90,Pro Fizzy Cherry Smart Pod,pro fizzy cherry smart pod,Tech Accessories,,,catalogue-images/Pro Fizzy Cherry Smart Pod.jpg,IN_CATALOGUE
+91,Ray-Ban Smart Glasses,ray ban smart glasses,Tech Accessories,,,catalogue-images/Ray-Ban Smart Glasses.jpg,IN_CATALOGUE
+92,Samsung Galaxy A54 5G,samsung galaxy a54 5g,Tech Accessories,,,catalogue-images/Samsung Galaxy A54 5G.webp,IN_CATALOGUE
+93,Samsung Galaxy S10,samsung galaxy s10,Tech Accessories,,,catalogue-images/Samsung Galaxy S10.jpg,IN_CATALOGUE
+94,Samsung Galaxy S20 Plus,samsung galaxy s20 plus,Tech Accessories,,,catalogue-images/Samsung Galaxy S20 Plus.jpg,IN_CATALOGUE
+95,Samsung Galaxy S23 FE 5G,samsung galaxy s23 fe 5g,Tech Accessories,,,catalogue-images/Samsung Galaxy S23 FE 5G.webp,IN_CATALOGUE
+96,Samsung Galaxy S23 Ultra 5G,samsung galaxy s23 ultra 5g,Tech Accessories,,,catalogue-images/Samsung Galaxy S23 Ultra 5G.webp,IN_CATALOGUE
+97,Samsung Galaxy S24 Ultra 5G,samsung galaxy s24 ultra 5g,Tech Accessories,,,catalogue-images/Samsung Galaxy S24 Ultra 5G.webp,IN_CATALOGUE
+98,Samsung SAMSNG S10,samsung samsng s10,Tech Accessories,,128GB,catalogue-images/Samsung Galaxy S10.jpg,IN_CATALOGUE
+99,Samsung SAMSNG S20 (5G),samsung samsng s20 5g,Tech Accessories,,128GB,catalogue-images/Samsung Galaxy A54 5G.webp,IN_CATALOGUE
+100,Samsung SAMSNG S20 PLUS A,samsung samsng s20 plus a,Tech Accessories,,128GB,catalogue-images/Samsung Galaxy S20 Plus.jpg,IN_CATALOGUE
+101,Samsung SAMSUNG S20 ULTRA 5G,samsung samsung s20 ultra 5g,Tech Accessories,,128GB,catalogue-images/Samsung Galaxy S23 Ultra 5G.webp,IN_CATALOGUE
+102,Samsung SAMSUNG S22 PLUS,samsung samsung s22 plus,Tech Accessories,,128GB,catalogue-images/Samsung Galaxy S20 Plus.jpg,IN_CATALOGUE
+103,Samsung SAMSUNG S22 ULTRA,samsung samsung s22 ultra,Tech Accessories,,128GB,catalogue-images/galaxy_s22_ultra.png,IN_CATALOGUE
+104,Samsung Samsung S20 (5G),samsung samsung s20 5g,Tech Accessories,,128GB | A+,catalogue-images/Samsung Galaxy A54 5G.webp,IN_CATALOGUE
+105,Samsung Samsung S20 FE A,samsung samsung s20 fe a,Tech Accessories,,128GB | A+,catalogue-images/Samsung Galaxy S23 FE 5G.webp,IN_CATALOGUE
+106,Samsung Samsung S20 Plus A,samsung samsung s20 plus a,Tech Accessories,,128GB | A+,catalogue-images/Samsung Galaxy S20 Plus.jpg,IN_CATALOGUE
+107,TCL 403,tcl 403,Tech Accessories,,,catalogue-images/TCL 403.jpg,IN_CATALOGUE
+108,TCL 405,tcl 405,Tech Accessories,,,catalogue-images/TCL 405.jpg,IN_CATALOGUE
+109,TP-Link 300Mbps Wireless N Router TL-WR841N,tp link 300mbps wireless n router tl wr841n,Tech Accessories,,,catalogue-images/TP-Link 300Mbps Wireless N Router TL-WR841N.jpg,IN_CATALOGUE
+110,Tri-Fold Handheld Fan,tri fold handheld fan,Tech Accessories,,,catalogue-images/Tri-Fold Handheld Fan.jpg,IN_CATALOGUE
+111,XO Astronaut Star Projector,xo astronaut star projector,Tech Accessories,,,catalogue-images/XO Astronaut Star Projector.jpg,IN_CATALOGUE
+112,Xiaomi Redmi Note 13 Pro 5G,xiaomi redmi note 13 pro 5g,Tech Accessories,,,catalogue-images/Xiaomi Redmi Note 13 Pro 5G.webp,IN_CATALOGUE
+113,Yesido 50m Waterproof Smart Ring,yesido 50m waterproof smart ring,Tech Accessories,,,catalogue-images/Yesido 50m Waterproof Smart Ring.jpg,IN_CATALOGUE
+114,Yesido CA186 240W Dual Type-C Cable 2m,yesido ca186 240w dual type c cable 2m,Tech Accessories,,,catalogue-images/Yesido CA186 240W Dual Type-C Cable 2m.jpg,IN_CATALOGUE
+115,Yesido CA206 Ultra-Thin Flat Braided Cable,yesido ca206 ultra thin flat braided cable,Tech Accessories,,,catalogue-images/Yesido CA206 Ultra-Thin Flat Braided Cable.jpg,IN_CATALOGUE
+116,Yesido CA208 Stand Data Cable 27W,yesido ca208 stand data cable 27w,Tech Accessories,,,catalogue-images/Yesido CA208 Stand Data Cable 27W.jpg,IN_CATALOGUE
+117,Yesido CAI58 100W Digital Display Cable,yesido cai58 100w digital display cable,Tech Accessories,,,catalogue-images/Yesido CAI58 100W Digital Display Cable.jpg,IN_CATALOGUE
+118,Yesido GaN 140W Desktop Fast Charger,yesido gan 140w desktop fast charger,Tech Accessories,,,catalogue-images/Yesido GaN 140W Desktop Fast Charger.jpg,IN_CATALOGUE
+119,Yesido GaN 65W Charger YC84,yesido gan 65w charger yc84,Tech Accessories,,,catalogue-images/Yesido GaN 65W Charger YC84.jpg,IN_CATALOGUE
+120,Yesido Universal Travel Adapter MC09,yesido universal travel adapter mc09,Tech Accessories,,,catalogue-images/Yesido Universal Travel Adapter MC09.jpg,IN_CATALOGUE
+121,asus 10th gen,asus 10th gen,Tech Accessories,,CORE i7 (10th GEN) | RAM 8GB | SSD 512GB,catalogue-images/asus 10th gen.jpg,IN_CATALOGUE
+122,Borofone Bike Phone Mount,borofone bike phone mount,Protection & Cases,,,catalogue-images/Borofone Bike Phone Mount.jpg,IN_CATALOGUE
+123,Yesido Vacuum Lock Electric Car Phone Mount,yesido vacuum lock electric car phone mount,Protection & Cases,,,catalogue-images/Yesido Vacuum Lock Electric Car Phone Mount.jpg,IN_CATALOGUE
