@@ -1547,6 +1547,33 @@ p, .section-header p, body {
     line-height: 1.45;
     flex-grow: 1;
 }
+.flavour-label {
+    display: block;
+    font-size: 0.72rem;
+    font-weight: 800;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: #f87171;
+    margin-bottom: 8px;
+}
+.flavour-chip-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+}
+.flavor-chip-inline {
+    margin: 0;
+    padding: 4px 10px;
+    font-size: 0.72rem;
+    color: #e2e8f0;
+}
+.flavor-chip-more {
+    margin: 0;
+    padding: 4px 10px;
+    font-size: 0.72rem;
+    color: #f87171;
+    border-color: rgba(225, 29, 42, 0.5);
+}
 .btn-call-shop {
     width: 100%;
     padding: 11px 14px;

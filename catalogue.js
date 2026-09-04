@@ -10,14 +10,30 @@
         }).join('/');
     }
 
+    function escapeHtml(value) {
+        return String(value)
+            .replace(/&/g, '&amp;')
+            .replace(/</g, '&lt;')
+            .replace(/>/g, '&gt;')
+            .replace(/"/g, '&quot;');
+    }
+
     function buildProductSummary(product) {
         if (product.flavors && product.flavors.length) {
-            return 'Available Flavors: ' + product.flavors.slice(0, 3).join(', ');
+            var shown = product.flavors.slice(0, 8);
+            var extra = product.flavors.length - shown.length;
+            var chips = shown.map(function (flavor) {
+                return '<span class="flavor-chip-tag flavor-chip-inline">' + escapeHtml(flavor) + '</span>';
+            }).join('');
+            if (extra > 0) {
+                chips += '<span class="flavor-chip-tag flavor-chip-more">+' + extra + ' more</span>';
+            }
+            return '<span class="flavour-label">Available flavours</span><div class="flavour-chip-row">' + chips + '</div>';
         }
         if (product.variants && product.variants.length) {
-            return product.variants.slice(0, 3).join(' • ');
+            return escapeHtml(product.variants.slice(0, 3).join(' • '));
         }
-        return 'Call store for price & stock at 128 King St, London W6 0QU';
+        return 'Call store for price &amp; stock at 128 King St, London W6 0QU';
     }
 
     function buildActionHtml(product, index) {
@@ -33,8 +49,15 @@
         var q = (query || '').toLowerCase().trim();
         return productsData.filter(function (product) {
             var catMatch = currentCategory === 'All Products' || product.category === currentCategory;
-            var nameMatch = !q || (product.name || '').toLowerCase().indexOf(q) !== -1;
-            return catMatch && nameMatch;
+            if (!q) return catMatch;
+            var nameMatch = (product.name || '').toLowerCase().indexOf(q) !== -1;
+            var flavorMatch = (product.flavors || []).some(function (flavor) {
+                return String(flavor).toLowerCase().indexOf(q) !== -1;
+            });
+            var variantMatch = (product.variants || []).some(function (variant) {
+                return String(variant).toLowerCase().indexOf(q) !== -1;
+            });
+            return catMatch && (nameMatch || flavorMatch || variantMatch);
         });
     }
 
@@ -108,8 +131,8 @@
                     '<img data-src="' + encodeImagePath(product.image) + '" alt="' + product.name.replace(/"/g, '&quot;') + '" width="400" height="400" loading="lazy" decoding="async">' +
                 '</div>' +
                 '<div class="catalogue-card-content">' +
-                    '<h3>' + product.name + '</h3>' +
-                    '<p class="product-summary-text">' + buildProductSummary(product) + '</p>' +
+                    '<h3>' + escapeHtml(product.name) + '</h3>' +
+                    '<div class="product-summary-text">' + buildProductSummary(product) + '</div>' +
                     buildActionHtml(product, index) +
                     '<span class="in-stock-badge">In stock</span>' +
                 '</div>';
