@@ -1,0 +1,86 @@
+Verdict
+-------
+This is a good stock audit. It is not ready to load onto the site as 400+ cards.
+
+Gemini did the hard part: it read the shelves. You now need a merge pass
+before downloading images. Do not download one image per CSV row.
+
+What is strong
+--------------
+- Vape KITS and REFILL PACKS are mostly correct: one row per range, flavours
+  in one cell. Vuse Pro Pods, Lost Mary BM6000, SKE Bar 15K, Hayati Pro Max
+  Plus, IVG Pro refills are exactly the format we want.
+- Phones / laptops / Caliburn / Xros / Smok kits are correctly one row per model.
+- image_filename is consistent kebab-case. Keep those names when you save files.
+- Categories are mostly right.
+
+The one mistake to fix first
+----------------------------
+Batches 16 + 38 to 43 exploded nic salts into ONE CARD PER FLAVOUR.
+
+Collapse these before you download anything:
+
+  Ramillion * Nic Salts          -> 1 card   ramillion-nic-salts-e-liquids.webp
+  Elux Legend * Nic Salts        -> 1 card   elux-legend-nic-salts-e-liquids.webp
+  Pod Salt Core *                -> 1 card   pod-salt-core-nicotine-salts-e-liquids.webp
+  Pod Salt Origin *              -> 1 card   pod-salt-origin-nicotine-salts-e-liquids.webp
+  Pod Salt Nexus *               -> 1 card   pod-salt-nexus-nicotine-salts-e-liquids.webp
+  Pod Salt (Marshmallow / Pacha / Evil Cloud / Yogi) -> keep as extra Pod Salt lines
+                                                   or fold into Core if you prefer fewer cards
+  Bar Juice 5000                 -> already on the site, SKIP
+  Elfliq by Elf Bar              -> 1 card   elfliq-by-elf-bar-nic-salts-e-liquids.webp
+  SKE Crystal Nic Salts          -> 1 card (already grouped in batch 17)
+  FireRose 5000                  -> 1 card   firerose-5000-nic-salts-e-liquids.webp
+
+Same for any other brand where every flavour got its own row.
+
+Duplicates across batches (merge flavours, keep one filename)
+-------------------------------------------------------------
+  vuse-reload-device-kit.webp          batches 01 + 02
+  vuse-pro-pods-refills.webp           batches 01 + 02
+  ske-crystal-plus-pods-refills.webp   batches 02 + 06
+  pod-salt-core-nicotine-salts-e-liquids.webp  batch 16 grouped + 42/43 split
+
+Already on the live catalogue (SKIP image, optional extra flavours only)
+------------------------------------------------------------------------
+  iPhone 17 Pro Max, 16, 15, 15 Plus, 14, 14 Pro Max, 13, 12, 12 Mini,
+  11, XR, 8, SE
+  Samsung Galaxy S23 Ultra, Tab A11
+  Amazon Fire 7, iPad 9th Gen
+  Lost Mary BM6000 (merge new flavours into the existing card)
+  Lost Mary NERA 15K
+  Lost Mary 30K / Nera 30K (treat as the existing Lost Mary 30K unless
+    you are sure Nera Fullview is a different device)
+  Hayati Pro Ultra Plus 25000  = existing Hayati Pro Ultra+ 25K
+  IVG 2400 4 in 1
+  IVG Pro 10K / IVG Pro 12 10K (same line unless the box says otherwise)
+  IVG Pro refill pods          = existing IVG Pro Pod 10K
+  Bar Juice 5000
+  Maryliq
+
+Download a new pack shot only if the live photo is wrong. Otherwise SKIP.
+
+Missing
+-------
+  Batch 37 = NA
+  Batch 44 = empty
+  No Velo row (already on the site, fine)
+
+Do not put on the public catalogue without a deliberate choice
+--------------------------------------------------------------
+  XL Gold Poppers Room Odoriser
+  OCB / RAW rolling papers, pipe screens
+  Vitality CBD / Elegant CBD
+
+  Cables, cases, chargers, phones, vapes: keep.
+
+How many images to actually grab
+--------------------------------
+After collapsing salts and skipping what is already live, you should be
+downloading one file per remaining unique image_filename — not 400.
+
+Name the file exactly as image_filename. One pack shot per line.
+
+Then send me:
+  1. one merged master.csv (after the collapse + SKIP flags)
+  2. the new-images folder
