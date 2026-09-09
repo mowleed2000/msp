@@ -51,24 +51,18 @@ Match on name, loosely:
 Anything SKIP does not need a new image.
 Anything ADD needs exactly one image.
 
-Step 5 — Grab only the missing images
--------------------------------------
-Save each ADD pack shot into new-images/ using the name you searched for.
-Spaces and capitals are fine. Keep the real file extension (.png / .jpg / .webp).
+Step 5 — Download only the images you want on the site
+-----------------------------------------------------
+Gemini (or any list) can tell you what to grab and what to save the file as.
+Either naming style is fine, as long as the file on disk matches image_filename:
 
+  ven-dens-10d-full-glue-tempered-glass-screen-protector.webp
   Kingston DataTraveler 70 USB C flash drive 128GB blister transparent.png
-  Velo Nicotine Pouches.png
-  Lost Mary 30K.jpg
 
-Then paste that exact filename into the CSV image_filename column.
-The site already uses names like "iPhone 17 Pro Max 256GB.jpg". You do not
-need kebab-case (velo-nicotine-pouches.webp).
-
-If the download already has a long Google name, leave it. Copy that name
-into image_filename. Do not spend time renaming.
-
-Avoid these characters in the filename: / \ : * ? " < > |
-Do not type the word png/jpg at the end — use a real extension: .png
+Put every downloaded file into one folder (new-images/).
+You do not have to download every row Gemini listed.
+Similar protective cases, cable lengths, flavour SKUs: grab ONE and skip the rest.
+That missing file is how you skip them — no need to edit those rows out of the CSV.
 
 Rules for the photo:
   - Front of the box / device, as square as you can
@@ -78,14 +72,23 @@ Rules for the photo:
 
 Use manufacturer pack shots or a cropped photo you took. Not Google Images.
 
-Step 6 — Send it to me
-----------------------
+Step 6 — Send the CSV plus the image folder
+-------------------------------------------
 Attach in one follow-up:
-  1. master.csv  (columns from new-products-template.csv)
-  2. the new-images folder (only ADD products)
+  1. the final CSV (Gemini list / master.csv)
+  2. the folder of images you actually saved
 
-I will map each filename onto the catalogue, put flavours on the cards,
-and leave SKIP products as they are unless you marked extra flavours.
+How I will load it
+------------------
+I match each CSV row to a file by image_filename (exact filename).
+
+  CSV row + matching image in the folder  ->  add that product
+  CSV row with no matching image          ->  skip, no card
+  Extra files with no CSV row             ->  skip
+  Name already live on the site           ->  skip (no duplicate card)
+
+You decide what to skip by what you download. Five similar cases in the CSV
+and one saved image = one case card. The other four rows are ignored.
 
 Categories to use
 -----------------
