@@ -11,7 +11,7 @@ What is strong
   in one cell. Vuse Pro Pods, Lost Mary BM6000, SKE Bar 15K, Hayati Pro Max
   Plus, IVG Pro refills are exactly the format we want.
 - Phones / laptops / Caliburn / Xros / Smok kits are correctly one row per model.
-- image_filename is consistent kebab-case. Keep those names when you save files.
+- Save images as the product name you searched for (spaces are fine). Paste that exact filename into image_filename.
 - Categories are mostly right.
 
 The one mistake to fix first
@@ -20,26 +20,26 @@ Batches 16 + 38 to 43 exploded nic salts into ONE CARD PER FLAVOUR.
 
 Collapse these before you download anything:
 
-  Ramillion * Nic Salts          -> 1 card   ramillion-nic-salts-e-liquids.webp
-  Elux Legend * Nic Salts        -> 1 card   elux-legend-nic-salts-e-liquids.webp
-  Pod Salt Core *                -> 1 card   pod-salt-core-nicotine-salts-e-liquids.webp
-  Pod Salt Origin *              -> 1 card   pod-salt-origin-nicotine-salts-e-liquids.webp
-  Pod Salt Nexus *               -> 1 card   pod-salt-nexus-nicotine-salts-e-liquids.webp
+  Ramillion * Nic Salts          -> 1 card   Ramillion nic salts.png
+  Elux Legend * Nic Salts        -> 1 card   Elux Legend nic salts.png
+  Pod Salt Core *                -> 1 card   Pod Salt Core nicotine salts.png
+  Pod Salt Origin *              -> 1 card   Pod Salt Origin nicotine salts.png
+  Pod Salt Nexus *               -> 1 card   Pod Salt Nexus nicotine salts.png
   Pod Salt (Marshmallow / Pacha / Evil Cloud / Yogi) -> keep as extra Pod Salt lines
                                                    or fold into Core if you prefer fewer cards
   Bar Juice 5000                 -> already on the site, SKIP
-  Elfliq by Elf Bar              -> 1 card   elfliq-by-elf-bar-nic-salts-e-liquids.webp
+  Elfliq by Elf Bar              -> 1 card   Elfliq by Elf Bar nic salts.png
   SKE Crystal Nic Salts          -> 1 card (already grouped in batch 17)
-  FireRose 5000                  -> 1 card   firerose-5000-nic-salts-e-liquids.webp
+  FireRose 5000                  -> 1 card   Firerose 5000 nic salts.png
 
 Same for any other brand where every flavour got its own row.
 
 Duplicates across batches (merge flavours, keep one filename)
 -------------------------------------------------------------
-  vuse-reload-device-kit.webp          batches 01 + 02
-  vuse-pro-pods-refills.webp           batches 01 + 02
-  ske-crystal-plus-pods-refills.webp   batches 02 + 06
-  pod-salt-core-nicotine-salts-e-liquids.webp  batch 16 grouped + 42/43 split
+  Vuse Reload device kit.png           batches 01 + 02
+  Vuse Pro pods refills.png            batches 01 + 02
+  SKE Crystal Plus pods refills.png    batches 02 + 06
+  Pod Salt Core nicotine salts.png     batch 16 grouped + 42/43 split
 
 Already on the live catalogue (SKIP image, optional extra flavours only)
 ------------------------------------------------------------------------
@@ -77,9 +77,11 @@ Do not put on the public catalogue without a deliberate choice
 How many images to actually grab
 --------------------------------
 After collapsing salts and skipping what is already live, you should be
-downloading one file per remaining unique image_filename — not 400.
+downloading one file per remaining unique product line — not 400.
 
-Name the file exactly as image_filename. One pack shot per line.
+Save the file as the product name you searched for (spaces are fine).
+Paste that exact filename, including .png / .jpg / .webp, into image_filename.
+One pack shot per line. You do not need kebab-case.
 
 Then send me:
   1. one merged master.csv (after the collapse + SKIP flags)

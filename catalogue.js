@@ -5,8 +5,10 @@
     var imageObserver = null;
 
     function encodeImagePath(path) {
-        return path.split('/').map(function (part, i) {
-            return i === 0 ? part : encodeURIComponent(part);
+        if (!path) return path;
+        if (/^https?:\/\//i.test(path)) return path;
+        return path.split('/').map(function (part) {
+            return encodeURIComponent(part);
         }).join('/');
     }
 

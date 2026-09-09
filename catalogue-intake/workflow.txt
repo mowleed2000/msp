@@ -53,12 +53,22 @@ Anything ADD needs exactly one image.
 
 Step 5 — Grab only the missing images
 -------------------------------------
-For each ADD row, save ONE clean pack shot into new-images/
-named exactly as image_filename in the CSV:
+Save each ADD pack shot into new-images/ using the name you searched for.
+Spaces and capitals are fine. Keep the real file extension (.png / .jpg / .webp).
 
-  velo-nicotine-pouches.webp
-  lost-mary-30k.webp
-  iphone-15.webp
+  Kingston DataTraveler 70 USB C flash drive 128GB blister transparent.png
+  Velo Nicotine Pouches.png
+  Lost Mary 30K.jpg
+
+Then paste that exact filename into the CSV image_filename column.
+The site already uses names like "iPhone 17 Pro Max 256GB.jpg". You do not
+need kebab-case (velo-nicotine-pouches.webp).
+
+If the download already has a long Google name, leave it. Copy that name
+into image_filename. Do not spend time renaming.
+
+Avoid these characters in the filename: / \ : * ? " < > |
+Do not type the word png/jpg at the end — use a real extension: .png
 
 Rules for the photo:
   - Front of the box / device, as square as you can

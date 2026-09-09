@@ -1,8 +1,22 @@
-Tonight keep list — about 90 pack shots
+Tonight keep list — 85 pack shots
 =======================================
 Existing 123 cards stay. You are adding the gaps people search for
 and the boxes on the priced displays. You are not photographing
 every cable length and every iMaxx case.
+
+How to name the files
+---------------------
+Save each image as the product name you searched for.
+Spaces and capitals are fine. Keep the real extension (.png / .jpg / .webp).
+
+  Kingston DataTraveler 70 USB C flash drive 128GB blister transparent.png
+
+If the download already has that name, leave it. Paste the exact filename
+into the CSV image_filename column. You do not need kebab-case
+(kingston-datatraveler-70.webp).
+
+Do not type the word png at the end — use .png
+Avoid these characters: / \ : * ? " < > |
 
 How to collapse (so it still feels fully stocked)
 -------------------------------------------------
@@ -12,120 +26,119 @@ How to collapse (so it still feels fully stocked)
 - Cables/chargers from AZ/Budi/Earldom/NCC: skip. Apple and Samsung official stay.
 - Old Vodafone / Note 3 / iPad 2 / 15 car mounts / mice / ring lights / Koleer speakers: skip.
 
-Save each file with this exact name.
+Search / save-as names below. Add .png .jpg or .webp when you save.
 
 
-VAPE KITS AND PODS (24)
+VAPE KITS AND PODS (23)
 -----------------------
-vuse-reload-device-kit.webp
-vuse-pro-device-kit.webp
-vuse-pro-pods-refills.webp
-vuse-ultra-smart-device-kit.webp
-juul2-starter-kit.webp
-juul2-pods-refills.webp
-ske-crystal-plus-pods-refills.webp
-ske-bar-15k-pod-kit.webp
-ske-crystal-cl6000-pods-refills.webp
-elf-bar-elfa-pro-pods-refills.webp
-elf-bar-600-prefilled-pod-kit.webp
-elf-bar-joinone-15-classic-pod-kit.webp
-elf-bar-plus-50-refillable-pod-kit.webp
-elf-bar-elfx-pro-pod-kit.webp
-lost-mary-nera-refill-pack.webp
-lost-mary-bm600-prefilled-pod-kit.webp
-hawcos-lost-mary-crystal-pro-prefilled-pods-refills.webp
-dojo-blast-2000-pod-kit.webp
-hayati-pro-max-plus-6000-pod-kit.webp
-hayati-pro-max-plus-pods-refills.webp
-voopoo-argus-bar-neon-2k-pod-kit.webp
-mevol-bar-14k-pod-kit.webp
-innokin-endura-t18e-starter-kit.webp
-dojo-blast-2000-pod-kit.webp
+Vuse Reload device kit
+Vuse Pro device kit
+Vuse Pro pods refills
+Vuse Ultra Smart device kit
+JUUL2 starter kit
+JUUL2 pods refills
+SKE Crystal Plus pods refills
+SKE Bar 15K pod kit
+SKE Crystal CL6000 pods refills
+Elf Bar Elfa Pro pods refills
+Elf Bar 600 prefilled pod kit
+Elf Bar JoinOne 15 Classic pod kit
+Elf Bar Plus 50 refillable pod kit
+Elf Bar ELFX Pro pod kit
+Lost Mary NERA refill pack
+Lost Mary BM600 prefilled pod kit
+Hawcos Lost Mary Crystal Pro prefilled pods
+Dojo Blast 2000 pod kit
+Hayati Pro Max Plus 6000 pod kit
+Hayati Pro Max Plus pods refills
+VOOPOO Argus Bar Neon 2K pod kit
+Mevol Bar 14K pod kit
+Innokin Endura T18E starter kit
 
 REFILLABLE FAMILIES — one photo each, list models in variants (6)
 -----------------------------------------------------------------
-uwell-caliburn-gk2-pod-kit.webp
+Uwell Caliburn GK2 pod kit
   variants: GK2 | AK3 | A2S | G2 | X | Explorer | Tenet Koko in store
-vaporesso-xros-5-pod-kit.webp
+Vaporesso Xros 5 pod kit
   variants: Xros 3 Mini | 3 Nano | 4 | 4 Nano | 5 | 5 Mini | Pro | Pro 2 | Cube
-vaporesso-luxe-x3-pod-kit.webp
+Vaporesso Luxe X3 pod kit
   variants: Luxe X3 | Luxe Q | Eco Nano | Vibe SE
-smok-nord-4-pod-kit.webp
+SMOK Nord 4 pod kit
   variants: Nord 4 | Nord Pro | Nord C | Novo 2 | Novo Classy | RPM 5 | Nfix Pro
-oxva-xlim-pro-pod-kit.webp
+OXVA Xlim Pro pod kit
   variants: Xlim Pro | Xlim SE | Xlim SQ Pro
-voopoo-argus-pod-kit.webp
+VOOPOO Argus pod kit
   variants: Argus | Argus P1 | Drag S | Drag X
 
 
 SHORTFILLS AND SALTS (18)
 -------------------------
-jb-juice-bar-50-50-100ml-e-liquids.webp
-vampire-vape-100ml-shortfill-e-liquids.webp
-dinner-lady-50ml-shortfill-e-liquids.webp
-nasty-juice-50ml-shortfill-e-liquids.webp
-yeti-100ml-shortfill-e-liquids.webp
-donut-king-100ml-shortfill-e-liquids.webp
+JB Juice Bar 50 50 100ml e-liquids
+Vampire Vape 100ml shortfill e-liquids
+Dinner Lady 50ml shortfill e-liquids
+Nasty Juice 50ml shortfill e-liquids
+Yeti 100ml shortfill e-liquids
+Donut King 100ml shortfill e-liquids
   flavours/variants: DK Cooler | DK Cakes | DK Fruits
-riot-squad-punx-50ml-shortfill-e-liquids.webp
+Riot Squad Punx 50ml shortfill e-liquids
   variants: Punx | Black Edition
-ohm-brew-badass-blends-50ml-shortfill-e-liquids.webp
-strapped-sourz-100ml-e-liquids.webp
-tasty-fruity-120ml-shortfill-e-liquids.webp
-ramillion-nic-salts-e-liquids.webp
-elux-legend-nic-salts-e-liquids.webp
-pod-salt-core-nicotine-salts-e-liquids.webp
-pod-salt-origin-nicotine-salts-e-liquids.webp
-pod-salt-nexus-nicotine-salts-e-liquids.webp
-ske-crystal-nicotine-salts-e-liquids.webp
-elf-bar-elfliq-nicotine-salts-e-liquids.webp
-lost-mary-5mg-nicotine-salts-e-liquids.webp
-nic-drip-nicotine-salts-e-liquids.webp
-firerose-5000-nic-salts-e-liquids.webp
+Ohm Brew Badass Blends 50ml shortfill e-liquids
+Strapped Sourz 100ml e-liquids
+Tasty Fruity 120ml shortfill e-liquids
+Ramillion nic salts e-liquids
+Elux Legend nic salts e-liquids
+Pod Salt Core nicotine salts
+Pod Salt Origin nicotine salts
+Pod Salt Nexus nicotine salts
+SKE Crystal nicotine salts
+Elf Bar Elfliq nicotine salts
+Lost Mary 5mg nicotine salts
+Nic Drip nicotine salts
+Firerose 5000 nic salts
 
 
 PHONES AND TABLETS ON THE DISPLAY (22)
 --------------------------------------
-apple-iphone-16-pro.webp
-apple-iphone-13-mini.webp
-apple-iphone-x.webp
-apple-iphone-xs.webp
-apple-iphone-xs-max.webp
-apple-iphone-8-plus.webp
-samsung-galaxy-s21-fe-5g.webp
-samsung-galaxy-a14.webp
-samsung-galaxy-a15.webp
-samsung-galaxy-a16-5g.webp
-samsung-galaxy-a17-5g.webp
-samsung-galaxy-a26-5g.webp
-samsung-galaxy-a34-5g.webp
-samsung-galaxy-a36-5g.webp
-samsung-galaxy-a52s-5g.webp
-samsung-galaxy-a55-5g.webp
-samsung-galaxy-a56-5g.webp
-samsung-galaxy-a05s.webp
-samsung-galaxy-a07.webp
-doro-1380.webp
-samsung-galaxy-tab-s7-fe-5g.webp
-apple-macbook-air-13-6-m2.webp
+Apple iPhone 16 Pro
+Apple iPhone 13 Mini
+Apple iPhone X
+Apple iPhone XS
+Apple iPhone XS Max
+Apple iPhone 8 Plus
+Samsung Galaxy S21 FE 5G
+Samsung Galaxy A14
+Samsung Galaxy A15
+Samsung Galaxy A16 5G
+Samsung Galaxy A17 5G
+Samsung Galaxy A26 5G
+Samsung Galaxy A34 5G
+Samsung Galaxy A36 5G
+Samsung Galaxy A52s 5G
+Samsung Galaxy A55 5G
+Samsung Galaxy A56 5G
+Samsung Galaxy A05s
+Samsung Galaxy A07
+Doro 1380
+Samsung Galaxy Tab S7 FE 5G
+Apple MacBook Air 13.6 M2
 
 
 APPLE / SAMSUNG / AUDIO HE WILL NOTICE (12)
 -------------------------------------------
-apple-20w-usb-c-power-adapter.webp
-apple-35w-dual-usb-c-port-compact-power-adapter.webp
-apple-earpods-with-lightning-connector.webp
-apple-usb-to-lightning-cable-1m.webp
-apple-watch-magnetic-fast-charger-to-usb-c-cable.webp
-samsung-25w-pd-power-adapter.webp
-samsung-45w-pd-power-adapter-with-cable.webp
-samsung-galaxy-buds-3-pro.webp
-jbl-tune-130nc-tws-earbuds.webp
-jbl-buds-j-pro-true-wireless-sport.webp
-bose-ultra-open-earbuds.webp
-imaxx-magsafe-anti-shock-clear-case-for-iphone.webp
+Apple 20W USB-C power adapter
+Apple 35W Dual USB-C Port Compact power adapter
+Apple EarPods with Lightning connector
+Apple USB to Lightning cable 1m
+Apple Watch magnetic fast charger to USB-C cable
+Samsung 25W PD power adapter
+Samsung 45W PD power adapter with cable
+Samsung Galaxy Buds 3 Pro
+JBL Tune 130NC TWS earbuds
+JBL Buds J Pro true wireless sport
+Bose Ultra Open earbuds
+iMaxx MagSafe anti-shock clear case for iPhone
   variants: iPhone 14 / 15 / 16 cases in store — call for model
-king-kong-armor-shockproof-case-for-galaxy-a35-5g.webp
+King Kong Armor shockproof case for Galaxy A35 5G
   variants: Samsung A-series and S24 Ultra cases in store
 
 
@@ -143,9 +156,9 @@ every Ramillion/Elux flavour as its own file.
 
 If you finish early, next extras (not required tonight)
 -------------------------------------------------------
-geekvape-max100-kit.webp
-lost-vape-thelema-elite-40-pod-kit.webp
-apple-iphone-7.webp
-huawei-p30-lite.webp
-10000mah-magnetic-wireless-power-bank.webp
-15w-magnetic-wireless-car-charger.webp
+Geekvape Max100 kit
+Lost Vape Thelema Elite 40 pod kit
+Apple iPhone 7
+Huawei P30 Lite
+10000mAh magnetic wireless power bank
+15W magnetic wireless car charger

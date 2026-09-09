@@ -38,12 +38,12 @@ Field meanings:
 - name = clean retail name, e.g. Velo Nicotine Pouches or Lost Mary 30K or iPhone 15
 - flavours = Cherry | Blueberry | Peppermint  (pipe-separated). Empty if not a vape/liquid/pouch
 - variants = visible specs only, e.g. 128GB | Unlocked or 25,000 puffs. Empty if none
-- image_filename = lowercase kebab-case, one file per product line, e.g. velo-nicotine-pouches.webp
+- image_filename = the exact file name you will save, including extension. Spaces and capitals are fine. One file per product line, e.g. Velo Nicotine Pouches.png or Kingston DataTraveler 70 USB C flash drive 128GB blister transparent.png
 - action = NEW
 - notes = anything uncertain
 
 Example row:
-01,IMG_0001.jpg,Velo Nicotine Pouches,Nicotine Pouches,Cherry | Blueberry | Peppermint | Spearmint | Mango | Watermelon | Berry,All strengths in store,velo-nicotine-pouches.webp,NEW,7 flavours readable on cans
+01,IMG_0001.jpg,Velo Nicotine Pouches,Nicotine Pouches,Cherry | Blueberry | Peppermint | Spearmint | Mango | Watermelon | Berry,All strengths in store,Velo Nicotine Pouches.png,NEW,7 flavours readable on cans
 
 After the CSV print:
 UNIQUE_COUNT: N
