@@ -1,0 +1,31 @@
+First 16 pack shots — grouped as product LINES, not flavours
+============================================================
+The flavour printed on the pack is ignored for the card title.
+When the CSV arrives, all matching flavour rows become chips
+on that one card.
+
+NEW ranges (will add when CSV flavours/variants are in)
+-------------------------------------------------------
+Pod Salt Cali Greens          10ml nic salts
+Pod Salt Reds Apple           10ml nic salts
+Pod Salt The Big Tasty        10ml nic salts
+ELFLIQ nic salts              Elf Bar 10ml (Grape on the pack)
+Zen coconut charcoal cubes    box + loose cubes = ONE card (use the box)
+IQOS device                   heat-not-burn kit
+Nokia feature phone           candy-bar Nokia (not the live Nokia G21)
+Ven-Dens privacy glass        pack shot; iPhone models in variants
+Ven-Dens installation kit     Magic Box auto-alignment kit (separate card)
+SanDisk Nintendo Switch microSD   64GB Yoshi card; other sizes in variants
+SanDisk Extreme microSD       32GB on pack; other sizes in variants
+Kingston DataTraveler 70      USB-C 128GB; other sizes in variants
+
+Already live — do not add a second card
+---------------------------------------
+Bar Juice 5000                already on the site as Bar Juice 5000 E-Liquids
+Lost Mary BM6000              already on the site as Lost Mary BM6000 / 6K Pods
+Privacy tempered glass shot   already a Privacy Tempered Glass card
+                              (the Ven-Dens privacy pack can replace/update
+                              that live card, or stay as Ven-Dens branded)
+
+Keep sending more images the same way. Send the CSV when you have it.
+Do not rename files to strip the flavour. I will group them.
