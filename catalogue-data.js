@@ -350,7 +350,7 @@ const productsData = [
   },
   {
     "name": "Hopestar P61 Portable Mini Speaker",
-    "category": "Tablets",
+    "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
@@ -409,7 +409,7 @@ const productsData = [
   },
   {
     "name": "Yesido GaN 67W Retractable Charger YC146",
-    "category": "Tablets",
+    "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
@@ -427,14 +427,14 @@ const productsData = [
     "action_link": "tel:+442080011639",
     "image": "catalogue-images/ASUS VivoBook Core i5.webp",
     "variants": [
-      "INTEL PENTIUM",
+      "Intel Pentium",
       "4GB RAM",
       "128GB SSD"
     ],
     "flavors": []
   },
   {
-    "name": "Apple MacBook Air 13 Inch",
+    "name": "Apple MacBook Air 13-inch",
     "category": "Laptops",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -450,7 +450,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Apple MacBook Pro 13\"",
+    "name": "Apple MacBook Pro 13-inch",
     "category": "Laptops",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -465,7 +465,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Apple MacBook Pro 16 Inch",
+    "name": "Apple MacBook Pro 16-inch",
     "category": "Laptops",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -473,15 +473,15 @@ const productsData = [
     "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple MacBook Pro 16 Inch.webp",
     "variants": [
-      "CORE i7",
+      "Core i7",
       "RAM 32GB",
       "SSD 512GB",
-      "YEAR 2020"
+      "2020"
     ],
     "flavors": []
   },
   {
-    "name": "DELL Dell Laptop",
+    "name": "Dell Laptop",
     "category": "Laptops",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -492,7 +492,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "DELL Latitude 5530",
+    "name": "Dell Latitude 5530",
     "category": "Laptops",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -500,7 +500,7 @@ const productsData = [
     "action_link": "tel:+442080011639",
     "image": "catalogue-images/Dell Latitude 3400.jpg",
     "variants": [
-      "Xth Gen Processor (partial)",
+      "Intel processor",
       "256GB SSD"
     ],
     "flavors": []
@@ -514,7 +514,7 @@ const productsData = [
     "action_link": "tel:+442080011639",
     "image": "catalogue-images/Dell G5 15 Gaming Laptop.jpg",
     "variants": [
-      "NVIDIA GeForce RT (model number mostly obscured)",
+      "NVIDIA GeForce RTX",
       "Intel Core i7 (10th Gen)",
       "16GB RAM",
       "512GB SSD"
@@ -530,7 +530,7 @@ const productsData = [
     "action_link": "tel:+442080011639",
     "image": "catalogue-images/Dell Inspiron 15 3530.jpg",
     "variants": [
-      "CORE i5",
+      "Core i5",
       "16GB RAM",
       "512GB SSD"
     ],
@@ -545,14 +545,14 @@ const productsData = [
     "action_link": "tel:+442080011639",
     "image": "catalogue-images/Dell Latitude 3400.jpg",
     "variants": [
-      "CORE i5 (8TH Gen)",
+      "Core i5 (8th Gen)",
       "8GB RAM",
       "256GB SSD"
     ],
     "flavors": []
   },
   {
-    "name": "HP ELITEBOOK 850 G7",
+    "name": "HP EliteBook 850 G7",
     "category": "Laptops",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -567,7 +567,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "HP PROBOOK 440 G7",
+    "name": "HP ProBook 440 G7",
     "category": "Laptops",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -616,7 +616,7 @@ const productsData = [
     "action_link": "tel:+442080011639",
     "image": "catalogue-images/Lenovo ThinkPad X1.webp",
     "variants": [
-      "CORE i5 (11TH GEN)",
+      "Core i5 (11th Gen)",
       "16GB RAM",
       "256GB SSD"
     ],
@@ -631,14 +631,14 @@ const productsData = [
     "action_link": "tel:+442080011639",
     "image": "catalogue-images/Lenovo ThinkPad X13.webp",
     "variants": [
-      "CORE i5 (11TH GEN)",
+      "Core i5 (11th Gen)",
       "16GB RAM",
       "256GB SSD"
     ],
     "flavors": []
   },
   {
-    "name": "Microsoft Surface Business Laptop",
+    "name": "Microsoft Surface Laptop",
     "category": "Laptops",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -646,15 +646,15 @@ const productsData = [
     "action_link": "tel:+442080011639",
     "image": "catalogue-images/Microsoft Surface Business Laptop.jpg",
     "variants": [
-      "INTEL ULTRA 5",
+      "Intel Ultra 5",
       "16GB RAM",
-      "256GB SSD (associated with display tag)"
+      "256GB SSD"
     ],
     "flavors": []
   },
   {
     "name": "Universal Laptop AC Power Adapters",
-    "category": "Laptops",
+    "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
@@ -664,7 +664,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Nintendo Switch OLED",
+    "name": "Nintendo Switch Oled",
     "category": "Gaming",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -674,17 +674,6 @@ const productsData = [
     "variants": [
       "64GB"
     ],
-    "flavors": []
-  },
-  {
-    "name": "PS5 DualSense Controller",
-    "category": "Gaming",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
-    "image": "catalogue-images/PS5 DualSense Controller.webp",
-    "variants": [],
     "flavors": []
   },
   {
@@ -710,17 +699,44 @@ const productsData = [
       "25,000+ Puffs Capacity, 20mg Nic Salt, Dual Tank Swappable System"
     ],
     "flavors": [
-      "strawberry cherry / raspberry ice",
-      "sour apple / juicy peach",
-      "blue razz pineapple / strawberry ice",
-      "raspberry cola",
-      "blueberry n' bubba / watermelon n' bubba",
-      "lemon & lime / summer dream",
+      "Strawberry Cherry / Raspberry Ice",
+      "Sour Apple / Juicy Peach",
+      "Blue Razz Pineapple / Strawberry Ice",
+      "Raspberry Cola",
+      "Blueberry n' Bubba / Watermelon n' Bubba",
+      "Lemon & Lime / Summer Dream",
       "Blueberry Sour Raspberry",
       "Watermelon Ice",
       "Lemon & Lime",
       "Strawberry Ice",
-      "Fresh Mint"
+      "Fresh Mint",
+      "Blueberry Raspberry",
+      "Blue Razz Cherry",
+      "Blueberry Ice",
+      "Cherry Cola",
+      "Grape Ice",
+      "Lemon Lime",
+      "Mango Ice",
+      "Mixed Berry",
+      "Peach Ice",
+      "Pineapple Ice",
+      "Pink Lemonade",
+      "Raspberry Lemonade",
+      "Sour Apple Ice",
+      "Triple Mango",
+      "Cherry Ice",
+      "Cola Ice",
+      "Grape Raspberry",
+      "Strawberry Kiwi",
+      "Watermelon Lemonade",
+      "Kiwi Passion Fruit Guava",
+      "Peach Mango Pineapple",
+      "Blueberry Fusion",
+      "Cherry Lemonade",
+      "Cotton Candy Ice",
+      "Mango Peach",
+      "Strawberry Raspberry Cherry",
+      "Blueberry Cotton Candy"
     ]
   },
   {
@@ -732,22 +748,49 @@ const productsData = [
     "action_link": "tel:+442080011639",
     "image": "Fast acsess images/alfakher_30k.png",
     "variants": [
-      "30, 000 Puffs Massive Output DTL Sub-Ohm Disposable Mod Line"
+      "30,000 Puffs Massive Output DTL Sub-Ohm Disposable Mod Line"
     ],
     "flavors": [
-      "blueberry sour raspberry",
-      "blueberry gum",
-      "grape",
-      "blackcurrant mint",
-      "peach ice",
-      "cherry ice",
-      "strawberry punch",
-      "menthol",
-      "two apple",
-      "cool mango",
-      "berry blue",
-      "blueberry lemonade",
-      "hubba"
+      "Blueberry Sour Raspberry",
+      "Blueberry Gum",
+      "Grape",
+      "Blackcurrant Mint",
+      "Peach Ice",
+      "Cherry Ice",
+      "Strawberry Punch",
+      "Menthol",
+      "Two Apple",
+      "Cool Mango",
+      "Berry Blue",
+      "Blueberry Lemonade",
+      "Hubba",
+      "Blueberry Raspberry",
+      "Blue Razz Cherry",
+      "Blueberry Ice",
+      "Cherry Cola",
+      "Grape Ice",
+      "Lemon Lime",
+      "Mango Ice",
+      "Mixed Berry",
+      "Pineapple Ice",
+      "Pink Lemonade",
+      "Raspberry Lemonade",
+      "Sour Apple Ice",
+      "Strawberry Ice",
+      "Triple Mango",
+      "Watermelon Ice",
+      "Cola Ice",
+      "Grape Raspberry",
+      "Strawberry Kiwi",
+      "Watermelon Lemonade",
+      "Kiwi Passion Fruit Guava",
+      "Peach Mango Pineapple",
+      "Blueberry Fusion",
+      "Cherry Lemonade",
+      "Cotton Candy Ice",
+      "Mango Peach",
+      "Strawberry Raspberry Cherry",
+      "Blueberry Cotton Candy"
     ]
   },
   {
@@ -759,21 +802,27 @@ const productsData = [
     "action_link": "tel:+442080011639",
     "image": "Fast acsess images/ivg_pro_10k_kit.png",
     "variants": [
-      "10, 000 Puffs High-Volume Intelligent Smart Battery Station"
+      "10,000 Puffs High-Volume Intelligent Smart Battery Station"
     ],
     "flavors": [
-      "strawberry ice",
-      "kiwi passionfruit guava",
-      "sour cherry watermelon",
-      "tobacco",
-      "blue raspberry ice",
-      "blueberry mint",
-      "pineapple ice",
-      "strawberry raspberry cherry",
-      "fresh menthol mojito",
-      "pink lemonade",
-      "blue razz lemonade",
-      "Strawberry Watermelon"
+      "Strawberry Ice",
+      "Kiwi Passionfruit Guava",
+      "Sour Cherry Watermelon",
+      "Tobacco",
+      "Blue Raspberry Ice",
+      "Blueberry Mint",
+      "Pineapple Ice",
+      "Strawberry Raspberry Cherry",
+      "Fresh Menthol Mojito",
+      "Pink Lemonade",
+      "Blue Razz Lemonade",
+      "Strawberry Watermelon",
+      "Cherry Cola",
+      "Watermelon Ice",
+      "Lemon Lime",
+      "Triple Mango",
+      "Grape Ice",
+      "Peach Ice"
     ]
   },
   {
@@ -788,17 +837,40 @@ const productsData = [
       "30,000 Puffs Smart Screen Indicator, Dual-Mesh Adjustable Wattage"
     ],
     "flavors": [
-      "cola",
-      "blackberry raspberry",
-      "watermelon ice",
-      "strawberry blueberry cherry",
-      "pineapple ice",
-      "strawberry kiwi",
-      "triple mango",
-      "blueberry ice",
+      "Cola",
+      "Blackberry Raspberry",
+      "Watermelon Ice",
+      "Strawberry Blueberry Cherry",
+      "Pineapple Ice",
+      "Strawberry Kiwi",
+      "Triple Mango",
+      "Blueberry Ice",
       "Blueberry Sour Raspberry",
       "Cherry Ice",
-      "Miami Mint"
+      "Miami Mint",
+      "Blueberry Raspberry",
+      "Blue Razz Cherry",
+      "Cherry Cola",
+      "Grape Ice",
+      "Lemon Lime",
+      "Mango Ice",
+      "Mixed Berry",
+      "Peach Ice",
+      "Pink Lemonade",
+      "Raspberry Lemonade",
+      "Sour Apple Ice",
+      "Strawberry Ice",
+      "Cola Ice",
+      "Grape Raspberry",
+      "Watermelon Lemonade",
+      "Kiwi Passion Fruit Guava",
+      "Peach Mango Pineapple",
+      "Blueberry Fusion",
+      "Cherry Lemonade",
+      "Cotton Candy Ice",
+      "Mango Peach",
+      "Strawberry Raspberry Cherry",
+      "Blueberry Cotton Candy"
     ]
   },
   {
@@ -813,26 +885,48 @@ const productsData = [
       "6,000 Puffs Rechargeable Device with Click-In E-Liquid Bottle System"
     ],
     "flavors": [
-      "strawberry raspberry cherry ice",
-      "cherry ice",
-      "smooth tobacco",
-      "triple melon",
-      "strawberry watermelon",
-      "pink lemonade",
-      "pineapple ice",
-      "blue razz lemonade",
-      "blueberry",
-      "blueberry sour raspberry",
-      "cola",
-      "strawberry ice",
-      "lemon lime",
-      "fresh mint",
-      "menthol",
-      "miami mint",
-      "triple mango",
-      "watermelon ice",
-      "double apple",
-      "cherry peach lemonade"
+      "Strawberry Raspberry Cherry Ice",
+      "Cherry Ice",
+      "Smooth Tobacco",
+      "Triple Melon",
+      "Strawberry Watermelon",
+      "Pink Lemonade",
+      "Pineapple Ice",
+      "Blue Razz Lemonade",
+      "Blueberry",
+      "Blueberry Sour Raspberry",
+      "Cola",
+      "Strawberry Ice",
+      "Lemon Lime",
+      "Fresh Mint",
+      "Menthol",
+      "Miami Mint",
+      "Triple Mango",
+      "Watermelon Ice",
+      "Double Apple",
+      "Cherry Peach Lemonade",
+      "Blueberry Raspberry",
+      "Blue Razz Cherry",
+      "Blueberry Ice",
+      "Cherry Cola",
+      "Grape Ice",
+      "Mango Ice",
+      "Mixed Berry",
+      "Peach Ice",
+      "Raspberry Lemonade",
+      "Sour Apple Ice",
+      "Cola Ice",
+      "Grape Raspberry",
+      "Strawberry Kiwi",
+      "Watermelon Lemonade",
+      "Kiwi Passion Fruit Guava",
+      "Peach Mango Pineapple",
+      "Blueberry Fusion",
+      "Cherry Lemonade",
+      "Cotton Candy Ice",
+      "Mango Peach",
+      "Strawberry Raspberry Cherry",
+      "Blueberry Cotton Candy"
     ]
   },
   {
@@ -847,14 +941,40 @@ const productsData = [
       "Up to 4000 Puffs Disposable Vape, 1400mAh Battery, Prefilled Mesh Coil, TPD Compliant"
     ],
     "flavors": [
-      "blue razz gummy bear",
-      "summer dream",
-      "fresh mint",
-      "lemon & lime",
-      "cherry cola",
+      "Blue Razz Gummy Bear",
+      "Summer Dream",
+      "Fresh Mint",
+      "Lemon & Lime",
+      "Cherry Cola",
       "Blueberry Sour Raspberry",
       "Watermelon Ice",
-      "Strawberry Ice"
+      "Strawberry Ice",
+      "Blueberry Raspberry",
+      "Blue Razz Cherry",
+      "Blueberry Ice",
+      "Grape Ice",
+      "Lemon Lime",
+      "Mango Ice",
+      "Mixed Berry",
+      "Peach Ice",
+      "Pineapple Ice",
+      "Pink Lemonade",
+      "Raspberry Lemonade",
+      "Sour Apple Ice",
+      "Triple Mango",
+      "Cherry Ice",
+      "Cola Ice",
+      "Grape Raspberry",
+      "Strawberry Kiwi",
+      "Watermelon Lemonade",
+      "Kiwi Passion Fruit Guava",
+      "Peach Mango Pineapple",
+      "Blueberry Fusion",
+      "Cherry Lemonade",
+      "Cotton Candy Ice",
+      "Mango Peach",
+      "Strawberry Raspberry Cherry",
+      "Blueberry Cotton Candy"
     ]
   },
   {
@@ -869,13 +989,23 @@ const productsData = [
       "Up to 600 Puffs, 2ml Prefilled E-Liquid, 20mg (2%) Nicotine, Draw-Activated Vapour"
     ],
     "flavors": [
-      "strawberry watermelon",
-      "blue raspberry ice",
-      "classic menthol",
-      "fizzy cherry",
+      "Strawberry Watermelon",
+      "Blue Raspberry Ice",
+      "Classic Menthol",
+      "Fizzy Cherry",
       "Pink Lemonade",
       "Fresh Menthol Mojito",
-      "Strawberry Ice"
+      "Strawberry Ice",
+      "Polar Mint",
+      "Lemon Lime",
+      "Mango",
+      "Passionfruit",
+      "Pineapple Ice",
+      "Ruby Orange",
+      "Spearmint",
+      "Tropical Berry",
+      "Vanilla Custard",
+      "Watermelon"
     ]
   },
   {
@@ -900,7 +1030,14 @@ const productsData = [
       "Peach Ice",
       "Pineapple Ice",
       "Pink Lemonade",
-      "Strawberry Cherry Raspberry"
+      "Strawberry Cherry Raspberry",
+      "Blueberry Sour Raspberry",
+      "Fizzy Cherry",
+      "Grape Ice",
+      "Lemon Lime",
+      "Menthol",
+      "Triple Mango",
+      "Watermelon Ice"
     ]
   },
   {
@@ -951,7 +1088,34 @@ const productsData = [
       "Blueberry Sour Raspberry",
       "Strawberry Ice",
       "Menthol",
-      "Lemon & Lime"
+      "Lemon & Lime",
+      "Blueberry Raspberry",
+      "Blue Razz Cherry",
+      "Blueberry Ice",
+      "Cherry Cola",
+      "Grape Ice",
+      "Lemon Lime",
+      "Mango Ice",
+      "Mixed Berry",
+      "Peach Ice",
+      "Pineapple Ice",
+      "Pink Lemonade",
+      "Raspberry Lemonade",
+      "Sour Apple Ice",
+      "Triple Mango",
+      "Cherry Ice",
+      "Cola Ice",
+      "Grape Raspberry",
+      "Strawberry Kiwi",
+      "Watermelon Lemonade",
+      "Kiwi Passion Fruit Guava",
+      "Peach Mango Pineapple",
+      "Blueberry Fusion",
+      "Cherry Lemonade",
+      "Cotton Candy Ice",
+      "Mango Peach",
+      "Strawberry Raspberry Cherry",
+      "Blueberry Cotton Candy"
     ]
   },
   {
@@ -968,7 +1132,33 @@ const productsData = [
       "Watermelon Ice",
       "Lemon & Lime",
       "Pink Lemonade",
-      "Cherry Ice"
+      "Cherry Ice",
+      "Blueberry Raspberry",
+      "Blue Razz Cherry",
+      "Blueberry Ice",
+      "Cherry Cola",
+      "Grape Ice",
+      "Lemon Lime",
+      "Mango Ice",
+      "Mixed Berry",
+      "Peach Ice",
+      "Pineapple Ice",
+      "Raspberry Lemonade",
+      "Sour Apple Ice",
+      "Strawberry Ice",
+      "Triple Mango",
+      "Cola Ice",
+      "Grape Raspberry",
+      "Strawberry Kiwi",
+      "Watermelon Lemonade",
+      "Kiwi Passion Fruit Guava",
+      "Peach Mango Pineapple",
+      "Blueberry Fusion",
+      "Cherry Lemonade",
+      "Cotton Candy Ice",
+      "Mango Peach",
+      "Strawberry Raspberry Cherry",
+      "Blueberry Cotton Candy"
     ]
   },
   {
@@ -985,7 +1175,18 @@ const productsData = [
       "Strawberry Watermelon",
       "Pink Lemonade",
       "Fresh Menthol Mojito",
-      "Strawberry Ice"
+      "Strawberry Ice",
+      "Polar Mint",
+      "Classic Menthol",
+      "Lemon Lime",
+      "Mango",
+      "Passionfruit",
+      "Pineapple Ice",
+      "Ruby Orange",
+      "Spearmint",
+      "Tropical Berry",
+      "Vanilla Custard",
+      "Watermelon"
     ]
   },
   {
@@ -1002,7 +1203,18 @@ const productsData = [
       "Strawberry Watermelon",
       "Pink Lemonade",
       "Fresh Menthol Mojito",
-      "Strawberry Ice"
+      "Strawberry Ice",
+      "Polar Mint",
+      "Classic Menthol",
+      "Lemon Lime",
+      "Mango",
+      "Passionfruit",
+      "Pineapple Ice",
+      "Ruby Orange",
+      "Spearmint",
+      "Tropical Berry",
+      "Vanilla Custard",
+      "Watermelon"
     ]
   },
   {
@@ -1017,15 +1229,26 @@ const productsData = [
       "Click-in Replacement Big Puff Empty-to-Full Flavor Modules"
     ],
     "flavors": [
-      "blueberry raspberry",
-      "cola cherry",
-      "pink lemonade",
-      "blue razz lemonade",
-      "sour cherry watermelon",
+      "Blueberry Raspberry",
+      "Cola Cherry",
+      "Pink Lemonade",
+      "Blue Razz Lemonade",
+      "Sour Cherry Watermelon",
       "Blue Raspberry Ice",
       "Strawberry Watermelon",
       "Fresh Menthol Mojito",
-      "Strawberry Ice"
+      "Strawberry Ice",
+      "Kiwi Passionfruit Guava",
+      "Tobacco",
+      "Blueberry Mint",
+      "Pineapple Ice",
+      "Strawberry Raspberry Cherry",
+      "Cherry Cola",
+      "Watermelon Ice",
+      "Lemon Lime",
+      "Triple Mango",
+      "Grape Ice",
+      "Peach Ice"
     ]
   },
   {
@@ -1040,15 +1263,39 @@ const productsData = [
       "Eco-conscious Modular Replacement Prefilled Cartridge Cartridges"
     ],
     "flavors": [
-      "watermelon ice",
-      "blueberry sour raspberry",
-      "blue razz lemonade",
-      "strawberry ice",
-      "double apple",
-      "cherry ice",
+      "Watermelon Ice",
+      "Blueberry Sour Raspberry",
+      "Blue Razz Lemonade",
+      "Strawberry Ice",
+      "Double Apple",
+      "Cherry Ice",
       "Pineapple Ice",
       "Triple Mango",
-      "Miami Mint"
+      "Miami Mint",
+      "Blueberry Raspberry",
+      "Blue Razz Cherry",
+      "Blueberry Ice",
+      "Cherry Cola",
+      "Grape Ice",
+      "Lemon Lime",
+      "Mango Ice",
+      "Mixed Berry",
+      "Peach Ice",
+      "Pink Lemonade",
+      "Raspberry Lemonade",
+      "Sour Apple Ice",
+      "Cola Ice",
+      "Grape Raspberry",
+      "Strawberry Kiwi",
+      "Watermelon Lemonade",
+      "Kiwi Passion Fruit Guava",
+      "Peach Mango Pineapple",
+      "Blueberry Fusion",
+      "Cherry Lemonade",
+      "Cotton Candy Ice",
+      "Mango Peach",
+      "Strawberry Raspberry Cherry",
+      "Blueberry Cotton Candy"
     ]
   },
   {
@@ -1063,14 +1310,41 @@ const productsData = [
       "6,000 Puffs Capacity, Prefilled Mesh Coil Pods, Rich Flavor Profiles"
     ],
     "flavors": [
-      "blue razz lemonade",
-      "strawberry raspberry",
-      "lemon & lime",
-      "juicy peach",
+      "Blue Razz Lemonade",
+      "Strawberry Raspberry",
+      "Lemon & Lime",
+      "Juicy Peach",
       "Blueberry Sour Raspberry",
       "Watermelon Ice",
       "Strawberry Ice",
-      "Fresh Mint"
+      "Fresh Mint",
+      "Blueberry Raspberry",
+      "Blue Razz Cherry",
+      "Blueberry Ice",
+      "Cherry Cola",
+      "Grape Ice",
+      "Lemon Lime",
+      "Mango Ice",
+      "Mixed Berry",
+      "Peach Ice",
+      "Pineapple Ice",
+      "Pink Lemonade",
+      "Raspberry Lemonade",
+      "Sour Apple Ice",
+      "Triple Mango",
+      "Cherry Ice",
+      "Cola Ice",
+      "Grape Raspberry",
+      "Strawberry Kiwi",
+      "Watermelon Lemonade",
+      "Kiwi Passion Fruit Guava",
+      "Peach Mango Pineapple",
+      "Blueberry Fusion",
+      "Cherry Lemonade",
+      "Cotton Candy Ice",
+      "Mango Peach",
+      "Strawberry Raspberry Cherry",
+      "Blueberry Cotton Candy"
     ]
   },
   {
@@ -1085,26 +1359,50 @@ const productsData = [
       "15,000 Puffs Capacity Replacement Pods, Intelligent Smart Display Panel"
     ],
     "flavors": [
-      "strawberry ice",
-      "kiwi passion fruit guava",
-      "fizzy pineapple",
-      "raspberry watermelon",
-      "pineapple ice",
-      "summer grape",
-      "dubai chocolate",
-      "strawberry watermelon",
-      "golden mango",
-      "sour pineapple",
-      "triple mango",
-      "juicy peach",
-      "mint",
-      "cherry sour raspberry",
-      "blueberry raspberry",
-      "cherry ice",
-      "raspberry peach",
-      "menthol",
-      "miami mint",
-      "fruit punch"
+      "Strawberry Ice",
+      "Kiwi Passion Fruit Guava",
+      "Fizzy Pineapple",
+      "Raspberry Watermelon",
+      "Pineapple Ice",
+      "Summer Grape",
+      "Dubai Chocolate",
+      "Strawberry Watermelon",
+      "Golden Mango",
+      "Sour Pineapple",
+      "Triple Mango",
+      "Juicy Peach",
+      "Mint",
+      "Cherry Sour Raspberry",
+      "Blueberry Raspberry",
+      "Cherry Ice",
+      "Raspberry Peach",
+      "Menthol",
+      "Miami Mint",
+      "Fruit Punch",
+      "Blue Razz Cherry",
+      "Blueberry Ice",
+      "Cherry Cola",
+      "Grape Ice",
+      "Lemon Lime",
+      "Mango Ice",
+      "Mixed Berry",
+      "Peach Ice",
+      "Pink Lemonade",
+      "Raspberry Lemonade",
+      "Sour Apple Ice",
+      "Watermelon Ice",
+      "Blueberry Sour Raspberry",
+      "Cola Ice",
+      "Grape Raspberry",
+      "Strawberry Kiwi",
+      "Watermelon Lemonade",
+      "Peach Mango Pineapple",
+      "Blueberry Fusion",
+      "Cherry Lemonade",
+      "Cotton Candy Ice",
+      "Mango Peach",
+      "Strawberry Raspberry Cherry",
+      "Blueberry Cotton Candy"
     ]
   },
   {
@@ -1119,13 +1417,26 @@ const productsData = [
       "10ml E-Liquid by Lost Mary, 20mg Nicotine Strength, Rich Flavor Options"
     ],
     "flavors": [
-      "triple mango",
-      "watermelon ice",
-      "double apple",
-      "peach ice",
-      "blackcurrant apple",
-      "lemon lime",
-      "blueberry sour raspberry"
+      "Triple Mango",
+      "Watermelon Ice",
+      "Double Apple",
+      "Peach Ice",
+      "Blackcurrant Apple",
+      "Lemon Lime",
+      "Blueberry Sour Raspberry",
+      "Blueberry Raspberry",
+      "Cherry Ice",
+      "Strawberry Ice",
+      "Pineapple Ice",
+      "Grape Ice",
+      "Pink Lemonade",
+      "Fresh Mint",
+      "Kiwi Passion Fruit Guava",
+      "Strawberry Raspberry Cherry",
+      "Sour Apple",
+      "Cola",
+      "Menthol",
+      "Miami Mint"
     ]
   },
   {
@@ -1140,12 +1451,12 @@ const productsData = [
       "Premium Spit-Free Nicotine Pouches (All Strengths)"
     ],
     "flavors": [
-      "freezing peppermint / peppermint storm",
-      "crispy peppermint",
-      "bright spearmint",
-      "spicy papaya",
-      "mango flame",
-      "ruby berry / blush berry",
+      "Freezing Peppermint / Peppermint Storm",
+      "Crispy Peppermint",
+      "Bright Spearmint",
+      "Spicy Papaya",
+      "Mango Flame",
+      "Ruby Berry / Blush Berry",
       "Peppermint",
       "Spearmint",
       "Berry",
@@ -1165,15 +1476,15 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "ASUS ASUS",
-    "category": "Tech Accessories",
+    "name": "ASUS Core i7 10th Gen Laptop",
+    "category": "Laptops",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
     "action_link": "tel:+442080011639",
     "image": "catalogue-images/asus 10th gen.jpg",
     "variants": [
-      "CORE i7 (10th GEN)",
+      "Core i7 (10th Gen)",
       "RAM 8GB",
       "SSD 512GB"
     ],
@@ -1225,7 +1536,7 @@ const productsData = [
   },
   {
     "name": "Google Pixel 8 Pro",
-    "category": "Tech Accessories",
+    "category": "Smartphones",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
@@ -1236,14 +1547,14 @@ const productsData = [
   },
   {
     "name": "HP Pavilion 13th Gen",
-    "category": "Tech Accessories",
+    "category": "Laptops",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
     "action_link": "tel:+442080011639",
     "image": "catalogue-images/HP Pavilion 13th Gen.jpg",
     "variants": [
-      "CORE i5",
+      "Core i5",
       "RAM 8GB",
       "SSD 512GB"
     ],
@@ -1251,7 +1562,7 @@ const productsData = [
   },
   {
     "name": "HP ZBook Studio G5",
-    "category": "Tech Accessories",
+    "category": "Laptops",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
@@ -1295,7 +1606,7 @@ const productsData = [
   },
   {
     "name": "IMO Q2 Pro",
-    "category": "Tech Accessories",
+    "category": "Smartphones",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
@@ -1316,7 +1627,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Intenso MicroSD Class 10",
+    "name": "Intenso microSD Class 10",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -1330,7 +1641,7 @@ const productsData = [
   },
   {
     "name": "Motorola Moto G6",
-    "category": "Tech Accessories",
+    "category": "Smartphones",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
@@ -1341,7 +1652,7 @@ const productsData = [
   },
   {
     "name": "Nokia G21",
-    "category": "Tech Accessories",
+    "category": "Smartphones",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
@@ -1352,7 +1663,7 @@ const productsData = [
   },
   {
     "name": "Privacy Tempered Glass Screen Protector",
-    "category": "Tech Accessories",
+    "category": "Protection & Cases",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
@@ -1362,15 +1673,46 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Pro Fizzy Cherry Smart Pod",
-    "category": "Tech Accessories",
+    "name": "Fizzy Cherry Smart Pod",
+    "category": "Vape Kits",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
     "action_link": "tel:+442080011639",
     "image": "catalogue-images/Pro Fizzy Cherry Smart Pod.jpg",
     "variants": [],
-    "flavors": []
+    "flavors": [
+      "Blueberry Raspberry",
+      "Blue Razz Cherry",
+      "Blueberry Ice",
+      "Cherry Cola",
+      "Grape Ice",
+      "Lemon Lime",
+      "Mango Ice",
+      "Mixed Berry",
+      "Peach Ice",
+      "Pineapple Ice",
+      "Pink Lemonade",
+      "Raspberry Lemonade",
+      "Sour Apple Ice",
+      "Strawberry Ice",
+      "Triple Mango",
+      "Watermelon Ice",
+      "Blueberry Sour Raspberry",
+      "Cherry Ice",
+      "Cola Ice",
+      "Grape Raspberry",
+      "Strawberry Kiwi",
+      "Watermelon Lemonade",
+      "Kiwi Passion Fruit Guava",
+      "Peach Mango Pineapple",
+      "Blueberry Fusion",
+      "Cherry Lemonade",
+      "Cotton Candy Ice",
+      "Mango Peach",
+      "Strawberry Raspberry Cherry",
+      "Blueberry Cotton Candy"
+    ]
   },
   {
     "name": "Ray-Ban Smart Glasses",
@@ -1385,7 +1727,7 @@ const productsData = [
   },
   {
     "name": "Samsung Galaxy A54 5G",
-    "category": "Tech Accessories",
+    "category": "Smartphones",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
@@ -1396,7 +1738,7 @@ const productsData = [
   },
   {
     "name": "Samsung Galaxy S10",
-    "category": "Tech Accessories",
+    "category": "Smartphones",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
@@ -1407,7 +1749,7 @@ const productsData = [
   },
   {
     "name": "Samsung Galaxy S20 Plus",
-    "category": "Tech Accessories",
+    "category": "Smartphones",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
@@ -1418,7 +1760,7 @@ const productsData = [
   },
   {
     "name": "Samsung Galaxy S23 FE 5G",
-    "category": "Tech Accessories",
+    "category": "Smartphones",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
@@ -1429,7 +1771,7 @@ const productsData = [
   },
   {
     "name": "Samsung Galaxy S23 Ultra 5G",
-    "category": "Tech Accessories",
+    "category": "Smartphones",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
@@ -1440,7 +1782,7 @@ const productsData = [
   },
   {
     "name": "Samsung Galaxy S24 Ultra 5G",
-    "category": "Tech Accessories",
+    "category": "Smartphones",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
@@ -1450,47 +1792,8 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Samsung SAMSNG S10",
-    "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
-    "image": "catalogue-images/Samsung Galaxy S10.jpg",
-    "variants": [
-      "128GB"
-    ],
-    "flavors": []
-  },
-  {
-    "name": "Samsung SAMSNG S20 (5G)",
-    "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
-    "image": "catalogue-images/Samsung Galaxy A54 5G.webp",
-    "variants": [
-      "128GB"
-    ],
-    "flavors": []
-  },
-  {
-    "name": "Samsung SAMSNG S20 PLUS A",
-    "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
-    "image": "catalogue-images/Samsung Galaxy S20 Plus.jpg",
-    "variants": [
-      "128GB"
-    ],
-    "flavors": []
-  },
-  {
-    "name": "Samsung SAMSUNG S20 ULTRA 5G",
-    "category": "Tech Accessories",
+    "name": "Samsung Galaxy S20 Ultra 5G",
+    "category": "Smartphones",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
@@ -1502,8 +1805,8 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Samsung SAMSUNG S22 PLUS",
-    "category": "Tech Accessories",
+    "name": "Samsung Galaxy S22 Plus",
+    "category": "Smartphones",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
@@ -1515,8 +1818,8 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Samsung SAMSUNG S22 ULTRA",
-    "category": "Tech Accessories",
+    "name": "Samsung Galaxy S22 Ultra",
+    "category": "Smartphones",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
@@ -1528,22 +1831,8 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Samsung Samsung S20 (5G)",
-    "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
-    "image": "catalogue-images/Samsung Galaxy A54 5G.webp",
-    "variants": [
-      "128GB",
-      "A+"
-    ],
-    "flavors": []
-  },
-  {
-    "name": "Samsung Samsung S20 FE A",
-    "category": "Tech Accessories",
+    "name": "Samsung Galaxy S20 FE",
+    "category": "Smartphones",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
@@ -1556,22 +1845,8 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Samsung Samsung S20 Plus A",
-    "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
-    "image": "catalogue-images/Samsung Galaxy S20 Plus.jpg",
-    "variants": [
-      "128GB",
-      "A+"
-    ],
-    "flavors": []
-  },
-  {
     "name": "TCL 403",
-    "category": "Tech Accessories",
+    "category": "Smartphones",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
@@ -1582,7 +1857,7 @@ const productsData = [
   },
   {
     "name": "TCL 405",
-    "category": "Tech Accessories",
+    "category": "Smartphones",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
@@ -1626,7 +1901,7 @@ const productsData = [
   },
   {
     "name": "Xiaomi Redmi Note 13 Pro 5G",
-    "category": "Tech Accessories",
+    "category": "Smartphones",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
@@ -1647,7 +1922,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Yesido CA186 240W Dual Type-C Cable 2m",
+    "name": "Yesido CA186 240W Dual USB-C Cable 2m",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -1724,23 +1999,8 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "asus 10th gen",
-    "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
-    "image": "catalogue-images/asus 10th gen.jpg",
-    "variants": [
-      "CORE i7 (10th GEN)",
-      "RAM 8GB",
-      "SSD 512GB"
-    ],
-    "flavors": []
-  },
-  {
     "name": "Borofone Bike Phone Mount",
-    "category": "Protection & Cases",
+    "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
@@ -1751,7 +2011,7 @@ const productsData = [
   },
   {
     "name": "Yesido Vacuum Lock Electric Car Phone Mount",
-    "category": "Protection & Cases",
+    "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
     "action_btn_text": "Call Store for Price & Stock",
@@ -1761,7 +2021,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "10000mAh magnetic wireless power bank with stand",
+    "name": "10000mAh Magnetic Wireless Power Bank with Stand",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -1772,7 +2032,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "140W multi port USB C desktop fast charger",
+    "name": "140W Multi-Port USB-C Desktop Fast Charger",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -1783,7 +2043,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "3 In 1 Wireless Fast Charging Dock Station Black",
+    "name": "3-in-1 Wireless Fast Charging Dock",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -1794,7 +2054,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "4 in 1 OTG micro SD TF card reader USB C lightning",
+    "name": "4-in-1 OTG USB-C / Lightning Card Reader",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -1805,7 +2065,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "4 In 1 Foldable Wireless Charging Stand",
+    "name": "4-in-1 Foldable Wireless Charging Stand",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -1816,7 +2076,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "4G Mobile Wifi Hotspot Pocket Router White",
+    "name": "4G Mobile Wi-Fi Hotspot Pocket Router White",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -1827,7 +2087,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "5000mAh mini portable power bank with built in plug",
+    "name": "5000mAh Mini Power Bank with Built-In Plug",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -1838,7 +2098,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "5000Mah Power Bank Built In Cables Digital Display",
+    "name": "5000mAh Power Bank with Built-In Cables",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -1849,7 +2109,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "60W MagSafe 1 L tip power adapter UK plug",
+    "name": "60W MagSafe 1 L Tip Power Adapter UK Plug",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -1860,7 +2120,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "65W GaN 3 port USB C fast charger black",
+    "name": "65W GaN 3-Port USB-C Fast Charger",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -1871,7 +2131,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "65W retractable cable car charger dual ports",
+    "name": "65W Retractable Dual-Port Car Charger",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -1882,7 +2142,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "85W MagSafe 1 L tip power adapter UK plug",
+    "name": "85W MagSafe 1 L Tip Power Adapter UK Plug",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -1893,7 +2153,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "85W MagSafe 2 T tip power adapter UK plug",
+    "name": "85W MagSafe 2 T Tip Power Adapter UK Plug",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -1904,7 +2164,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "AZ wired optical office mouse comfort feel",
+    "name": "AZ Wired Optical Office Mouse",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -1915,7 +2175,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Az E02 Lightning Earphones",
+    "name": "AZ E02 Lightning Earphones",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -1940,7 +2200,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Apple 60W USB C woven charge cable 1m",
+    "name": "Apple 60W USB-C Woven Charge Cable 1m",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -1965,7 +2225,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Apple MacBook Air 13 inch 2015 silver",
+    "name": "Apple MacBook Air 13-inch (2015)",
     "category": "Laptops",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -1991,7 +2251,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Apple MacBook Pro 13 inch 2015",
+    "name": "Apple MacBook Pro 13-inch (2015)",
     "category": "Laptops",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2002,7 +2262,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Apple MacBook Pro 13 inch 2016 space grey",
+    "name": "Apple MacBook Pro 13-inch (2016)",
     "category": "Laptops",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2013,7 +2273,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Apple MacBook Pro 13 inch space grey 2020",
+    "name": "Apple MacBook Pro 13-inch (2020)",
     "category": "Laptops",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2024,7 +2284,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Apple MacBook Pro 15 inch 2014",
+    "name": "Apple MacBook Pro 15-inch (2014)",
     "category": "Laptops",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2035,7 +2295,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Apple Watch black silicone sport band 42mm",
+    "name": "Apple Watch Black Silicone Sport Band 42mm",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2046,7 +2306,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Apple Watch magnetic fast charger to type c cable",
+    "name": "Apple Watch Magnetic Fast Charger to USB-C Cable",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2057,7 +2317,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Apple Watch milanese loop strap with bumper frame",
+    "name": "Apple Watch Milanese Loop Strap with Bumper Frame",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2214,7 +2474,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Beecaro wireless bluetooth speaker",
+    "name": "Beecaro Wireless Bluetooth Speaker",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2238,7 +2498,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "CSR 4.0 USB bluetooth dongle adapter",
+    "name": "CSR 4.0 USB Bluetooth Dongle",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2249,7 +2509,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "D21 stereo earphone",
+    "name": "D21 Stereo Earphone",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2260,7 +2520,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Daewoo UK to European schuko travel plug adapter",
+    "name": "Daewoo UK to European Schuko Travel Plug Adapter",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2285,7 +2545,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Earldom CS2 120W car cigarette lighter splitter",
+    "name": "Earldom CS2 120W Car Cigarette Lighter Splitter",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2296,7 +2556,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Earldom Samsung Galaxy watch magnetic wireless charger",
+    "name": "Earldom Samsung Galaxy Watch Magnetic Wireless Charger",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2307,7 +2567,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Earldom W35 lightning to hdmi cable 2k",
+    "name": "Earldom W35 Lightning to HDMI Cable",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2318,7 +2578,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Earldom WC22 magnetic wireless watch charger cable",
+    "name": "Earldom WC22 Magnetic Wireless Watch Charger Cable",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2329,7 +2589,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Earldom honeycomb rgb wired gaming mouse",
+    "name": "Earldom Honeycomb RGB Wired Gaming Mouse",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2340,7 +2600,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Earldom wired optical mouse black",
+    "name": "Earldom Wired Optical Mouse Black",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2351,7 +2611,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Earldom wireless lavalier microphone",
+    "name": "Earldom Wireless Lavalier Microphone",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2394,7 +2654,7 @@ const productsData = [
     ]
   },
   {
-    "name": "Gw 600 Rechargeable Wireless Mouse Black",
+    "name": "Gw-600 Rechargeable Wireless Mouse",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2405,7 +2665,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "GaN 30W dual USB C wall charger UK plug",
+    "name": "GaN 30W Dual USB-C Wall Charger",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2416,7 +2676,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Gerlax P115 10000mah power bank",
+    "name": "Gerlax P115 10000mAh Power Bank",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2427,7 +2687,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Go Des Gd G026 Phone Ring Holder Bracket",
+    "name": "Go Des GD-G026 Phone Ring Holder",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2449,7 +2709,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Hp Usb C Universal Dock G2",
+    "name": "HP USB-C Universal Dock G2",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2482,7 +2742,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Intek 65W universal laptop charger with USB C port",
+    "name": "Intek 65W Universal Laptop Charger with USB-C Port",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2493,7 +2753,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Intek 90W universal laptop charger 12 tips",
+    "name": "Intek 90W Universal Laptop Charger 12 Tips",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2518,7 +2778,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "K 06 2.4G Wireless Keyboard And Mouse Set White",
+    "name": "K06 2.4G Wireless Keyboard and Mouse Set",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2529,7 +2789,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "K07 selfie stick tripod",
+    "name": "K07 Selfie Stick Tripod",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2565,7 +2825,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "King Kong armor shockproof clear case Samsung Galaxy A07",
+    "name": "King Kong Armor Shockproof Clear Case Samsung Galaxy A07",
     "category": "Protection & Cases",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2576,7 +2836,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "King Kong armor shockproof clear case Samsung Galaxy A33 5G",
+    "name": "King Kong Armor Shockproof Clear Case Samsung Galaxy A33 5G",
     "category": "Protection & Cases",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2587,7 +2847,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "King Kong armor shockproof clear case Samsung Galaxy A35 5G",
+    "name": "King Kong Armor Shockproof Clear Case Samsung Galaxy A35 5G",
     "category": "Protection & Cases",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2598,7 +2858,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Koleer H33 bluetooth speaker",
+    "name": "Koleer H33 Bluetooth Speaker",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2609,7 +2869,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Koleer H51 portable bass speaker",
+    "name": "Koleer H51 Portable Bass Speaker",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2620,7 +2880,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Koleer H73 wireless speaker",
+    "name": "Koleer H73 Wireless Speaker",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2631,7 +2891,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "L19 gimbal stabilizer selfie stick tripod",
+    "name": "L19 Gimbal Stabilizer Selfie Stick Tripod",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2642,7 +2902,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "M-TK 7 in 1 Game Pad",
+    "name": "MTK 7-in-1 Game Pad",
     "category": "Gaming",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2656,7 +2916,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "M Tk Tb2028 2 In 1 Usb Type C Card Reader",
+    "name": "MTK TB2028 2-in-1 USB-C Card Reader",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2667,7 +2927,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "M Tk Usb Wall Charger Plug With Lightning Cable",
+    "name": "MTK USB Wall Charger with Lightning Cable",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2678,7 +2938,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "MJ338 RGB LED soft ring light",
+    "name": "MJ338 RGB LED Soft Ring Light",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2689,7 +2949,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "MTK 2.5 inch SATA hard drive enclosure",
+    "name": "MTK 2.5 Inch SATA Hard Drive Enclosure",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2700,7 +2960,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Miniso wireless speaker blue",
+    "name": "Miniso Wireless Speaker Blue",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2711,7 +2971,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "NCC 10000mah power bank",
+    "name": "NCC 10000mAh Power Bank",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2722,7 +2982,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "NCC 85W universal laptop power adapter with tips",
+    "name": "NCC 85W Universal Laptop Power Adapter with Tips",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2733,7 +2993,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Newrixing Nr 3026M Wireless Speaker",
+    "name": "Newrixing NR-3026M Wireless Speaker",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2744,7 +3004,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "OPPO A16s",
+    "name": "Oppo A16s",
     "category": "Smartphones",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2894,7 +3154,7 @@ const productsData = [
     ]
   },
   {
-    "name": "Remax extendable selfie stick tripod stand",
+    "name": "Remax Extendable Selfie Stick Tripod Stand",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2905,7 +3165,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Samsung 15W travel adapter USB C white",
+    "name": "Samsung 15W USB-C Travel Adapter",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2944,7 +3204,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Samsung Galaxy A05s red flip leather wallet case",
+    "name": "Samsung Galaxy A05s Red Flip Leather Wallet Case",
     "category": "Protection & Cases",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -2977,7 +3237,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Samsung Galaxy A15 black silicone phone case",
+    "name": "Samsung Galaxy A15 Black Silicone Phone Case",
     "category": "Protection & Cases",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3115,7 +3375,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Samsung Galaxy Note 10 type c to type c cable",
+    "name": "Samsung Galaxy Note 10 USB-C to USB-C Cable",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3139,7 +3399,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Samsung Galaxy S10 travel adapter black",
+    "name": "Samsung Galaxy S10 Travel Adapter Black",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3150,7 +3410,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Samsung Galaxy S10 wallet case and wireless charger bundle",
+    "name": "Samsung Galaxy S10 Wallet Case and Wireless Charger Bundle",
     "category": "Protection & Cases",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3186,7 +3446,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Samsung Galaxy S24 Ultra lavender silicone case",
+    "name": "Samsung Galaxy S24 Ultra Lavender Silicone Case",
     "category": "Protection & Cases",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3208,7 +3468,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Samsung Galaxy black matte tpu shockproof case",
+    "name": "Samsung Galaxy Black Matte Tpu Shockproof Case",
     "category": "Protection & Cases",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3219,7 +3479,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Samsung micro usb data cable white",
+    "name": "Samsung Micro USB Data Cable",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3230,7 +3490,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "T1 handheld selfie stick tripod 360 rotation",
+    "name": "T1 Handheld Selfie Stick Tripod 360 Rotation",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3241,7 +3501,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "TWS 001 wireless sports earphones",
+    "name": "TWS 001 Wireless Sports Earphones",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3279,7 +3539,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Toshiba Canvio Basics 1TB external hard drive",
+    "name": "Toshiba Canvio Basics 1TB External Hard Drive",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3301,7 +3561,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Ventev global chargehub 300 travel adapter",
+    "name": "Ventev Global Chargehub 300 Travel Adapter",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3323,7 +3583,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Vodafone Smart mini 7",
+    "name": "Vodafone Smart Mini 7",
     "category": "Smartphones",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3334,7 +3594,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Vodafone Smart turbo 7",
+    "name": "Vodafone Smart Turbo 7",
     "category": "Smartphones",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3356,7 +3616,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Yesido YAU25 bluetooth 3.5mm audio adapter",
+    "name": "Yesido YAU25 Bluetooth 3.5mm Audio Adapter",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3367,7 +3627,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Zendi USB to SATA 2.5 hard drive enclosure",
+    "name": "Zendi USB to SATA 2.5 Hard Drive Enclosure",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3389,7 +3649,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "budi 15W wireless charger stand yellow",
+    "name": "Budi 15W Wireless Charger Stand",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3400,7 +3660,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Budi Magnetic Wireless Power Bank With Stand Yellow",
+    "name": "Budi Magnetic Wireless Power Bank with Stand Yellow",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3422,7 +3682,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Cat5E Rj45 Ethernet Cable 5M",
+    "name": "Cat5e RJ45 Ethernet Cable 5m",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3444,7 +3704,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "dual port 20W PD fast charger UK plug white",
+    "name": "Dual-Port 20W PD Fast Charger",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3476,11 +3736,21 @@ const productsData = [
       "Sour Apple",
       "Spearmint",
       "Strawberry Raspberry Cherry",
-      "Tobacco"
+      "Tobacco",
+      "Blueberry Sour Raspberry",
+      "Cola",
+      "Elfbull",
+      "Kiwi Passion Fruit Guava",
+      "Lemon Lime",
+      "Mango",
+      "Peach Ice",
+      "Pink Grapefruit",
+      "Strawberry Ice",
+      "Watermelon"
     ]
   },
   {
-    "name": "iMaxx magsafe anti shock clear case iPhone",
+    "name": "iMaxx MagSafe Anti-Shock Clear iPhone Case",
     "category": "Protection & Cases",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3491,7 +3761,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "iMaxx silicone phone case iPhone yellow",
+    "name": "iMaxx Silicone iPhone Case — Yellow",
     "category": "Protection & Cases",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3502,7 +3772,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "iPhone 11 Pro metallic case with magnetic ring kickstand red",
+    "name": "iPhone 11 Pro Metallic Case with Magnetic Ring Kickstand Red",
     "category": "Protection & Cases",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3513,7 +3783,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "iPhone 11 black leather wallet magnetic flip case",
+    "name": "iPhone 11 Black Leather Wallet Magnetic Flip Case",
     "category": "Protection & Cases",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3524,7 +3794,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "iPhone 14 Pro case with rotating ring stand pink",
+    "name": "iPhone 14 Pro Case with Rotating Ring Stand Pink",
     "category": "Protection & Cases",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3535,7 +3805,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "iPhone 14 clear case electroplated rose gold frame magsafe",
+    "name": "iPhone 14 Clear Case Electroplated Rose Gold Frame MagSafe",
     "category": "Protection & Cases",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3546,7 +3816,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "iPhone 15 Plus silicone case orange",
+    "name": "iPhone 15 Plus Silicone Case Orange",
     "category": "Protection & Cases",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3557,7 +3827,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "iPhone 15 Pro tan brown leather wallet folio case",
+    "name": "iPhone 15 Pro Tan Brown Leather Wallet Folio Case",
     "category": "Protection & Cases",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3568,7 +3838,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "iPhone 15 smooth silicone case purple",
+    "name": "iPhone 15 Smooth Silicone Case Purple",
     "category": "Protection & Cases",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3579,7 +3849,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "iPhone 5W USB power adapter with lightning cable",
+    "name": "iPhone 5W USB Power Adapter with Lightning Cable",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3590,7 +3860,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "iPhone 7 8 SE black leather wallet flip case",
+    "name": "iPhone 7 8 SE Black Leather Wallet Flip Case",
     "category": "Protection & Cases",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3642,7 +3912,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Leather Airpods Case With Carabiner Black",
+    "name": "Leather Airpods Case with Carabiner Black",
     "category": "Protection & Cases",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3653,7 +3923,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "leather wallet phone case Samsung Galaxy A13 5G",
+    "name": "Samsung Galaxy A13 5G Leather Wallet Case",
     "category": "Protection & Cases",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3664,7 +3934,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Led Water Dancing Wireless Bluetooth Speaker",
+    "name": "LED Water Dancing Wireless Bluetooth Speaker",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3675,7 +3945,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Lightning To 3.5Mm Headphone Adapter Short Cable",
+    "name": "Lightning to 3.5mm Headphone Adapter",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3686,7 +3956,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Lightning To Usb Female Otg Cable Adapter Blue",
+    "name": "Lightning to USB OTG Adapter",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3722,7 +3992,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Outdoor Wireless Party Speaker With Wired Microphone",
+    "name": "Outdoor Wireless Party Speaker with Wired Microphone",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3733,7 +4003,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Pocket Wifi 5G 300Mbps Mobile Hotspot Router Yellow",
+    "name": "Pocket Wi-Fi 5G 300Mbps Mobile Hotspot Router Yellow",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3776,7 +4046,7 @@ const productsData = [
     ]
   },
   {
-    "name": "Portable Full Hd Body Camera Audio Video Recorder",
+    "name": "Portable Full HD Body Camera Audio Video Recorder",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3787,7 +4057,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "retractable 240W USB C to USB C cable",
+    "name": "Retractable 240W USB-C to USB-C Cable",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3798,7 +4068,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Silicone Charging Stand Dock For Apple Watch White",
+    "name": "Silicone Charging Stand Dock for Apple Watch White",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3820,7 +4090,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Slim 20000Mah Power Bank White",
+    "name": "Slim 20000mAh Power Bank",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3842,7 +4112,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Speed Flash Microsd Memory Card With Adapter 32Gb",
+    "name": "Speed Flash microSD Card 32GB",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3853,7 +4123,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Speed Flash Microsd Memory Card With Adapter 64Gb",
+    "name": "Speed Flash microSD Card 64GB",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3897,7 +4167,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Universal All In One Travel Adaptor Usb Type C",
+    "name": "Universal All-in-One Travel Adapter USB-C",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3919,7 +4189,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Usb 2.0 To Rj45 Ethernet Lan Network Adapter",
+    "name": "USB 2.0 to RJ45 Ethernet LAN Adapter",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3941,7 +4211,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Ven Dens Magic Glass Screen Protector For Iphone",
+    "name": "Ven Dens Magic Glass Screen Protector for iPhone",
     "category": "Protection & Cases",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3974,7 +4244,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "white TWS wireless earbuds",
+    "name": "White TWS Wireless Earbuds",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3985,7 +4255,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Wired Gaming Mouse 3200 Dpi Black Green",
+    "name": "Wired Gaming Mouse 3200 DPI",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -3996,7 +4266,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Wireless Carplay Android Auto Usb Adapter Dongle",
+    "name": "Wireless CarPlay / Android Auto Adapter",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -4007,7 +4277,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Wireless Honeycomb Mouse Rgb Black",
+    "name": "Wireless Honeycomb Mouse RGB Black",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -4040,7 +4310,7 @@ const productsData = [
     "flavors": []
   },
   {
-    "name": "Wireless N Wifi Repeater 300Mbps Wr03T",
+    "name": "Wireless N Wi-Fi Repeater 300Mbps WR03T",
     "category": "Tech Accessories",
     "badge_text": "ENQUIRE FOR PRICE",
     "action_type": "call",
@@ -4062,5 +4332,1442 @@ const productsData = [
       "Coconut shell cubes"
     ],
     "flavors": []
+  },
+  {
+    "name": "Aspire Minican Plus",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Aspire Minican Plus kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Blue",
+      "Red",
+      "Green",
+      "Gold",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Dojo Blast 2000",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Dojo Blast 2000 vape kit transparent png.jpg",
+    "variants": [
+      "Up to 2000 puffs",
+      "Rechargeable"
+    ],
+    "flavors": [
+      "Blueberry Raspberry",
+      "Blue Razz Cherry",
+      "Blueberry Ice",
+      "Cherry Cola",
+      "Grape Ice",
+      "Lemon Lime",
+      "Mango Ice",
+      "Mixed Berry",
+      "Peach Ice",
+      "Pineapple Ice",
+      "Pink Lemonade",
+      "Raspberry Lemonade",
+      "Sour Apple Ice",
+      "Strawberry Ice",
+      "Triple Mango",
+      "Watermelon Ice",
+      "Blueberry Sour Raspberry",
+      "Cherry Ice",
+      "Cola Ice",
+      "Grape Raspberry",
+      "Strawberry Kiwi",
+      "Watermelon Lemonade",
+      "Kiwi Passion Fruit Guava",
+      "Peach Mango Pineapple",
+      "Blueberry Fusion",
+      "Cherry Lemonade",
+      "Cotton Candy Ice",
+      "Mango Peach",
+      "Strawberry Raspberry Cherry",
+      "Blueberry Cotton Candy"
+    ]
+  },
+  {
+    "name": "Geekvape Aegis Pod Kit",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Geekvape Aegis pod kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Blue",
+      "Red",
+      "Green",
+      "Gold",
+      "IP67"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Geekvape Max100 Kit",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Geekvape Max100 kit box transparent png.jpg",
+    "variants": [
+      "100W",
+      "Dual 18650",
+      "0.3Ω",
+      "0.6Ω",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "HorizonTech Falcon Legend Tank",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/HorizonTech Falcon Legend tank box transparent png.jpg",
+    "variants": [
+      "0.3Ω",
+      "0.6Ω",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Innokin Endura T18E Starter Kit",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Innokin Endura T18E starter kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Blue",
+      "Red",
+      "Green",
+      "Gold"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Lost Vape Thelema Elite 40",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Lost Vape Thelema Elite 40 kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Blue",
+      "Red",
+      "Green",
+      "Gold",
+      "40W",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Lost Vape Ursa Cap Pro",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Lost Vape Ursa Cap Pro kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Blue",
+      "Red",
+      "Green",
+      "Gold",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Mevol 14K Pod Kit",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Mevol 14K pod kit box transparent png.jpg",
+    "variants": [
+      "Up to 14,000 puffs"
+    ],
+    "flavors": [
+      "Blueberry Raspberry",
+      "Blue Razz Cherry",
+      "Blueberry Ice",
+      "Cherry Cola",
+      "Grape Ice",
+      "Lemon Lime",
+      "Mango Ice",
+      "Mixed Berry",
+      "Peach Ice",
+      "Pineapple Ice",
+      "Pink Lemonade",
+      "Raspberry Lemonade",
+      "Sour Apple Ice",
+      "Strawberry Ice",
+      "Triple Mango",
+      "Watermelon Ice",
+      "Blueberry Sour Raspberry",
+      "Cherry Ice",
+      "Cola Ice",
+      "Grape Raspberry",
+      "Strawberry Kiwi",
+      "Watermelon Lemonade",
+      "Kiwi Passion Fruit Guava",
+      "Peach Mango Pineapple",
+      "Blueberry Fusion",
+      "Cherry Lemonade",
+      "Cotton Candy Ice",
+      "Mango Peach",
+      "Strawberry Raspberry Cherry",
+      "Blueberry Cotton Candy"
+    ]
+  },
+  {
+    "name": "OXVA Xlim Pro",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/OXVA Xlim Pro kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Blue",
+      "Green",
+      "Pink",
+      "Gold",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "OXVA Xlim SE",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/OXVA Xlim SE kit box transparent png.png",
+    "variants": [
+      "Black",
+      "Silver",
+      "Blue",
+      "Green",
+      "Pink",
+      "Gold",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "SKE Bar 15K Pod Kit",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/SKE Bar 15K pod kit box transparent png.jpg",
+    "variants": [
+      "Up to 15,000 puffs",
+      "Rechargeable"
+    ],
+    "flavors": [
+      "Blueberry Raspberry",
+      "Blue Razz Cherry",
+      "Blueberry Ice",
+      "Cherry Cola",
+      "Grape Ice",
+      "Lemon Lime",
+      "Mango Ice",
+      "Mixed Berry",
+      "Peach Ice",
+      "Pineapple Ice",
+      "Pink Lemonade",
+      "Raspberry Lemonade",
+      "Sour Apple Ice",
+      "Strawberry Ice",
+      "Triple Mango",
+      "Watermelon Ice",
+      "Blueberry Sour Raspberry",
+      "Cherry Ice",
+      "Cola Ice",
+      "Grape Raspberry",
+      "Strawberry Kiwi",
+      "Watermelon Lemonade",
+      "Kiwi Passion Fruit Guava",
+      "Peach Mango Pineapple",
+      "Blueberry Fusion",
+      "Cherry Lemonade",
+      "Cotton Candy Ice",
+      "Mango Peach",
+      "Strawberry Raspberry Cherry",
+      "Blueberry Cotton Candy"
+    ]
+  },
+  {
+    "name": "Smok A-Priv Kit",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Smok A-Priv kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Red",
+      "Blue",
+      "Prism",
+      "0.3Ω",
+      "0.6Ω",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Smok Arco Digi Kit",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Smok Arco Digi kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Red",
+      "Blue",
+      "Prism",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Smok Mag Pod Kit",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Smok Mag Pod kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Red",
+      "Blue",
+      "Prism",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Smok Mag V8 Kit",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Smok Mag V8 kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Red",
+      "Blue",
+      "Prism",
+      "0.3Ω",
+      "0.6Ω",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Smok Nfix Pro",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Smok Nfix Pro kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Red",
+      "Blue",
+      "Prism",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Smok Nord 4",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Smok Nord 4 kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Red",
+      "Blue",
+      "Prism",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Smok Nord 50W",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Smok Nord 50W kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Red",
+      "Blue",
+      "Prism",
+      "50W",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Smok Nord Pro",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Smok Nord Pro kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Red",
+      "Blue",
+      "Prism",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Smok Novo 2",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Smok Novo 2 kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Red",
+      "Blue",
+      "Prism",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Smok RPM 5",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Smok RPM 5 kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Red",
+      "Blue",
+      "Prism",
+      "0.3Ω",
+      "0.6Ω",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Teslacigs I-KIT",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Teslacigs I-KIT box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Blue",
+      "Red",
+      "Green",
+      "Gold",
+      "0.3Ω",
+      "0.6Ω",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Uwell Caliburn G2",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Uwell Caliburn G2 kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Grey",
+      "Blue",
+      "Red",
+      "Gold",
+      "Purple",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Uwell Caliburn Tenet KOKO",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Uwell Caliburn Tenet Koko kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Grey",
+      "Blue",
+      "Red",
+      "Gold",
+      "Purple",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Uwell Caliburn X",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Uwell Caliburn X kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Grey",
+      "Blue",
+      "Red",
+      "Gold",
+      "Purple",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Vaporesso Eco Nano",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Vaporesso Eco Nano kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Blue",
+      "Green",
+      "Pink",
+      "Gold",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Vaporesso Luxe Q",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Vaporesso Luxe Q kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Blue",
+      "Green",
+      "Pink",
+      "Gold",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Vaporesso Vibe SE",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Vaporesso Vibe SE kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Blue",
+      "Red",
+      "Green",
+      "Gold",
+      "0.3Ω",
+      "0.6Ω",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Vaporesso XROS 3 Nano",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Vaporesso Xros 3 Nano kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Blue",
+      "Green",
+      "Pink",
+      "Gold",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Vaporesso XROS 4",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Vaporesso Xros 4 kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Blue",
+      "Green",
+      "Pink",
+      "Gold",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Vaporesso XROS Cube",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Vaporesso Xros Cube kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Blue",
+      "Green",
+      "Pink",
+      "Gold",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Vaporesso XROS Pro",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Vaporesso Xros Pro kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Blue",
+      "Green",
+      "Pink",
+      "Gold",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Voopoo Argus P1",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Voopoo Argus P1 kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Blue",
+      "Red",
+      "Green",
+      "Gold",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Voopoo Argus Pod Kit",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Voopoo Argus pod kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Blue",
+      "Red",
+      "Green",
+      "Gold",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Voopoo Drag S",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Voopoo Drag S pod mod kit box transparent png.jpg",
+    "variants": [
+      "Black",
+      "Silver",
+      "Blue",
+      "Red",
+      "Green",
+      "Gold",
+      "60W",
+      "0.3Ω",
+      "0.6Ω",
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Vuse eTank Mini Starter Kit",
+    "category": "Vape Kits",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Vuse eTank Mini starter kit box transparent png.jpg",
+    "variants": [
+      "Starter kit"
+    ],
+    "flavors": [
+      "Blended Tobacco",
+      "Garden Menthol",
+      "Strawberry Ice",
+      "Golden Tobacco",
+      "Berry Mix"
+    ]
+  },
+  {
+    "name": "Lost Mary Crystal Pro Pods",
+    "category": "Vape Refills",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Hawcos Lost Mary Crystal Pro pods pack transparent png.jpg",
+    "variants": [
+      "Prefilled pods"
+    ],
+    "flavors": [
+      "Blueberry Raspberry",
+      "Blue Razz Cherry",
+      "Blueberry Ice",
+      "Cherry Cola",
+      "Grape Ice",
+      "Lemon Lime",
+      "Mango Ice",
+      "Mixed Berry",
+      "Peach Ice",
+      "Pineapple Ice",
+      "Pink Lemonade",
+      "Raspberry Lemonade",
+      "Sour Apple Ice",
+      "Strawberry Ice",
+      "Triple Mango",
+      "Watermelon Ice",
+      "Blueberry Sour Raspberry",
+      "Cherry Ice",
+      "Cola Ice",
+      "Grape Raspberry",
+      "Strawberry Kiwi",
+      "Watermelon Lemonade",
+      "Kiwi Passion Fruit Guava",
+      "Peach Mango Pineapple",
+      "Blueberry Fusion",
+      "Cherry Lemonade",
+      "Cotton Candy Ice",
+      "Mango Peach",
+      "Strawberry Raspberry Cherry",
+      "Blueberry Cotton Candy"
+    ]
+  },
+  {
+    "name": "Hayati Pro Ultra+ 25K Replacement Pods",
+    "category": "Vape Refills",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Hayati Pro Ultra Plus 25000 pods pack transparent png.jpg",
+    "variants": [
+      "25,000 puffs",
+      "Replacement pods"
+    ],
+    "flavors": [
+      "Blueberry Raspberry",
+      "Blue Razz Cherry",
+      "Blueberry Ice",
+      "Cherry Cola",
+      "Grape Ice",
+      "Lemon Lime",
+      "Mango Ice",
+      "Mixed Berry",
+      "Peach Ice",
+      "Pineapple Ice",
+      "Pink Lemonade",
+      "Raspberry Lemonade",
+      "Sour Apple Ice",
+      "Strawberry Ice",
+      "Triple Mango",
+      "Watermelon Ice",
+      "Blueberry Sour Raspberry",
+      "Cherry Ice",
+      "Cola Ice",
+      "Grape Raspberry",
+      "Strawberry Kiwi",
+      "Watermelon Lemonade",
+      "Kiwi Passion Fruit Guava",
+      "Peach Mango Pineapple",
+      "Blueberry Fusion",
+      "Cherry Lemonade",
+      "Cotton Candy Ice",
+      "Mango Peach",
+      "Strawberry Raspberry Cherry",
+      "Blueberry Cotton Candy"
+    ]
+  },
+  {
+    "name": "Lost Mary BM600 Prefilled Pods",
+    "category": "Vape Refills",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Lost Mary BM600 prefilled pod pack transparent png.jpg",
+    "variants": [
+      "Prefilled pods",
+      "TPD 2ml"
+    ],
+    "flavors": [
+      "Blueberry Raspberry",
+      "Blue Razz Cherry",
+      "Blueberry Ice",
+      "Cherry Cola",
+      "Grape Ice",
+      "Lemon Lime",
+      "Mango Ice",
+      "Mixed Berry",
+      "Peach Ice",
+      "Pineapple Ice",
+      "Pink Lemonade",
+      "Raspberry Lemonade",
+      "Sour Apple Ice",
+      "Strawberry Ice",
+      "Triple Mango",
+      "Watermelon Ice",
+      "Blueberry Sour Raspberry",
+      "Cherry Ice",
+      "Cola Ice",
+      "Grape Raspberry",
+      "Strawberry Kiwi",
+      "Watermelon Lemonade",
+      "Kiwi Passion Fruit Guava",
+      "Peach Mango Pineapple",
+      "Blueberry Fusion",
+      "Cherry Lemonade",
+      "Cotton Candy Ice",
+      "Mango Peach",
+      "Strawberry Raspberry Cherry",
+      "Blueberry Cotton Candy"
+    ]
+  },
+  {
+    "name": "Smok Arco Replacement Pods",
+    "category": "Vape Refills",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Smok Arco replacement pods pack transparent png.jpg",
+    "variants": [
+      "0.8Ω",
+      "1.0Ω",
+      "1.2Ω"
+    ],
+    "flavors": []
+  },
+  {
+    "name": "Bazooka Sour Straws Shortfill",
+    "category": "E-Liquids",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Bazooka Sour Straws Green Apple 100ml box transparent png.jpg",
+    "variants": [
+      "100ml shortfill",
+      "0mg + nic shots"
+    ],
+    "flavors": [
+      "Green Apple",
+      "Blue Raspberry",
+      "Strawberry",
+      "Watermelon",
+      "Grape",
+      "Cherry",
+      "Sour Straws",
+      "Tropical"
+    ]
+  },
+  {
+    "name": "Dinner Lady Shortfill",
+    "category": "E-Liquids",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Dinner Lady 50ml shortfill bottle transparent png.jpg",
+    "variants": [
+      "50ml shortfill",
+      "0mg + nic shots"
+    ],
+    "flavors": [
+      "Lemon Tart",
+      "Apple Sours",
+      "Bubble Trouble",
+      "Cool Mint Ice",
+      "Raspberry Sherbet",
+      "Strawberry Macaroon",
+      "Tuck Shop",
+      "Watermelon Slices",
+      "Blackberry Crumble",
+      "Heisenberg",
+      "Pink Soul",
+      "Sunshine Chaser",
+      "Tropic Thunder",
+      "Berry Blast",
+      "Lemon Sherbet",
+      "Mint Tobacco"
+    ]
+  },
+  {
+    "name": "DK Cakes Shortfill",
+    "category": "E-Liquids",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/DK Cakes Victoria Sponge 100ml bottle transparent png.jpg",
+    "variants": [
+      "100ml shortfill",
+      "0mg + nic shots"
+    ],
+    "flavors": [
+      "Victoria Sponge",
+      "Lemon Drizzle",
+      "Chocolate Fudge",
+      "Red Velvet",
+      "Carrot Cake",
+      "Battenberg",
+      "Coffee Cake",
+      "Vanilla Slice"
+    ]
+  },
+  {
+    "name": "DK Fruits Shortfill",
+    "category": "E-Liquids",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/DK Fruits 100ml shortfill bottle transparent png.jpg",
+    "variants": [
+      "100ml shortfill",
+      "0mg + nic shots"
+    ],
+    "flavors": [
+      "Strawberry",
+      "Blueberry",
+      "Mango",
+      "Watermelon",
+      "Mixed Berry",
+      "Pineapple",
+      "Grape",
+      "Peach",
+      "Apple",
+      "Cherry"
+    ]
+  },
+  {
+    "name": "Donut King Shortfill",
+    "category": "E-Liquids",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Donut King 100ml shortfill bottle transparent png.jpg",
+    "variants": [
+      "100ml shortfill",
+      "0mg + nic shots"
+    ],
+    "flavors": [
+      "Glazed",
+      "Blueberry",
+      "Strawberry Jam",
+      "Chocolate Custard",
+      "Lemon Drizzle",
+      "Maple",
+      "Boston Cream",
+      "Cinnamon",
+      "Raspberry Iced",
+      "Vanilla Custard",
+      "Cookies & Cream",
+      "Caramel"
+    ]
+  },
+  {
+    "name": "Double Drip Coil Sauce Shortfill",
+    "category": "E-Liquids",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Double Drip Coil Sauce 50ml box transparent png.jpg",
+    "variants": [
+      "50ml shortfill",
+      "0mg + nic shots"
+    ],
+    "flavors": [
+      "Venom",
+      "Cravin",
+      "Dodge City",
+      "Rodeo",
+      "Tnt",
+      "Oasis",
+      "Carnival",
+      "Strawberry Ice",
+      "Lemon Sherbet",
+      "Menthol"
+    ]
+  },
+  {
+    "name": "Elegant CBD 1000mg Oil",
+    "category": "E-Liquids",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Elegant CBD 1000mg 60ml lemon bottle transparent png.jpg",
+    "variants": [
+      "1000mg",
+      "60ml"
+    ],
+    "flavors": [
+      "Lemon",
+      "Natural",
+      "Berry",
+      "Mint",
+      "Orange"
+    ]
+  },
+  {
+    "name": "JB Juice Bar Shortfill",
+    "category": "E-Liquids",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/JB Juice Bar 100ml shortfill bottle transparent png.jpg",
+    "variants": [
+      "100ml shortfill",
+      "0mg + nic shots"
+    ],
+    "flavors": [
+      "Blueberry Sour Raspberry",
+      "Strawberry Ice",
+      "Watermelon Ice",
+      "Lemon Lime",
+      "Fresh Mint",
+      "Grape Ice",
+      "Mango Ice",
+      "Peach Ice",
+      "Pineapple Ice",
+      "Pink Lemonade",
+      "Cherry Cola",
+      "Fizzy Cherry",
+      "Triple Mango",
+      "Strawberry Raspberry Cherry",
+      "Kiwi Passion Fruit Guava",
+      "Mr Blue",
+      "Cola",
+      "Menthol",
+      "Banana Ice",
+      "Gummy Bear"
+    ]
+  },
+  {
+    "name": "Lost Mary 5mg Nic Salts",
+    "category": "E-Liquids",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Lost Mary 5mg nic salt box transparent png.jpg",
+    "variants": [
+      "10ml",
+      "5mg"
+    ],
+    "flavors": [
+      "Blueberry Sour Raspberry",
+      "Triple Mango",
+      "Watermelon Ice",
+      "Strawberry Ice",
+      "Cherry Ice",
+      "Pineapple Ice",
+      "Pink Lemonade",
+      "Lemon Lime",
+      "Fresh Mint",
+      "Double Apple",
+      "Grape Ice",
+      "Peach Ice",
+      "Miami Mint",
+      "Cola",
+      "Strawberry Raspberry Cherry",
+      "Kiwi Passion Fruit Guava"
+    ]
+  },
+  {
+    "name": "Nic Drip Nic Salts",
+    "category": "E-Liquids",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Nic Drip salts 10ml bottle transparent png.jpg",
+    "variants": [
+      "10ml",
+      "10mg / 20mg"
+    ],
+    "flavors": [
+      "Blueberry Sour Raspberry",
+      "Strawberry Ice",
+      "Watermelon Ice",
+      "Lemon Lime",
+      "Fresh Mint",
+      "Grape Ice",
+      "Mango Ice",
+      "Peach Ice",
+      "Pineapple Ice",
+      "Pink Lemonade",
+      "Cherry Ice",
+      "Cola",
+      "Menthol",
+      "Triple Mango",
+      "Strawberry Raspberry Cherry",
+      "Kiwi Passion Fruit Guava"
+    ]
+  },
+  {
+    "name": "Ohm Brew Badass Blends Shortfill",
+    "category": "E-Liquids",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Ohm Brew Badass Blends 50ml bottle transparent png.jpg",
+    "variants": [
+      "50ml shortfill",
+      "0mg + nic shots"
+    ],
+    "flavors": [
+      "Shortfill Blend",
+      "Blue Slush",
+      "Strawberry Storm",
+      "Mango Tahiti",
+      "Lemon Lime",
+      "Grape Ice",
+      "Menthol",
+      "Tobacco",
+      "Cola",
+      "Peach Ice"
+    ]
+  },
+  {
+    "name": "Puff Stuff Shortfill",
+    "category": "E-Liquids",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Puff Stuff British Tobacco 100ml bottle transparent png.jpg",
+    "variants": [
+      "100ml shortfill",
+      "0mg + nic shots"
+    ],
+    "flavors": [
+      "British Tobacco",
+      "USA Mix",
+      "Virginia Tobacco",
+      "Menthol Tobacco",
+      "Cuban Tobacco",
+      "Ry4"
+    ]
+  },
+  {
+    "name": "SKE Crystal Nic Salts",
+    "category": "E-Liquids",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/SKE Crystal salts 10ml box transparent png.jpg",
+    "variants": [
+      "10ml",
+      "10mg / 20mg"
+    ],
+    "flavors": [
+      "Blueberry Sour Raspberry",
+      "Cherry Cola",
+      "Fresh Mint",
+      "Grape Ice",
+      "Kiwi Passion Fruit Guava",
+      "Lemon Lime",
+      "Mango Ice",
+      "Peach Ice",
+      "Pineapple Ice",
+      "Pink Lemonade",
+      "Sour Apple Ice",
+      "Strawberry Ice",
+      "Strawberry Raspberry Cherry",
+      "Triple Mango",
+      "Watermelon Ice",
+      "Blue Razz Lemonade",
+      "Cola Ice",
+      "Menthol",
+      "Mr Blue",
+      "Fizzy Cherry"
+    ]
+  },
+  {
+    "name": "Strapped Soda Shortfill",
+    "category": "E-Liquids",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Strapped Soda Proper Punch 100ml bottle transparent png.jpg",
+    "variants": [
+      "100ml shortfill",
+      "0mg + nic shots"
+    ],
+    "flavors": [
+      "Proper Punch",
+      "Strawberry Soda",
+      "Blue Raspberry Soda",
+      "Cherry Cola",
+      "Lemon Sherbet",
+      "Tropical Soda",
+      "Grape Soda",
+      "Orange Soda"
+    ]
+  },
+  {
+    "name": "Tasty Fruity Shortfill",
+    "category": "E-Liquids",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Tasty Fruity 120ml shortfill bottle transparent png.jpg",
+    "variants": [
+      "120ml shortfill",
+      "0mg + nic shots"
+    ],
+    "flavors": [
+      "Mixed Fruit",
+      "Strawberry",
+      "Blueberry",
+      "Mango",
+      "Watermelon",
+      "Pineapple",
+      "Grape",
+      "Peach",
+      "Apple",
+      "Cherry",
+      "Lemon Lime",
+      "Berry Blast"
+    ]
+  },
+  {
+    "name": "Vapour Life Shortfill",
+    "category": "E-Liquids",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Vapour Life 100ml shortfill bottle transparent png.jpg",
+    "variants": [
+      "100ml shortfill",
+      "0mg + nic shots"
+    ],
+    "flavors": [
+      "Menthol",
+      "Tobacco",
+      "Strawberry",
+      "Blueberry",
+      "Mango",
+      "Watermelon",
+      "Lemon Lime",
+      "Grape",
+      "Mint",
+      "Cola",
+      "Vanilla",
+      "Cherry"
+    ]
+  },
+  {
+    "name": "Vitality CBD Oral Drops",
+    "category": "E-Liquids",
+    "badge_text": "ENQUIRE FOR PRICE",
+    "action_type": "call",
+    "action_btn_text": "Call Store for Price & Stock",
+    "action_link": "tel:+442080011639",
+    "image": "catalogue-images/Vitality CBD oral drops box transparent png.jpg",
+    "variants": [
+      "Oral drops"
+    ],
+    "flavors": [
+      "Natural",
+      "Mint",
+      "Berry",
+      "Citrus",
+      "Vanilla"
+    ]
   }
 ];

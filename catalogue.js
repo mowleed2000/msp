@@ -3,6 +3,10 @@
 
     var currentCategory = 'All Products';
     var imageObserver = null;
+    var sentinelObserver = null;
+    var visibleCount = 48;
+    var PAGE_SIZE = 48;
+    var EAGER_IMAGES = 18;
 
     function encodeImagePath(path) {
         if (!path) return path;
@@ -91,9 +95,15 @@
                 loadImg(entry.target);
                 imageObserver.unobserve(entry.target);
             });
-        }, { rootMargin: '100px 0px', threshold: 0.01 });
+        }, { rootMargin: '1400px 0px', threshold: 0.01 });
 
-        images.forEach(function (img) { imageObserver.observe(img); });
+        images.forEach(function (img, i) {
+            if (i < EAGER_IMAGES) {
+                loadImg(img);
+            } else {
+                imageObserver.observe(img);
+            }
+        });
     }
 
     function updateCategoryCounts() {
@@ -121,12 +131,10 @@
         var searchInput = document.getElementById('catalogueSearch');
         var query = searchInput ? searchInput.value : '';
         var list = getFilteredProducts(query);
-
-        // Cap initial "All Products" paint so entering the page stays snappy
-        var MAX_ALL = 36;
+        var total = list.length;
         var truncated = false;
-        if (currentCategory === 'All Products' && !query && list.length > MAX_ALL) {
-            list = list.slice(0, MAX_ALL);
+        if (list.length > visibleCount) {
+            list = list.slice(0, visibleCount);
             truncated = true;
         }
 
@@ -149,7 +157,7 @@
             card.innerHTML =
                 '<div class="catalogue-card-image">' +
                     '<span class="category-tag-badge">' + product.category + '</span>' +
-                    '<img data-src="' + encodeImagePath(product.image) + '" alt="' + product.name.replace(/"/g, '&quot;') + '" width="400" height="400" loading="lazy" decoding="async">' +
+                    '<img data-src="' + encodeImagePath(product.image) + '" alt="' + product.name.replace(/"/g, '&quot;') + '" width="400" height="400" decoding="async">' +
                 '</div>' +
                 '<div class="catalogue-card-content">' +
                     '<h3>' + escapeHtml(product.name) + '</h3>' +
@@ -162,10 +170,14 @@
         });
 
         if (truncated) {
+            var sentinel = document.createElement('div');
+            sentinel.id = 'catalogue-sentinel';
+            sentinel.style.cssText = 'grid-column:1/-1;height:1px;';
+            fragment.appendChild(sentinel);
             var note = document.createElement('p');
             note.className = 'catalogue-more-note';
             note.style.cssText = 'grid-column:1/-1;text-align:center;color:#94a3b8;margin:8px 0 0;font-size:0.92rem;';
-            note.textContent = 'Showing first ' + MAX_ALL + ' items — pick a category or search to see the rest.';
+            note.textContent = 'Showing ' + list.length + ' of ' + total + ' — keep scrolling to load more.';
             fragment.appendChild(note);
         }
 
@@ -179,9 +191,28 @@
         grid.innerHTML = '';
         grid.appendChild(fragment);
         observeImages(grid);
+        observeSentinel();
+    }
+
+    function observeSentinel() {
+        if (sentinelObserver) {
+            sentinelObserver.disconnect();
+            sentinelObserver = null;
+        }
+        var sentinel = document.getElementById('catalogue-sentinel');
+        if (!sentinel) return;
+        sentinelObserver = new IntersectionObserver(function (entries) {
+            entries.forEach(function (entry) {
+                if (!entry.isIntersecting) return;
+                visibleCount += PAGE_SIZE;
+                renderCatalogue();
+            });
+        }, { rootMargin: '800px 0px' });
+        sentinelObserver.observe(sentinel);
     }
 
     function selectCategory(cat, el) {
+        visibleCount = PAGE_SIZE;
         currentCategory = cat;
         document.querySelectorAll('.sidebar-nav-item').forEach(function (item) {
             item.classList.remove('active');
@@ -193,6 +224,7 @@
     }
 
     function filterProducts() {
+        visibleCount = PAGE_SIZE;
         renderCatalogue();
     }
 
@@ -249,6 +281,10 @@
         if (imageObserver) {
             imageObserver.disconnect();
             imageObserver = null;
+        }
+        if (sentinelObserver) {
+            sentinelObserver.disconnect();
+            sentinelObserver = null;
         }
     });
 
