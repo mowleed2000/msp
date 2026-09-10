@@ -2,10 +2,6 @@ const productsData = [
   {
     "name": "iPhone 17 Pro Max",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iPhone 17 Pro Max 256GB.jpg",
     "variants": [
       "Good condition",
@@ -17,10 +13,6 @@ const productsData = [
   {
     "name": "iPhone 17",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iphone 17.webp",
     "variants": [
       "Good condition",
@@ -31,10 +23,6 @@ const productsData = [
   {
     "name": "iPhone 16 Pro Max",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iphone_16_promax.png",
     "variants": [
       "Good condition",
@@ -45,10 +33,6 @@ const productsData = [
   {
     "name": "iPhone 16",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iPhone 16.jpg",
     "variants": [
       "Good condition",
@@ -59,10 +43,6 @@ const productsData = [
   {
     "name": "iPhone 15 Pro Max",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iphone_15_promax.png",
     "variants": [
       "Good condition",
@@ -73,10 +53,6 @@ const productsData = [
   {
     "name": "iPhone 15 Plus",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Iphone 15 plus.jpg",
     "variants": [
       "Good condition",
@@ -87,10 +63,6 @@ const productsData = [
   {
     "name": "iPhone 15",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iPhone 15.jpg",
     "variants": [
       "Good condition",
@@ -102,10 +74,6 @@ const productsData = [
   {
     "name": "iPhone 14 Pro Max",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iPhone 14 Pro Max 128GB.webp",
     "variants": [
       "Good condition",
@@ -117,10 +85,6 @@ const productsData = [
   {
     "name": "iPhone 14 Pro",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Iphone 14 pro.jpg",
     "variants": [
       "Good condition",
@@ -131,10 +95,6 @@ const productsData = [
   {
     "name": "iPhone 14",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iPhone 14 midnight transparent background.jpg",
     "variants": [
       "Good condition",
@@ -145,10 +105,6 @@ const productsData = [
   {
     "name": "iPhone 13 Pro Max",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iPhone 13 Pro Max.jpg",
     "variants": [
       "Good condition",
@@ -160,10 +116,6 @@ const productsData = [
   {
     "name": "iPhone 13",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iPhone 13 128GB.jpg",
     "variants": [
       "Good condition",
@@ -175,10 +127,6 @@ const productsData = [
   {
     "name": "iPhone 12 Pro Max",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iPhone 12 Pro Max 128GB.jpg",
     "variants": [
       "Good condition",
@@ -190,10 +138,6 @@ const productsData = [
   {
     "name": "iPhone 12 Pro",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iPhone 12 Pro.jpg",
     "variants": [
       "Good condition",
@@ -205,10 +149,6 @@ const productsData = [
   {
     "name": "iPhone 12",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iPhone 12 base model.jpg",
     "variants": [
       "Good condition",
@@ -220,10 +160,6 @@ const productsData = [
   {
     "name": "iPhone 12 Mini",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iPhone 12  12 Mini.jpg",
     "variants": [
       "Good condition",
@@ -235,10 +171,6 @@ const productsData = [
   {
     "name": "iPhone 11 Pro",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iPhone 11 Pro.jpg",
     "variants": [
       "Good condition",
@@ -249,10 +181,6 @@ const productsData = [
   {
     "name": "iPhone 11",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iphone_11.png",
     "variants": [
       "Good condition",
@@ -263,10 +191,6 @@ const productsData = [
   {
     "name": "iPhone 8",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iPhone 8 space gray white background.jpg",
     "variants": [
       "Good condition",
@@ -277,10 +201,6 @@ const productsData = [
   {
     "name": "iPhone SE",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iPhone SE black background transparent.png",
     "variants": [
       "Good condition",
@@ -291,10 +211,6 @@ const productsData = [
   {
     "name": "Van Dens Tempered Glass",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Van - Dens tempered glass Iphone.jpg",
     "variants": [],
     "flavors": []
@@ -302,10 +218,6 @@ const productsData = [
   {
     "name": "iPhone XR",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iPhone XR.jpg",
     "variants": [
       "Good condition",
@@ -316,10 +228,6 @@ const productsData = [
   {
     "name": "Amazon Fire 7 Tablet",
     "category": "Tablets",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Amazon Fire 7 Tablet.jpg",
     "variants": [],
     "flavors": []
@@ -327,10 +235,6 @@ const productsData = [
   {
     "name": "Apple iPad 6th Gen",
     "category": "Tablets",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple iPad 6th Gen.jpg",
     "variants": [],
     "flavors": []
@@ -338,10 +242,6 @@ const productsData = [
   {
     "name": "Apple iPad 9th Gen",
     "category": "Tablets",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple iPad 9th Gen.jpg",
     "variants": [
       "64GB"
@@ -351,10 +251,6 @@ const productsData = [
   {
     "name": "Hopestar P61 Portable Mini Speaker",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Hopestar P61 Portable Mini Speaker.jpg",
     "variants": [],
     "flavors": []
@@ -362,10 +258,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy Tab A+",
     "category": "Tablets",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy Tab Active 2.jpg",
     "variants": [],
     "flavors": []
@@ -373,10 +265,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy Tab A11",
     "category": "Tablets",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Galaxy Tab A11.webp",
     "variants": [
       "SIM"
@@ -386,10 +274,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy Tab S10 Plus",
     "category": "Tablets",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy Tab S10 Plus.jpg",
     "variants": [],
     "flavors": []
@@ -397,10 +281,6 @@ const productsData = [
   {
     "name": "Samsung Tab A9 Ultra 5G",
     "category": "Tablets",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy S23 Ultra 5G.webp",
     "variants": [
       "256GB"
@@ -410,10 +290,6 @@ const productsData = [
   {
     "name": "Yesido GaN 67W Retractable Charger YC146",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Yesido GaN 67W Retractable Charger YC146.jpg",
     "variants": [],
     "flavors": []
@@ -421,10 +297,6 @@ const productsData = [
   {
     "name": "ASUS VivoBook Core i5",
     "category": "Laptops",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/ASUS VivoBook Core i5.webp",
     "variants": [
       "Intel Pentium",
@@ -436,10 +308,6 @@ const productsData = [
   {
     "name": "Apple MacBook Air 13-inch",
     "category": "Laptops",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple MacBook Air 13 Inch.webp",
     "variants": [
       "Core i5",
@@ -452,10 +320,6 @@ const productsData = [
   {
     "name": "Apple MacBook Pro 13-inch",
     "category": "Laptops",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple MacBook Pro 13 Inch.jpg",
     "variants": [
       "Core i7",
@@ -467,10 +331,6 @@ const productsData = [
   {
     "name": "Apple MacBook Pro 16-inch",
     "category": "Laptops",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple MacBook Pro 16 Inch.webp",
     "variants": [
       "Core i7",
@@ -483,10 +343,6 @@ const productsData = [
   {
     "name": "Dell Laptop",
     "category": "Laptops",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Dell G5 15 Gaming Laptop.jpg",
     "variants": [],
     "flavors": []
@@ -494,10 +350,6 @@ const productsData = [
   {
     "name": "Dell Latitude 5530",
     "category": "Laptops",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Dell Latitude 3400.jpg",
     "variants": [
       "Intel processor",
@@ -508,10 +360,6 @@ const productsData = [
   {
     "name": "Dell G5 15 Gaming Laptop",
     "category": "Laptops",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Dell G5 15 Gaming Laptop.jpg",
     "variants": [
       "NVIDIA GeForce RTX",
@@ -524,10 +372,6 @@ const productsData = [
   {
     "name": "Dell Inspiron 15 3530",
     "category": "Laptops",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Dell Inspiron 15 3530.jpg",
     "variants": [
       "Core i5",
@@ -539,10 +383,6 @@ const productsData = [
   {
     "name": "Dell Latitude 3400",
     "category": "Laptops",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Dell Latitude 3400.jpg",
     "variants": [
       "Core i5 (8th Gen)",
@@ -554,10 +394,6 @@ const productsData = [
   {
     "name": "HP EliteBook 850 G7",
     "category": "Laptops",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/HP EliteBook 840 G5.jpg",
     "variants": [
       "i5",
@@ -569,10 +405,6 @@ const productsData = [
   {
     "name": "HP ProBook 440 G7",
     "category": "Laptops",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/HP ProBook Core i5.jpg",
     "variants": [
       "i5",
@@ -584,10 +416,6 @@ const productsData = [
   {
     "name": "HP ProBook Core i5",
     "category": "Laptops",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/HP ProBook Core i5.jpg",
     "variants": [],
     "flavors": []
@@ -595,10 +423,6 @@ const productsData = [
   {
     "name": "Lenovo IdeaPad 3",
     "category": "Laptops",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Lenovo IdeaPad 3.jpg",
     "variants": [
       "i5 (11th Gen)",
@@ -610,10 +434,6 @@ const productsData = [
   {
     "name": "Lenovo ThinkPad X1",
     "category": "Laptops",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Lenovo ThinkPad X1.webp",
     "variants": [
       "Core i5 (11th Gen)",
@@ -625,10 +445,6 @@ const productsData = [
   {
     "name": "Lenovo ThinkPad X13",
     "category": "Laptops",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Lenovo ThinkPad X13.webp",
     "variants": [
       "Core i5 (11th Gen)",
@@ -640,10 +456,6 @@ const productsData = [
   {
     "name": "Microsoft Surface Laptop",
     "category": "Laptops",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Microsoft Surface Business Laptop.jpg",
     "variants": [
       "Intel Ultra 5",
@@ -655,10 +467,6 @@ const productsData = [
   {
     "name": "Universal Laptop AC Power Adapters",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Universal Laptop AC Power Adapters.jpg",
     "variants": [],
     "flavors": []
@@ -666,10 +474,6 @@ const productsData = [
   {
     "name": "Nintendo Switch Oled",
     "category": "Gaming",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Nintendo Switch OLED.jpg",
     "variants": [
       "64GB"
@@ -679,10 +483,6 @@ const productsData = [
   {
     "name": "Sony PS5 DualSense Controller",
     "category": "Gaming",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Sony PS5 DualSense Controller.webp",
     "variants": [],
     "flavors": []
@@ -690,10 +490,6 @@ const productsData = [
   {
     "name": "Hayati Pro Ultra+ 25K (Starter Kit)",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "Fast acsess images/hayati_pro_25k.png",
     "variants": [
       "25,000+ Puffs Capacity, 20mg Nic Salt, Dual Tank Swappable System"
@@ -742,10 +538,6 @@ const productsData = [
   {
     "name": "Crown Bar Al Fakher 30K Hypermax Advanced",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "Fast acsess images/alfakher_30k.png",
     "variants": [
       "30,000 Puffs Massive Output DTL Sub-Ohm Disposable Mod Line"
@@ -796,10 +588,6 @@ const productsData = [
   {
     "name": "IVG Pro 10K Starter Kit",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "Fast acsess images/ivg_pro_10k_kit.png",
     "variants": [
       "10,000 Puffs High-Volume Intelligent Smart Battery Station"
@@ -828,10 +616,6 @@ const productsData = [
   {
     "name": "Lost Mary 30K",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "Fast acsess images/Lost mary 30k.jpg",
     "variants": [
       "30,000 Puffs Smart Screen Indicator, Dual-Mesh Adjustable Wattage"
@@ -876,10 +660,6 @@ const productsData = [
   {
     "name": "Lost Mary BM6000 / 6K Pods",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "Fast acsess images/Lost Mary BM6000.jpg",
     "variants": [
       "6,000 Puffs Rechargeable Device with Click-In E-Liquid Bottle System"
@@ -932,10 +712,6 @@ const productsData = [
   {
     "name": "Hayati Pro Max 4000",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "Fast acsess images/Hayati Pro Max 4000.jpg",
     "variants": [
       "Up to 4000 Puffs Disposable Vape, 1400mAh Battery, Prefilled Mesh Coil, TPD Compliant"
@@ -980,10 +756,6 @@ const productsData = [
   {
     "name": "IVG 600 Disposable Vape",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "Fast acsess images/IVG 600.jpg",
     "variants": [
       "Up to 600 Puffs, 2ml Prefilled E-Liquid, 20mg (2%) Nicotine, Draw-Activated Vapour"
@@ -1011,10 +783,6 @@ const productsData = [
   {
     "name": "Bar Juice 5000 E-Liquids",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Bar Juice 5000 E-Liquids.jpg",
     "variants": [],
     "flavors": [
@@ -1043,10 +811,6 @@ const productsData = [
   {
     "name": "Blue Sour Raspberry Nic Salt",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Blue Sour Raspberry Nic Salt.jpg",
     "variants": [],
     "flavors": [
@@ -1060,10 +824,6 @@ const productsData = [
   {
     "name": "Pro Crypto 20mg Nic Salt",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Pro Crypto 20mg Nic Salt.jpg",
     "variants": [],
     "flavors": [
@@ -1077,10 +837,6 @@ const productsData = [
   {
     "name": "Hayati Pro Ultra+ Duo Flavour",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Pro Ultra+ Duo Flavour VapePro Ultra+.jpg",
     "variants": [],
     "flavors": [
@@ -1121,10 +877,6 @@ const productsData = [
   {
     "name": "SKE 35K Disposable Vape",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/SKE 35K Disposable Vape.jpg",
     "variants": [],
     "flavors": [
@@ -1164,10 +916,6 @@ const productsData = [
   {
     "name": "IVG 2400 4-in-1 Multi Flavour",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/IVG 2400 4-in-1 Multi Flavour.jpg",
     "variants": [],
     "flavors": [
@@ -1192,10 +940,6 @@ const productsData = [
   {
     "name": "IVG Smart 5500",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/IVG Smart 5500 (.jpg",
     "variants": [],
     "flavors": [
@@ -1220,10 +964,6 @@ const productsData = [
   {
     "name": "IVG Pro Pod 10K Replacement Pods",
     "category": "Vape Refills",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "Fast acsess images/IVG Pro Pod 10K (Replacement Pods).webp",
     "variants": [
       "Click-in Replacement Big Puff Empty-to-Full Flavor Modules"
@@ -1254,10 +994,6 @@ const productsData = [
   {
     "name": "Lost Mary ECO 15K/6K Pod System",
     "category": "Vape Refills",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "Fast acsess images/lost_mary_pods.png",
     "variants": [
       "Eco-conscious Modular Replacement Prefilled Cartridge Cartridges"
@@ -1301,10 +1037,6 @@ const productsData = [
   {
     "name": "Hayati 6K Pods",
     "category": "Vape Refills",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "Fast acsess images/Hayatti 6k.webp",
     "variants": [
       "6,000 Puffs Capacity, Prefilled Mesh Coil Pods, Rich Flavor Profiles"
@@ -1350,10 +1082,6 @@ const productsData = [
   {
     "name": "Lost Mary NERA 15K Pods",
     "category": "Vape Refills",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "Fast acsess images/Lost mary 15k.jpg",
     "variants": [
       "15,000 Puffs Capacity Replacement Pods, Intelligent Smart Display Panel"
@@ -1408,10 +1136,6 @@ const productsData = [
   {
     "name": "Maryliq Nic Salt 10ml",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "Fast acsess images/Maryliq 10ml bottle png.jpg",
     "variants": [
       "10ml E-Liquid by Lost Mary, 20mg Nicotine Strength, Rich Flavor Options"
@@ -1442,35 +1166,28 @@ const productsData = [
   {
     "name": "Velo Nicotine Pouches",
     "category": "Nicotine Pouches",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
-    "image": "Fast acsess images/velo nicotine pouches.webp",
+    "image": "catalogue-images/velo-nicotine-pouches.webp",
     "variants": [
-      "Premium Spit-Free Nicotine Pouches (All Strengths)"
+      "Slim format",
+      "Mini format (Cherry Ice)",
+      "All strengths"
     ],
     "flavors": [
-      "Freezing Peppermint / Peppermint Storm",
-      "Crispy Peppermint",
       "Bright Spearmint",
-      "Spicy Papaya",
-      "Mango Flame",
-      "Ruby Berry / Blush Berry",
-      "Peppermint",
-      "Spearmint",
-      "Berry",
-      "Mango",
-      "Watermelon"
+      "Tangy Lime",
+      "Purple Grape",
+      "Cherry Ice",
+      "Tropical Mango",
+      "Crispy Peppermint",
+      "Peppermint Storm",
+      "Icy Berries",
+      "Orange Ice",
+      "Minty Lemon"
     ]
   },
   {
     "name": "20W USB-C Fast Charger Plug",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/20W USB-C Fast Charger Plug.webp",
     "variants": [],
     "flavors": []
@@ -1478,10 +1195,6 @@ const productsData = [
   {
     "name": "ASUS Core i7 10th Gen Laptop",
     "category": "Laptops",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/asus 10th gen.jpg",
     "variants": [
       "Core i7 (10th Gen)",
@@ -1493,10 +1206,6 @@ const productsData = [
   {
     "name": "AirPods Pro 2",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/AirPods Pro 2.jpg",
     "variants": [],
     "flavors": []
@@ -1504,10 +1213,6 @@ const productsData = [
   {
     "name": "Apple Watch Band 41mm",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple Watch Band 41mm.webp",
     "variants": [],
     "flavors": []
@@ -1515,10 +1220,6 @@ const productsData = [
   {
     "name": "Braided USB-C to Lightning Cable",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Braided USB-C to Lightning Cable.webp",
     "variants": [],
     "flavors": []
@@ -1526,10 +1227,6 @@ const productsData = [
   {
     "name": "Foldable Handheld Ice Compress Fan",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Foldable Handheld Ice Compress Fan.jpg",
     "variants": [],
     "flavors": []
@@ -1537,10 +1234,6 @@ const productsData = [
   {
     "name": "Google Pixel 8 Pro",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Google Pixel 8 Pro.webp",
     "variants": [],
     "flavors": []
@@ -1548,10 +1241,6 @@ const productsData = [
   {
     "name": "HP Pavilion 13th Gen",
     "category": "Laptops",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/HP Pavilion 13th Gen.jpg",
     "variants": [
       "Core i5",
@@ -1563,10 +1252,6 @@ const productsData = [
   {
     "name": "HP ZBook Studio G5",
     "category": "Laptops",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/HP ZBook Studio G5.jpg",
     "variants": [],
     "flavors": []
@@ -1574,10 +1259,6 @@ const productsData = [
   {
     "name": "Hopestar P58 PRO Wireless Speaker",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Hopestar P58 PRO Wireless Speaker.jpg",
     "variants": [],
     "flavors": []
@@ -1585,10 +1266,6 @@ const productsData = [
   {
     "name": "Hopestar Partybox 168 100W Speaker",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Hopestar Partybox 168 100W Speaker.jpg",
     "variants": [],
     "flavors": []
@@ -1596,10 +1273,6 @@ const productsData = [
   {
     "name": "Hopestar Partybox Ultra 550W Speaker",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Hopestar Partybox Ultra 550W Speaker.jpg",
     "variants": [],
     "flavors": []
@@ -1607,10 +1280,6 @@ const productsData = [
   {
     "name": "IMO Q2 Pro",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/IMO Q2 Pro.jpg",
     "variants": [],
     "flavors": []
@@ -1618,10 +1287,6 @@ const productsData = [
   {
     "name": "Instant Print Camera",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Instant Print Camera.jpg",
     "variants": [],
     "flavors": []
@@ -1629,10 +1294,6 @@ const productsData = [
   {
     "name": "Intenso microSD Class 10",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Intenso 32GB MicroSD Class 10.jpg",
     "variants": [
       "32GB"
@@ -1642,10 +1303,6 @@ const productsData = [
   {
     "name": "Motorola Moto G6",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Motorola Moto G6.jpg",
     "variants": [],
     "flavors": []
@@ -1653,10 +1310,6 @@ const productsData = [
   {
     "name": "Nokia G21",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Nokia G21.jpg",
     "variants": [],
     "flavors": []
@@ -1664,10 +1317,6 @@ const productsData = [
   {
     "name": "Privacy Tempered Glass Screen Protector",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Privacy Tempered Glass Screen Protector.jpg",
     "variants": [],
     "flavors": []
@@ -1675,10 +1324,6 @@ const productsData = [
   {
     "name": "Fizzy Cherry Smart Pod",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Pro Fizzy Cherry Smart Pod.jpg",
     "variants": [],
     "flavors": [
@@ -1717,10 +1362,6 @@ const productsData = [
   {
     "name": "Ray-Ban Smart Glasses",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Ray-Ban Smart Glasses.jpg",
     "variants": [],
     "flavors": []
@@ -1728,10 +1369,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy A54 5G",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy A54 5G.webp",
     "variants": [],
     "flavors": []
@@ -1739,10 +1376,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy S10",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy S10.jpg",
     "variants": [],
     "flavors": []
@@ -1750,10 +1383,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy S20 Plus",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy S20 Plus.jpg",
     "variants": [],
     "flavors": []
@@ -1761,10 +1390,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy S23 FE 5G",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy S23 FE 5G.webp",
     "variants": [],
     "flavors": []
@@ -1772,10 +1397,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy S23 Ultra 5G",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy S23 Ultra 5G.webp",
     "variants": [],
     "flavors": []
@@ -1783,10 +1404,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy S24 Ultra 5G",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy S24 Ultra 5G.webp",
     "variants": [],
     "flavors": []
@@ -1794,10 +1411,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy S20 Ultra 5G",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy S23 Ultra 5G.webp",
     "variants": [
       "128GB"
@@ -1807,10 +1420,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy S22 Plus",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy S20 Plus.jpg",
     "variants": [
       "128GB"
@@ -1820,10 +1429,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy S22 Ultra",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/galaxy_s22_ultra.png",
     "variants": [
       "128GB"
@@ -1833,10 +1438,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy S20 FE",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy S23 FE 5G.webp",
     "variants": [
       "128GB",
@@ -1847,10 +1448,6 @@ const productsData = [
   {
     "name": "TCL 403",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/TCL 403.jpg",
     "variants": [],
     "flavors": []
@@ -1858,10 +1455,6 @@ const productsData = [
   {
     "name": "TCL 405",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/TCL 405.jpg",
     "variants": [],
     "flavors": []
@@ -1869,10 +1462,6 @@ const productsData = [
   {
     "name": "TP-Link 300Mbps Wireless N Router TL-WR841N",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/TP-Link 300Mbps Wireless N Router TL-WR841N.jpg",
     "variants": [],
     "flavors": []
@@ -1880,10 +1469,6 @@ const productsData = [
   {
     "name": "Tri-Fold Handheld Fan",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Tri-Fold Handheld Fan.jpg",
     "variants": [],
     "flavors": []
@@ -1891,10 +1476,6 @@ const productsData = [
   {
     "name": "XO Astronaut Star Projector",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/XO Astronaut Star Projector.jpg",
     "variants": [],
     "flavors": []
@@ -1902,10 +1483,6 @@ const productsData = [
   {
     "name": "Xiaomi Redmi Note 13 Pro 5G",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Xiaomi Redmi Note 13 Pro 5G.webp",
     "variants": [],
     "flavors": []
@@ -1913,10 +1490,6 @@ const productsData = [
   {
     "name": "Yesido 50m Waterproof Smart Ring",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Yesido 50m Waterproof Smart Ring.jpg",
     "variants": [],
     "flavors": []
@@ -1924,10 +1497,6 @@ const productsData = [
   {
     "name": "Yesido CA186 240W Dual USB-C Cable 2m",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Yesido CA186 240W Dual Type-C Cable 2m.jpg",
     "variants": [],
     "flavors": []
@@ -1935,10 +1504,6 @@ const productsData = [
   {
     "name": "Yesido CA206 Ultra-Thin Flat Braided Cable",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Yesido CA206 Ultra-Thin Flat Braided Cable.jpg",
     "variants": [],
     "flavors": []
@@ -1946,10 +1511,6 @@ const productsData = [
   {
     "name": "Yesido CA208 Stand Data Cable 27W",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Yesido CA208 Stand Data Cable 27W.jpg",
     "variants": [],
     "flavors": []
@@ -1957,10 +1518,6 @@ const productsData = [
   {
     "name": "Yesido CAI58 100W Digital Display Cable",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Yesido CAI58 100W Digital Display Cable.jpg",
     "variants": [],
     "flavors": []
@@ -1968,10 +1525,6 @@ const productsData = [
   {
     "name": "Yesido GaN 140W Desktop Fast Charger",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Yesido GaN 140W Desktop Fast Charger.jpg",
     "variants": [],
     "flavors": []
@@ -1979,10 +1532,6 @@ const productsData = [
   {
     "name": "Yesido GaN 65W Charger YC84",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Yesido GaN 65W Charger YC84.jpg",
     "variants": [],
     "flavors": []
@@ -1990,10 +1539,6 @@ const productsData = [
   {
     "name": "Yesido Universal Travel Adapter MC09",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Yesido Universal Travel Adapter MC09.jpg",
     "variants": [],
     "flavors": []
@@ -2001,10 +1546,6 @@ const productsData = [
   {
     "name": "Borofone Bike Phone Mount",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Borofone Bike Phone Mount.jpg",
     "variants": [],
     "flavors": []
@@ -2012,10 +1553,6 @@ const productsData = [
   {
     "name": "Yesido Vacuum Lock Electric Car Phone Mount",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Yesido Vacuum Lock Electric Car Phone Mount.jpg",
     "variants": [],
     "flavors": []
@@ -2023,10 +1560,6 @@ const productsData = [
   {
     "name": "10000mAh Magnetic Wireless Power Bank with Stand",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/10000mAh magnetic wireless power bank with stand box transparent png.webp",
     "variants": [],
     "flavors": []
@@ -2034,10 +1567,6 @@ const productsData = [
   {
     "name": "140W Multi-Port USB-C Desktop Fast Charger",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/140W multi port USB C desktop fast charger transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2045,10 +1574,6 @@ const productsData = [
   {
     "name": "3-in-1 Wireless Fast Charging Dock",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/3 in 1 wireless fast charging dock station black box transparent png.webp",
     "variants": [],
     "flavors": []
@@ -2056,10 +1581,6 @@ const productsData = [
   {
     "name": "4-in-1 OTG USB-C / Lightning Card Reader",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/4 in 1 OTG micro SD TF card reader USB C lightning transparent png.webp",
     "variants": [],
     "flavors": []
@@ -2067,10 +1588,6 @@ const productsData = [
   {
     "name": "4-in-1 Foldable Wireless Charging Stand",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/4 in 1 foldable wireless charging stand box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2078,10 +1595,6 @@ const productsData = [
   {
     "name": "4G Mobile Wi-Fi Hotspot Pocket Router White",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/4g mobile wifi hotspot pocket router white transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2089,10 +1602,6 @@ const productsData = [
   {
     "name": "5000mAh Mini Power Bank with Built-In Plug",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/5000mAh mini portable power bank with built in plug transparent png.webp",
     "variants": [],
     "flavors": []
@@ -2100,10 +1609,6 @@ const productsData = [
   {
     "name": "5000mAh Power Bank with Built-In Cables",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/5000mah power bank built in cables digital display transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2111,10 +1616,6 @@ const productsData = [
   {
     "name": "60W MagSafe 1 L Tip Power Adapter UK Plug",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/60W MagSafe 1 L tip power adapter UK plug transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2122,10 +1623,6 @@ const productsData = [
   {
     "name": "65W GaN 3-Port USB-C Fast Charger",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/65W GaN 3 port USB C fast charger black transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2133,10 +1630,6 @@ const productsData = [
   {
     "name": "65W Retractable Dual-Port Car Charger",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/65W retractable cable car charger dual ports transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2144,10 +1637,6 @@ const productsData = [
   {
     "name": "85W MagSafe 1 L Tip Power Adapter UK Plug",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/85W MagSafe 1 L tip power adapter UK plug transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2155,10 +1644,6 @@ const productsData = [
   {
     "name": "85W MagSafe 2 T Tip Power Adapter UK Plug",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/85W MagSafe 2 T tip power adapter UK plug transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2166,10 +1651,6 @@ const productsData = [
   {
     "name": "AZ Wired Optical Office Mouse",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/AZ wired optical office mouse comfort feel transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2177,10 +1658,6 @@ const productsData = [
   {
     "name": "AZ E02 Lightning Earphones",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/AZ-E02 lightning earphones box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2188,10 +1665,6 @@ const productsData = [
   {
     "name": "Apple 35W Dual USB-C Power Adapter",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple 35W dual USB C port compact power adapter box transparent png.jpg",
     "variants": [
       "35W",
@@ -2202,10 +1675,6 @@ const productsData = [
   {
     "name": "Apple 60W USB-C Woven Charge Cable 1m",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple 60W USB C woven charge cable 1m box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2213,10 +1682,6 @@ const productsData = [
   {
     "name": "Apple EarPods with Lightning Connector",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple EarPods with lightning connector box transparent png.jpg",
     "variants": [
       "Lightning",
@@ -2227,10 +1692,6 @@ const productsData = [
   {
     "name": "Apple MacBook Air 13-inch (2015)",
     "category": "Laptops",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple MacBook Air 13 inch 2015 silver transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2238,10 +1699,6 @@ const productsData = [
   {
     "name": "Apple MacBook Air 13.6 M2",
     "category": "Laptops",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple MacBook Air 13.6 M2 midnight transparent png.jpg",
     "variants": [
       "8GB RAM",
@@ -2253,10 +1710,6 @@ const productsData = [
   {
     "name": "Apple MacBook Pro 13-inch (2015)",
     "category": "Laptops",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple MacBook Pro 13 inch 2015 transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2264,10 +1717,6 @@ const productsData = [
   {
     "name": "Apple MacBook Pro 13-inch (2016)",
     "category": "Laptops",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple MacBook Pro 13 inch 2016 space grey transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2275,10 +1724,6 @@ const productsData = [
   {
     "name": "Apple MacBook Pro 13-inch (2020)",
     "category": "Laptops",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple MacBook Pro 13 inch space grey 2020 transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2286,10 +1731,6 @@ const productsData = [
   {
     "name": "Apple MacBook Pro 15-inch (2014)",
     "category": "Laptops",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple MacBook Pro 15 inch 2014 transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2297,10 +1738,6 @@ const productsData = [
   {
     "name": "Apple Watch Black Silicone Sport Band 42mm",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple Watch black silicone sport band 42mm transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2308,10 +1745,6 @@ const productsData = [
   {
     "name": "Apple Watch Magnetic Fast Charger to USB-C Cable",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple Watch magnetic fast charger to type c cable box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2319,10 +1752,6 @@ const productsData = [
   {
     "name": "Apple Watch Milanese Loop Strap with Bumper Frame",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple Watch milanese loop strap with bumper frame transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2330,10 +1759,6 @@ const productsData = [
   {
     "name": "Apple iPad 2",
     "category": "Tablets",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple iPad 2 silver back transparent png.jpg",
     "variants": [
       "16GB",
@@ -2344,10 +1769,6 @@ const productsData = [
   {
     "name": "Apple iPad 7th Gen 10.2",
     "category": "Tablets",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple iPad 7th generation silver back transparent png.jpg",
     "variants": [
       "128GB",
@@ -2358,10 +1779,6 @@ const productsData = [
   {
     "name": "Apple iPad Mini 3",
     "category": "Tablets",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple iPad Mini 3 silver back transparent png.jpg",
     "variants": [
       "16GB",
@@ -2372,10 +1789,6 @@ const productsData = [
   {
     "name": "Apple iPad Mini",
     "category": "Tablets",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple iPad Mini silver back transparent png.jpg",
     "variants": [
       "16GB",
@@ -2386,10 +1799,6 @@ const productsData = [
   {
     "name": "iPhone 13 Mini",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple iPhone 13 mini blue back transparent png.jpg",
     "variants": [
       "128GB",
@@ -2401,10 +1810,6 @@ const productsData = [
   {
     "name": "iPhone 16 Pro",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple iPhone 16 Pro black titanium back transparent png.jpg",
     "variants": [
       "128GB",
@@ -2416,10 +1821,6 @@ const productsData = [
   {
     "name": "iPhone 7",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple iPhone 7 matte black back transparent png.png",
     "variants": [
       "128GB",
@@ -2431,10 +1832,6 @@ const productsData = [
   {
     "name": "iPhone 8 Plus",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple iPhone 8 Plus space grey back transparent png.jpg",
     "variants": [
       "64GB",
@@ -2446,10 +1843,6 @@ const productsData = [
   {
     "name": "iPhone X",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple iPhone X space grey back transparent png.png",
     "variants": [
       "64GB",
@@ -2461,10 +1854,6 @@ const productsData = [
   {
     "name": "iPhone XS Max",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Apple iPhone XS Max gold back transparent png.jpg",
     "variants": [
       "64GB",
@@ -2476,10 +1865,6 @@ const productsData = [
   {
     "name": "Beecaro Wireless Bluetooth Speaker",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Beecaro wireless bluetooth speaker box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2487,10 +1872,6 @@ const productsData = [
   {
     "name": "Bose Ultra Open Earbuds",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Bose Ultra Open Earbuds box transparent png.jpg",
     "variants": [
       "Open earbuds"
@@ -2500,10 +1881,6 @@ const productsData = [
   {
     "name": "CSR 4.0 USB Bluetooth Dongle",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/CSR 4.0 USB bluetooth dongle adapter transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2511,10 +1888,6 @@ const productsData = [
   {
     "name": "D21 Stereo Earphone",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/D21 stereo earphone box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2522,10 +1895,6 @@ const productsData = [
   {
     "name": "Daewoo UK to European Schuko Travel Plug Adapter",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Daewoo UK to European schuko travel plug adapter transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2533,10 +1902,6 @@ const productsData = [
   {
     "name": "Doro 1380",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Doro 1380 mobile phone box transparent png.jpg",
     "variants": [
       "Unlocked",
@@ -2547,10 +1912,6 @@ const productsData = [
   {
     "name": "Earldom CS2 120W Car Cigarette Lighter Splitter",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Earldom CS2 120W car cigarette lighter splitter box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2558,10 +1919,6 @@ const productsData = [
   {
     "name": "Earldom Samsung Galaxy Watch Magnetic Wireless Charger",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Earldom Samsung Galaxy watch magnetic wireless charger box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2569,10 +1926,6 @@ const productsData = [
   {
     "name": "Earldom W35 Lightning to HDMI Cable",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Earldom W35 lightning to hdmi cable 2k transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2580,10 +1933,6 @@ const productsData = [
   {
     "name": "Earldom WC22 Magnetic Wireless Watch Charger Cable",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Earldom WC22 magnetic wireless watch charger cable box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2591,10 +1940,6 @@ const productsData = [
   {
     "name": "Earldom Honeycomb RGB Wired Gaming Mouse",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Earldom honeycomb rgb wired gaming mouse transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2602,10 +1947,6 @@ const productsData = [
   {
     "name": "Earldom Wired Optical Mouse Black",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Earldom wired optical mouse black transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2613,10 +1954,6 @@ const productsData = [
   {
     "name": "Earldom Wireless Lavalier Microphone",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Earldom wireless lavalier microphone box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2624,10 +1961,6 @@ const productsData = [
   {
     "name": "Elux Legend Nic Salts",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Elux Legend mr blue nic salt 10ml box transparent png.jpg",
     "variants": [
       "10ml",
@@ -2656,10 +1989,6 @@ const productsData = [
   {
     "name": "Gw-600 Rechargeable Wireless Mouse",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/GW-600 rechargeable wireless mouse black transparent png.webp",
     "variants": [],
     "flavors": []
@@ -2667,10 +1996,6 @@ const productsData = [
   {
     "name": "GaN 30W Dual USB-C Wall Charger",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/GaN 30W dual USB C wall charger UK plug transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2678,10 +2003,6 @@ const productsData = [
   {
     "name": "Gerlax P115 10000mAh Power Bank",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Gerlax P115 10000mah power bank box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2689,10 +2010,6 @@ const productsData = [
   {
     "name": "Go Des GD-G026 Phone Ring Holder",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Go-Des GD-G026 phone ring holder bracket transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2700,10 +2017,6 @@ const productsData = [
   {
     "name": "Go Des Magnetic Car Air Vent Phone Mount",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Go-Des magnetic car air vent phone mount transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2711,10 +2024,6 @@ const productsData = [
   {
     "name": "HP USB-C Universal Dock G2",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/HP USB-C universal dock G2 transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2722,10 +2031,6 @@ const productsData = [
   {
     "name": "Honor 10 Lite",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Honor 10 Lite box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2733,10 +2038,6 @@ const productsData = [
   {
     "name": "Huawei P30 Lite",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Huawei P30 Lite retail box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2744,10 +2045,6 @@ const productsData = [
   {
     "name": "Intek 65W Universal Laptop Charger with USB-C Port",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Intek 65W universal laptop charger with USB C port transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2755,10 +2052,6 @@ const productsData = [
   {
     "name": "Intek 90W Universal Laptop Charger 12 Tips",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Intek 90W universal laptop charger 12 tips box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2766,10 +2059,6 @@ const productsData = [
   {
     "name": "JBL Tune 130NC TWS Earbuds",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/JBL Tune 130NC TWS box transparent png.jpg",
     "variants": [
       "ANC",
@@ -2780,10 +2069,6 @@ const productsData = [
   {
     "name": "K06 2.4G Wireless Keyboard and Mouse Set",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/K-06 2.4G wireless keyboard and mouse set white transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2791,10 +2076,6 @@ const productsData = [
   {
     "name": "K07 Selfie Stick Tripod",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/K07 selfie stick tripod box transparent png.png",
     "variants": [],
     "flavors": []
@@ -2802,10 +2083,6 @@ const productsData = [
   {
     "name": "K8 Wireless Lavalier Microphone for iPhone",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/K8 wireless microphone for iPhone lightning transparent png.jpg",
     "variants": [
       "Lightning",
@@ -2816,10 +2093,6 @@ const productsData = [
   {
     "name": "King Kong Anti Shock Clear Phone Case",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/King Kong anti-shock clear phone case transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2827,10 +2100,6 @@ const productsData = [
   {
     "name": "King Kong Armor Shockproof Clear Case Samsung Galaxy A07",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/King Kong armor shockproof clear case Samsung Galaxy A07 transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2838,10 +2107,6 @@ const productsData = [
   {
     "name": "King Kong Armor Shockproof Clear Case Samsung Galaxy A33 5G",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/King Kong armor shockproof clear case Samsung Galaxy A33 5G transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2849,10 +2114,6 @@ const productsData = [
   {
     "name": "King Kong Armor Shockproof Clear Case Samsung Galaxy A35 5G",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/King Kong armor shockproof clear case Samsung Galaxy A35 5G transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2860,10 +2121,6 @@ const productsData = [
   {
     "name": "Koleer H33 Bluetooth Speaker",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Koleer H33 bluetooth speaker transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2871,10 +2128,6 @@ const productsData = [
   {
     "name": "Koleer H51 Portable Bass Speaker",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Koleer H51 portable bass speaker transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2882,10 +2135,6 @@ const productsData = [
   {
     "name": "Koleer H73 Wireless Speaker",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Koleer H73 wireless speaker transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2893,10 +2142,6 @@ const productsData = [
   {
     "name": "L19 Gimbal Stabilizer Selfie Stick Tripod",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/L19 gimbal stabilizer selfie stick tripod box transparent png.png",
     "variants": [],
     "flavors": []
@@ -2904,10 +2149,6 @@ const productsData = [
   {
     "name": "MTK 7-in-1 Game Pad",
     "category": "Gaming",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/M-TK 7 in 1 gamepad controller box transparent png.jpg",
     "variants": [
       "Wireless",
@@ -2918,10 +2159,6 @@ const productsData = [
   {
     "name": "MTK TB2028 2-in-1 USB-C Card Reader",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/M-TK TB2028 2 in 1 usb type c card reader box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2929,10 +2166,6 @@ const productsData = [
   {
     "name": "MTK USB Wall Charger with Lightning Cable",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/M-TK USB wall charger plug with lightning cable box transparent png.webp",
     "variants": [],
     "flavors": []
@@ -2940,10 +2173,6 @@ const productsData = [
   {
     "name": "MJ338 RGB LED Soft Ring Light",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/MJ338 RGB LED soft ring light box transparent png.webp",
     "variants": [],
     "flavors": []
@@ -2951,10 +2180,6 @@ const productsData = [
   {
     "name": "MTK 2.5 Inch SATA Hard Drive Enclosure",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/MTK 2.5 inch SATA hard drive enclosure box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2962,10 +2187,6 @@ const productsData = [
   {
     "name": "Miniso Wireless Speaker Blue",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Miniso wireless speaker blue transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2973,10 +2194,6 @@ const productsData = [
   {
     "name": "NCC 10000mAh Power Bank",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/NCC 10000mah power bank box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2984,10 +2201,6 @@ const productsData = [
   {
     "name": "NCC 85W Universal Laptop Power Adapter with Tips",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/NCC 85W universal laptop power adapter with tips transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -2995,10 +2208,6 @@ const productsData = [
   {
     "name": "Newrixing NR-3026M Wireless Speaker",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/NewRixing NR-3026M wireless speaker transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3006,10 +2215,6 @@ const productsData = [
   {
     "name": "Oppo A16s",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/OPPO A16s retail box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3017,10 +2222,6 @@ const productsData = [
   {
     "name": "Pod Salt Cali Greens Nic Salts",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Pod Salt Cali Greens amnesia mango 10ml box transparent png.jpg",
     "variants": [
       "10ml",
@@ -3033,10 +2234,6 @@ const productsData = [
   {
     "name": "Pod Salt Core Nic Salts",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Pod Salt Core Blue Berg 10ml box transparent png.jpg",
     "variants": [
       "10ml",
@@ -3074,10 +2271,6 @@ const productsData = [
   {
     "name": "Pod Salt Nexus Nic Salts",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Pod Salt Nexus blueberry blackberry lemonade 10ml box transparent png.jpg",
     "variants": [
       "10ml",
@@ -3096,10 +2289,6 @@ const productsData = [
   {
     "name": "Pod Salt Origin Nic Salts",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Pod Salt Origin Menthol Tobacco 10ml box transparent png.jpg",
     "variants": [
       "10ml",
@@ -3117,10 +2306,6 @@ const productsData = [
   {
     "name": "Ramillion Nic Salts",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Ramillion nic salts fresh mint 10ml box transparent png.jpg",
     "variants": [
       "10ml",
@@ -3156,10 +2341,6 @@ const productsData = [
   {
     "name": "Remax Extendable Selfie Stick Tripod Stand",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Remax extendable selfie stick tripod stand transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3167,10 +2348,6 @@ const productsData = [
   {
     "name": "Samsung 15W USB-C Travel Adapter",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung 15W travel adapter USB C white box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3178,10 +2355,6 @@ const productsData = [
   {
     "name": "Samsung 45W PD Power Adapter",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung 45W PD power adapter with type c cable box transparent png.jpg",
     "variants": [
       "45W PD",
@@ -3192,10 +2365,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy A05s",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy A05s light violet retail box transparent png.jpg",
     "variants": [
       "128GB",
@@ -3206,10 +2375,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy A05s Red Flip Leather Wallet Case",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy A05s red flip leather wallet case transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3217,10 +2382,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy A07",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy A07 retail box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3228,10 +2389,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy A14",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy A14 retail box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3239,10 +2396,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy A15 Black Silicone Phone Case",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy A15 black silicone phone case transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3250,10 +2403,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy A15",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy A15 retail box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3261,10 +2410,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy A16 5G",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy A16 5G retail box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3272,10 +2417,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy A16",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy A16 retail box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3283,10 +2424,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy A17 5G",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy A17 5G retail box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3294,10 +2431,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy A26 5G",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy A26 5G retail box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3305,10 +2438,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy A34 5G",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy A34 5G awesome lime retail box transparent png.jpg",
     "variants": [
       "5G",
@@ -3319,10 +2448,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy A36 5G",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy A36 5G retail box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3330,10 +2455,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy A52s 5G",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy A52s 5G retail box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3341,10 +2462,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy A55 5G",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy A55 5G retail box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3352,10 +2469,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy A56 5G",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy A56 5G retail box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3363,10 +2476,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy Buds 3 Pro",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy Buds 3 Pro black box transparent png.jpg",
     "variants": [
       "Bluetooth",
@@ -3377,10 +2486,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy Note 10 USB-C to USB-C Cable",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy Note 10 type c to type c cable box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3388,10 +2493,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy Note 3",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy Note 3 white handset transparent png.jpg",
     "variants": [
       "White"
@@ -3401,10 +2502,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy S10 Travel Adapter Black",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy S10 travel adapter black box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3412,10 +2509,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy S10 Wallet Case and Wireless Charger Bundle",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy S10 wallet case and wireless charger bundle box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3423,10 +2516,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy S20 5G",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy S20 5G transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3434,10 +2523,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy S21 FE 5G",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy S21 FE 5G transparent png.jpg",
     "variants": [
       "128GB",
@@ -3448,10 +2533,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy S24 Ultra Lavender Silicone Case",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy S24 Ultra lavender silicone case transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3459,10 +2540,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy Tab S7 FE 5G",
     "category": "Tablets",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy Tab S7 FE 5G box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3470,10 +2547,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy Black Matte Tpu Shockproof Case",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung Galaxy black matte tpu shockproof case transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3481,10 +2554,6 @@ const productsData = [
   {
     "name": "Samsung Micro USB Data Cable",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Samsung micro usb data cable white box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3492,10 +2561,6 @@ const productsData = [
   {
     "name": "T1 Handheld Selfie Stick Tripod 360 Rotation",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/T1 handheld selfie stick tripod 360 rotation box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3503,10 +2568,6 @@ const productsData = [
   {
     "name": "TWS 001 Wireless Sports Earphones",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/TWS 001 wireless sports earphones box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3514,10 +2575,6 @@ const productsData = [
   {
     "name": "TWS Wireless Earbuds with Charging Case",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/TWS wireless earbuds with charging case red box transparent png.jpg",
     "variants": [
       "Bluetooth",
@@ -3528,10 +2585,6 @@ const productsData = [
   {
     "name": "Thomson 14-inch Windows 10 Laptop",
     "category": "Laptops",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Thomson 14 inch notebook white transparent png.jpg",
     "variants": [
       "Windows 10"
@@ -3541,10 +2594,6 @@ const productsData = [
   {
     "name": "Toshiba Canvio Basics 1TB External Hard Drive",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Toshiba Canvio Basics 1TB external hard drive box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3552,10 +2601,6 @@ const productsData = [
   {
     "name": "Ven Dens Magnetic Dashboard Car Phone Mount",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Ven-Dens magnetic dashboard car phone mount transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3563,10 +2608,6 @@ const productsData = [
   {
     "name": "Ventev Global Chargehub 300 Travel Adapter",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Ventev global chargehub 300 travel adapter transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3574,10 +2615,6 @@ const productsData = [
   {
     "name": "Vodafone Smart E9",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Vodafone Smart E9 retail box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3585,10 +2622,6 @@ const productsData = [
   {
     "name": "Vodafone Smart Mini 7",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Vodafone Smart mini 7 box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3596,10 +2629,6 @@ const productsData = [
   {
     "name": "Vodafone Smart Turbo 7",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Vodafone Smart turbo 7 box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3607,10 +2636,6 @@ const productsData = [
   {
     "name": "Xiaomi Redmi A2",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Xiaomi Redmi A2 retail box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3618,10 +2643,6 @@ const productsData = [
   {
     "name": "Yesido YAU25 Bluetooth 3.5mm Audio Adapter",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Yesido YAU25 bluetooth 3.5mm audio adapter transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3629,10 +2650,6 @@ const productsData = [
   {
     "name": "Zendi USB to SATA 2.5 Hard Drive Enclosure",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Zendi USB to SATA 2.5 hard drive enclosure transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3640,10 +2657,6 @@ const productsData = [
   {
     "name": "Aluminum Alloy Wireless Charging Pad Black",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/aluminum alloy wireless charging pad black transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3651,10 +2664,6 @@ const productsData = [
   {
     "name": "Budi 15W Wireless Charger Stand",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/budi 15W wireless charger stand yellow box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3662,10 +2671,6 @@ const productsData = [
   {
     "name": "Budi Magnetic Wireless Power Bank with Stand Yellow",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/budi magnetic wireless power bank with stand yellow box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3673,10 +2678,6 @@ const productsData = [
   {
     "name": "Business Bluetooth Single Earhook Earphone",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/business bluetooth single earhook earphone transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3684,10 +2685,6 @@ const productsData = [
   {
     "name": "Cat5e RJ45 Ethernet Cable 5m",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/cat5e rj45 ethernet cable 5m box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3695,10 +2692,6 @@ const productsData = [
   {
     "name": "Crossbody Phone Lanyard Rope Strap",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/crossbody phone lanyard rope strap transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3706,10 +2699,6 @@ const productsData = [
   {
     "name": "Dual-Port 20W PD Fast Charger",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/dual port 20W PD fast charger UK plug white transparent png.webp",
     "variants": [],
     "flavors": []
@@ -3717,10 +2706,6 @@ const productsData = [
   {
     "name": "ELFLIQ by Elf Bar Nic Salts",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/elfliq-cherry-nic-salts-e-liquid.webp",
     "variants": [
       "10ml",
@@ -3752,10 +2737,6 @@ const productsData = [
   {
     "name": "iMaxx MagSafe Anti-Shock Clear iPhone Case",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iMaxx magsafe anti shock clear case iPhone box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3763,10 +2744,6 @@ const productsData = [
   {
     "name": "iMaxx Silicone iPhone Case — Yellow",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iMaxx silicone phone case iPhone yellow transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3774,10 +2751,6 @@ const productsData = [
   {
     "name": "iPhone 11 Pro Metallic Case with Magnetic Ring Kickstand Red",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iPhone 11 Pro metallic case with magnetic ring kickstand red transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3785,10 +2758,6 @@ const productsData = [
   {
     "name": "iPhone 11 Black Leather Wallet Magnetic Flip Case",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iPhone 11 black leather wallet magnetic flip case transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3796,10 +2765,6 @@ const productsData = [
   {
     "name": "iPhone 14 Pro Case with Rotating Ring Stand Pink",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iPhone 14 Pro case with rotating ring stand pink transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3807,10 +2772,6 @@ const productsData = [
   {
     "name": "iPhone 14 Clear Case Electroplated Rose Gold Frame MagSafe",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iPhone 14 clear case electroplated rose gold frame magsafe transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3818,10 +2779,6 @@ const productsData = [
   {
     "name": "iPhone 15 Plus Silicone Case Orange",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iPhone 15 Plus silicone case orange transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3829,10 +2786,6 @@ const productsData = [
   {
     "name": "iPhone 15 Pro Tan Brown Leather Wallet Folio Case",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iPhone 15 Pro tan brown leather wallet folio case transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3840,10 +2793,6 @@ const productsData = [
   {
     "name": "iPhone 15 Smooth Silicone Case Purple",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iPhone 15 smooth silicone case purple transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3851,10 +2800,6 @@ const productsData = [
   {
     "name": "iPhone 5W USB Power Adapter with Lightning Cable",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iPhone 5W USB power adapter with lightning cable box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3862,10 +2807,6 @@ const productsData = [
   {
     "name": "iPhone 7 8 SE Black Leather Wallet Flip Case",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iPhone 7 8 SE black leather wallet flip case transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3873,10 +2814,6 @@ const productsData = [
   {
     "name": "IQOS Iluma One",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/iqos-iluma-one-heated-tobacco-kit.webp",
     "variants": [
       "Heated tobacco kit"
@@ -3886,10 +2823,6 @@ const productsData = [
   {
     "name": "Kingston DataTraveler 70 USB-C",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/kingston-datatraveler-70-usb-c-flash-drive-128gb.webp",
     "variants": [
       "128GB",
@@ -3900,10 +2833,6 @@ const productsData = [
   {
     "name": "Kingston DataTraveler Exodia USB 3.2",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/kingston-datatraveler-exodia-usb-3-2-flash-drive-128gb.webp",
     "variants": [
       "128GB",
@@ -3914,10 +2843,6 @@ const productsData = [
   {
     "name": "Leather Airpods Case with Carabiner Black",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/leather airpods case with carabiner black transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3925,10 +2850,6 @@ const productsData = [
   {
     "name": "Samsung Galaxy A13 5G Leather Wallet Case",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/leather wallet phone case Samsung Galaxy A13 5G transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3936,10 +2857,6 @@ const productsData = [
   {
     "name": "LED Water Dancing Wireless Bluetooth Speaker",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/led water dancing wireless bluetooth speaker box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3947,10 +2864,6 @@ const productsData = [
   {
     "name": "Lightning to 3.5mm Headphone Adapter",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/lightning to 3.5mm headphone adapter short cable transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3958,10 +2871,6 @@ const productsData = [
   {
     "name": "Lightning to USB OTG Adapter",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/lightning to usb female otg cable adapter blue transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3969,10 +2878,6 @@ const productsData = [
   {
     "name": "Magnetic Tablet Keyboard Folio Case Dark Blue",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/magnetic tablet keyboard folio case dark blue transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -3980,10 +2885,6 @@ const productsData = [
   {
     "name": "Nokia 106 4G",
     "category": "Smartphones",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/nokia-106-4g-feature-phone.webp",
     "variants": [
       "Feature phone",
@@ -3994,10 +2895,6 @@ const productsData = [
   {
     "name": "Outdoor Wireless Party Speaker with Wired Microphone",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/outdoor wireless party speaker with wired microphone box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -4005,10 +2902,6 @@ const productsData = [
   {
     "name": "Pocket Wi-Fi 5G 300Mbps Mobile Hotspot Router Yellow",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/pocket wifi 5g 300mbps mobile hotspot router yellow box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -4016,10 +2909,6 @@ const productsData = [
   {
     "name": "Pod Salt The Big Tasty Nic Salts",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/pod-salt-big-tasty-cola-with-lime-nic-salts-e-liquid.webp",
     "variants": [
       "10ml",
@@ -4032,10 +2921,6 @@ const productsData = [
   {
     "name": "Pod Salt Reds Apple Nic Salts",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/pod-salt-reds-apple-blue-razapple-ice-nic-salts-e-liquid.webp",
     "variants": [
       "10ml",
@@ -4048,10 +2933,6 @@ const productsData = [
   {
     "name": "Portable Full HD Body Camera Audio Video Recorder",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/portable full hd body camera audio video recorder box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -4059,10 +2940,6 @@ const productsData = [
   {
     "name": "Retractable 240W USB-C to USB-C Cable",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/retractable 240W USB C to USB C cable transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -4070,10 +2947,6 @@ const productsData = [
   {
     "name": "Silicone Charging Stand Dock for Apple Watch White",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/silicone charging stand dock for apple watch white transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -4081,10 +2954,6 @@ const productsData = [
   {
     "name": "Silicone Quilted Earbud Case Blue",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/silicone quilted earbud case blue transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -4092,10 +2961,6 @@ const productsData = [
   {
     "name": "Slim 20000mAh Power Bank",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/slim 20000mah power bank white box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -4103,10 +2968,6 @@ const productsData = [
   {
     "name": "Smart Sports Watch Blue Strap Square Screen",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/smart sports watch blue strap square screen box transparent png.png",
     "variants": [],
     "flavors": []
@@ -4114,10 +2975,6 @@ const productsData = [
   {
     "name": "Speed Flash microSD Card 32GB",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/speed-flash-microsd-memory-card-with-adapter-32gb.webp",
     "variants": [],
     "flavors": []
@@ -4125,10 +2982,6 @@ const productsData = [
   {
     "name": "Speed Flash microSD Card 64GB",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/speed-flash-microsd-memory-card-with-adapter-64gb.webp",
     "variants": [],
     "flavors": []
@@ -4136,10 +2989,6 @@ const productsData = [
   {
     "name": "Tripod Support Phone Stand",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/tripod support phone stand box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -4147,10 +2996,6 @@ const productsData = [
   {
     "name": "Ultra Slim Portable Bluetooth Keyboard Black",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/ultra slim portable bluetooth keyboard black transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -4158,10 +3003,6 @@ const productsData = [
   {
     "name": "Universal Active Stylus Pen White",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/universal active stylus pen white box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -4169,10 +3010,6 @@ const productsData = [
   {
     "name": "Universal All-in-One Travel Adapter USB-C",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/universal all in one travel adaptor usb type c transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -4180,10 +3017,6 @@ const productsData = [
   {
     "name": "Universal Fine Point Capacitive Touch Stylus Pen Silver",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/universal fine point capacitive touch stylus pen silver transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -4191,10 +3024,6 @@ const productsData = [
   {
     "name": "USB 2.0 to RJ45 Ethernet LAN Adapter",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/usb 2.0 to rj45 ethernet lan network adapter transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -4202,10 +3031,6 @@ const productsData = [
   {
     "name": "Ven Dens Explosion Proof Tempered Glass Tiger Edition",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/ven-dens-explosion-proof-tempered-glass-tiger-edition.webp",
     "variants": [],
     "flavors": []
@@ -4213,10 +3038,6 @@ const productsData = [
   {
     "name": "Ven Dens Magic Glass Screen Protector for iPhone",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/ven-dens-magic-glass-box-screen-protector-for-iphone.webp",
     "variants": [],
     "flavors": []
@@ -4224,10 +3045,6 @@ const productsData = [
   {
     "name": "Ven Dens Privacy Tempered Glass Screen Protector",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/ven-dens-privacy-tempered-glass-screen-protector.webp",
     "variants": [],
     "flavors": []
@@ -4235,10 +3052,6 @@ const productsData = [
   {
     "name": "Wavy Curly Frame Silicone Phone Case Neon Pink",
     "category": "Protection & Cases",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/wavy curly frame silicone phone case neon pink transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -4246,10 +3059,6 @@ const productsData = [
   {
     "name": "White TWS Wireless Earbuds",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/white TWS wireless earbuds box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -4257,10 +3066,6 @@ const productsData = [
   {
     "name": "Wired Gaming Mouse 3200 DPI",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/wired gaming mouse 3200 dpi black green transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -4268,10 +3073,6 @@ const productsData = [
   {
     "name": "Wireless CarPlay / Android Auto Adapter",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/wireless carplay android auto usb adapter dongle transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -4279,10 +3080,6 @@ const productsData = [
   {
     "name": "Wireless Honeycomb Mouse RGB Black",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/wireless honeycomb mouse rgb black transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -4290,10 +3087,6 @@ const productsData = [
   {
     "name": "Wireless Over Ear Bluetooth Headphones Black",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/wireless over ear bluetooth headphones black box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -4301,10 +3094,6 @@ const productsData = [
   {
     "name": "Wireless Ultra Slim Keyboard White",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/wireless ultra slim keyboard white box transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -4312,10 +3101,6 @@ const productsData = [
   {
     "name": "Wireless N Wi-Fi Repeater 300Mbps WR03T",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/wireless-n wifi repeater 300mbps wr03t transparent png.jpg",
     "variants": [],
     "flavors": []
@@ -4323,10 +3108,6 @@ const productsData = [
   {
     "name": "Zen Coconut Charcoal Cubes",
     "category": "Tech Accessories",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/zen-coconut-shell-coal-cubes-for-hookah.webp",
     "variants": [
       "Coconut shell cubes"
@@ -4336,10 +3117,6 @@ const productsData = [
   {
     "name": "Aspire Minican Plus",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Aspire Minican Plus kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -4357,10 +3134,6 @@ const productsData = [
   {
     "name": "Dojo Blast 2000",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Dojo Blast 2000 vape kit transparent png.jpg",
     "variants": [
       "Up to 2000 puffs",
@@ -4402,10 +3175,6 @@ const productsData = [
   {
     "name": "Geekvape Aegis Pod Kit",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Geekvape Aegis pod kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -4421,10 +3190,6 @@ const productsData = [
   {
     "name": "Geekvape Max100 Kit",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Geekvape Max100 kit box transparent png.jpg",
     "variants": [
       "100W",
@@ -4440,10 +3205,6 @@ const productsData = [
   {
     "name": "HorizonTech Falcon Legend Tank",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/HorizonTech Falcon Legend tank box transparent png.jpg",
     "variants": [
       "0.3Ω",
@@ -4457,10 +3218,6 @@ const productsData = [
   {
     "name": "Innokin Endura T18E Starter Kit",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Innokin Endura T18E starter kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -4475,10 +3232,6 @@ const productsData = [
   {
     "name": "Lost Vape Thelema Elite 40",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Lost Vape Thelema Elite 40 kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -4497,10 +3250,6 @@ const productsData = [
   {
     "name": "Lost Vape Ursa Cap Pro",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Lost Vape Ursa Cap Pro kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -4518,10 +3267,6 @@ const productsData = [
   {
     "name": "Mevol 14K Pod Kit",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Mevol 14K pod kit box transparent png.jpg",
     "variants": [
       "Up to 14,000 puffs"
@@ -4562,10 +3307,6 @@ const productsData = [
   {
     "name": "OXVA Xlim Pro",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/OXVA Xlim Pro kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -4583,10 +3324,6 @@ const productsData = [
   {
     "name": "OXVA Xlim SE",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/OXVA Xlim SE kit box transparent png.png",
     "variants": [
       "Black",
@@ -4604,10 +3341,6 @@ const productsData = [
   {
     "name": "SKE Bar 15K Pod Kit",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/SKE Bar 15K pod kit box transparent png.jpg",
     "variants": [
       "Up to 15,000 puffs",
@@ -4649,10 +3382,6 @@ const productsData = [
   {
     "name": "Smok A-Priv Kit",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Smok A-Priv kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -4671,10 +3400,6 @@ const productsData = [
   {
     "name": "Smok Arco Digi Kit",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Smok Arco Digi kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -4691,10 +3416,6 @@ const productsData = [
   {
     "name": "Smok Mag Pod Kit",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Smok Mag Pod kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -4711,10 +3432,6 @@ const productsData = [
   {
     "name": "Smok Mag V8 Kit",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Smok Mag V8 kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -4733,10 +3450,6 @@ const productsData = [
   {
     "name": "Smok Nfix Pro",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Smok Nfix Pro kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -4753,10 +3466,6 @@ const productsData = [
   {
     "name": "Smok Nord 4",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Smok Nord 4 kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -4773,10 +3482,6 @@ const productsData = [
   {
     "name": "Smok Nord 50W",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Smok Nord 50W kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -4794,10 +3499,6 @@ const productsData = [
   {
     "name": "Smok Nord Pro",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Smok Nord Pro kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -4814,10 +3515,6 @@ const productsData = [
   {
     "name": "Smok Novo 2",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Smok Novo 2 kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -4834,10 +3531,6 @@ const productsData = [
   {
     "name": "Smok RPM 5",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Smok RPM 5 kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -4856,10 +3549,6 @@ const productsData = [
   {
     "name": "Teslacigs I-KIT",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Teslacigs I-KIT box transparent png.jpg",
     "variants": [
       "Black",
@@ -4879,10 +3568,6 @@ const productsData = [
   {
     "name": "Uwell Caliburn G2",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Uwell Caliburn G2 kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -4900,10 +3585,6 @@ const productsData = [
   {
     "name": "Uwell Caliburn Tenet KOKO",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Uwell Caliburn Tenet Koko kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -4921,10 +3602,6 @@ const productsData = [
   {
     "name": "Uwell Caliburn X",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Uwell Caliburn X kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -4942,10 +3619,6 @@ const productsData = [
   {
     "name": "Vaporesso Eco Nano",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Vaporesso Eco Nano kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -4963,10 +3636,6 @@ const productsData = [
   {
     "name": "Vaporesso Luxe Q",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Vaporesso Luxe Q kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -4984,10 +3653,6 @@ const productsData = [
   {
     "name": "Vaporesso Vibe SE",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Vaporesso Vibe SE kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -5007,10 +3672,6 @@ const productsData = [
   {
     "name": "Vaporesso XROS 3 Nano",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Vaporesso Xros 3 Nano kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -5028,10 +3689,6 @@ const productsData = [
   {
     "name": "Vaporesso XROS 4",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Vaporesso Xros 4 kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -5049,10 +3706,6 @@ const productsData = [
   {
     "name": "Vaporesso XROS Cube",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Vaporesso Xros Cube kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -5070,10 +3723,6 @@ const productsData = [
   {
     "name": "Vaporesso XROS Pro",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Vaporesso Xros Pro kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -5091,10 +3740,6 @@ const productsData = [
   {
     "name": "Voopoo Argus P1",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Voopoo Argus P1 kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -5112,10 +3757,6 @@ const productsData = [
   {
     "name": "Voopoo Argus Pod Kit",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Voopoo Argus pod kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -5133,10 +3774,6 @@ const productsData = [
   {
     "name": "Voopoo Drag S",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Voopoo Drag S pod mod kit box transparent png.jpg",
     "variants": [
       "Black",
@@ -5157,10 +3794,6 @@ const productsData = [
   {
     "name": "Vuse eTank Mini Starter Kit",
     "category": "Vape Kits",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Vuse eTank Mini starter kit box transparent png.jpg",
     "variants": [
       "Starter kit"
@@ -5176,10 +3809,6 @@ const productsData = [
   {
     "name": "Lost Mary Crystal Pro Pods",
     "category": "Vape Refills",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Hawcos Lost Mary Crystal Pro pods pack transparent png.jpg",
     "variants": [
       "Prefilled pods"
@@ -5220,10 +3849,6 @@ const productsData = [
   {
     "name": "Hayati Pro Ultra+ 25K Replacement Pods",
     "category": "Vape Refills",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Hayati Pro Ultra Plus 25000 pods pack transparent png.jpg",
     "variants": [
       "25,000 puffs",
@@ -5265,10 +3890,6 @@ const productsData = [
   {
     "name": "Lost Mary BM600 Prefilled Pods",
     "category": "Vape Refills",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Lost Mary BM600 prefilled pod pack transparent png.jpg",
     "variants": [
       "Prefilled pods",
@@ -5310,10 +3931,6 @@ const productsData = [
   {
     "name": "Smok Arco Replacement Pods",
     "category": "Vape Refills",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Smok Arco replacement pods pack transparent png.jpg",
     "variants": [
       "0.8Ω",
@@ -5325,10 +3942,6 @@ const productsData = [
   {
     "name": "Bazooka Sour Straws Shortfill",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Bazooka Sour Straws Green Apple 100ml box transparent png.jpg",
     "variants": [
       "100ml shortfill",
@@ -5348,10 +3961,6 @@ const productsData = [
   {
     "name": "Dinner Lady Shortfill",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Dinner Lady 50ml shortfill bottle transparent png.jpg",
     "variants": [
       "50ml shortfill",
@@ -5379,10 +3988,6 @@ const productsData = [
   {
     "name": "DK Cakes Shortfill",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/DK Cakes Victoria Sponge 100ml bottle transparent png.jpg",
     "variants": [
       "100ml shortfill",
@@ -5402,10 +4007,6 @@ const productsData = [
   {
     "name": "DK Fruits Shortfill",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/DK Fruits 100ml shortfill bottle transparent png.jpg",
     "variants": [
       "100ml shortfill",
@@ -5427,10 +4028,6 @@ const productsData = [
   {
     "name": "Donut King Shortfill",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Donut King 100ml shortfill bottle transparent png.jpg",
     "variants": [
       "100ml shortfill",
@@ -5454,10 +4051,6 @@ const productsData = [
   {
     "name": "Double Drip Coil Sauce Shortfill",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Double Drip Coil Sauce 50ml box transparent png.jpg",
     "variants": [
       "50ml shortfill",
@@ -5479,10 +4072,6 @@ const productsData = [
   {
     "name": "Elegant CBD 1000mg Oil",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Elegant CBD 1000mg 60ml lemon bottle transparent png.jpg",
     "variants": [
       "1000mg",
@@ -5499,10 +4088,6 @@ const productsData = [
   {
     "name": "JB Juice Bar Shortfill",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/JB Juice Bar 100ml shortfill bottle transparent png.jpg",
     "variants": [
       "100ml shortfill",
@@ -5534,10 +4119,6 @@ const productsData = [
   {
     "name": "Lost Mary 5mg Nic Salts",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Lost Mary 5mg nic salt box transparent png.jpg",
     "variants": [
       "10ml",
@@ -5565,10 +4146,6 @@ const productsData = [
   {
     "name": "Nic Drip Nic Salts",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Nic Drip salts 10ml bottle transparent png.jpg",
     "variants": [
       "10ml",
@@ -5596,10 +4173,6 @@ const productsData = [
   {
     "name": "Ohm Brew Badass Blends Shortfill",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Ohm Brew Badass Blends 50ml bottle transparent png.jpg",
     "variants": [
       "50ml shortfill",
@@ -5621,10 +4194,6 @@ const productsData = [
   {
     "name": "Puff Stuff Shortfill",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Puff Stuff British Tobacco 100ml bottle transparent png.jpg",
     "variants": [
       "100ml shortfill",
@@ -5642,10 +4211,6 @@ const productsData = [
   {
     "name": "SKE Crystal Nic Salts",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/SKE Crystal salts 10ml box transparent png.jpg",
     "variants": [
       "10ml",
@@ -5677,10 +4242,6 @@ const productsData = [
   {
     "name": "Strapped Soda Shortfill",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Strapped Soda Proper Punch 100ml bottle transparent png.jpg",
     "variants": [
       "100ml shortfill",
@@ -5700,10 +4261,6 @@ const productsData = [
   {
     "name": "Tasty Fruity Shortfill",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Tasty Fruity 120ml shortfill bottle transparent png.jpg",
     "variants": [
       "120ml shortfill",
@@ -5727,10 +4284,6 @@ const productsData = [
   {
     "name": "Vapour Life Shortfill",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Vapour Life 100ml shortfill bottle transparent png.jpg",
     "variants": [
       "100ml shortfill",
@@ -5754,10 +4307,6 @@ const productsData = [
   {
     "name": "Vitality CBD Oral Drops",
     "category": "E-Liquids",
-    "badge_text": "ENQUIRE FOR PRICE",
-    "action_type": "call",
-    "action_btn_text": "Call Store for Price & Stock",
-    "action_link": "tel:+442080011639",
     "image": "catalogue-images/Vitality CBD oral drops box transparent png.jpg",
     "variants": [
       "Oral drops"
@@ -5768,6 +4317,72 @@ const productsData = [
       "Berry",
       "Citrus",
       "Vanilla"
+    ]
+  },
+  {
+    "name": "SKE Elf Nicotine Pouches",
+    "category": "Nicotine Pouches",
+    "image": "catalogue-images/ske-elf-nicotine-pouches.png",
+    "variants": [
+      "12mg Medium",
+      "20mg X-Strong"
+    ],
+    "flavors": [
+      "Pineapple Ice",
+      "Grape Ice"
+    ]
+  },
+  {
+    "name": "Siberia Nicotine Pouches",
+    "category": "Nicotine Pouches",
+    "image": "catalogue-images/siberia-nicotine-pouches.jpg",
+    "variants": [
+      "16g can",
+      "Ultra Strong",
+      "White Dry"
+    ],
+    "flavors": [
+      "-80 Degrees Extremely Strong Mint"
+    ]
+  },
+  {
+    "name": "Fumi Nicotine Pouches",
+    "category": "Nicotine Pouches",
+    "image": "catalogue-images/fumi-nicotine-pouches.webp",
+    "variants": [
+      "Strong",
+      "Made in Sweden"
+    ],
+    "flavors": [
+      "Tangy Strawberry",
+      "Minty Blueberry",
+      "Fiery Mango",
+      "Freezy Mint"
+    ]
+  },
+  {
+    "name": "Zone Nicotine Pouches",
+    "category": "Nicotine Pouches",
+    "image": "catalogue-images/zone-nicotine-pouches.webp",
+    "variants": [
+      "Standard strength"
+    ],
+    "flavors": [
+      "Standard Mint"
+    ]
+  },
+  {
+    "name": "Nordic Spirit Nicotine Pouches",
+    "category": "Nicotine Pouches",
+    "image": "catalogue-images/nordic-spirit-nicotine-pouches.webp",
+    "variants": [
+      "Slim format",
+      "All-white",
+      "Chalk-free"
+    ],
+    "flavors": [
+      "Mint",
+      "Spearmint"
     ]
   }
 ];

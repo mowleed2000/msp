@@ -1483,6 +1483,8 @@ p, .section-header p, body {
     overflow: hidden;
     display: flex;
     flex-direction: column;
+    content-visibility: auto;
+    contain-intrinsic-size: 420px;
     transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
 }
 .catalogue-card:hover {
