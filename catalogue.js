@@ -50,16 +50,17 @@
         if (typeof productsData === 'undefined') return [];
         var q = (query || '').toLowerCase().trim();
         return productsData.filter(function (product) {
-            var catMatch = currentCategory === 'All Products' || product.category === currentCategory;
-            if (!q) return catMatch;
-            var nameMatch = (product.name || '').toLowerCase().indexOf(q) !== -1;
-            var flavorMatch = (product.flavors || []).some(function (flavor) {
-                return String(flavor).toLowerCase().indexOf(q) !== -1;
-            });
-            var variantMatch = (product.variants || []).some(function (variant) {
-                return String(variant).toLowerCase().indexOf(q) !== -1;
-            });
-            return catMatch && (nameMatch || flavorMatch || variantMatch);
+            if (q) {
+                var nameMatch = (product.name || '').toLowerCase().indexOf(q) !== -1;
+                var flavorMatch = (product.flavors || []).some(function (flavor) {
+                    return String(flavor).toLowerCase().indexOf(q) !== -1;
+                });
+                var variantMatch = (product.variants || []).some(function (variant) {
+                    return String(variant).toLowerCase().indexOf(q) !== -1;
+                });
+                return nameMatch || flavorMatch || variantMatch;
+            }
+            return currentCategory === 'All Products' || product.category === currentCategory;
         });
     }
 
