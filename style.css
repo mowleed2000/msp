@@ -1122,6 +1122,7 @@ body {
     background: #050505 !important;
     border-top: 1px solid var(--border) !important;
     border-bottom: 1px solid var(--border) !important;
+    content-visibility: visible;
 }
 
 .brand-marquee-track {
