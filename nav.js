@@ -87,4 +87,43 @@
             }
         });
     });
+
+    function initBrandMarquees() {
+        var reduce = window.matchMedia('(prefers-reduced-motion: reduce)');
+        if (reduce.matches) return;
+
+        document.querySelectorAll('.brand-marquee-container').forEach(function (container) {
+            var track = container.querySelector('.brand-marquee-track');
+            if (!track || track.getAttribute('data-js-marquee') === '1') return;
+            track.setAttribute('data-js-marquee', '1');
+            track.classList.add('is-js-marquee');
+            track.style.animation = 'none';
+
+            var x = 0;
+            var paused = false;
+            var last = performance.now();
+            var speed = 70;
+
+            container.addEventListener('mouseenter', function () { paused = true; });
+            container.addEventListener('mouseleave', function () {
+                paused = false;
+                last = performance.now();
+            });
+
+            function tick(now) {
+                var half = track.scrollWidth / 2;
+                if (half > 1 && !paused) {
+                    var dt = Math.min(48, now - last) / 1000;
+                    x -= speed * dt;
+                    if (-x >= half) x += half;
+                    track.style.transform = 'translate3d(' + x + 'px,0,0)';
+                }
+                last = now;
+                requestAnimationFrame(tick);
+            }
+            requestAnimationFrame(tick);
+        });
+    }
+
+    document.addEventListener('DOMContentLoaded', initBrandMarquees);
 })();

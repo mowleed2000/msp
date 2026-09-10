@@ -1157,9 +1157,11 @@ body {
 .brand-marquee-track {
     display: flex !important;
     width: max-content !important;
-    animation: marqueeScroll 40s linear infinite !important;
-    will-change: transform;
-    backface-visibility: hidden;
+    animation: marqueeScroll 40s linear infinite;
+}
+
+.brand-marquee-track.is-js-marquee {
+    animation: none !important;
 }
 
 .brand-marquee-group {
@@ -2011,12 +2013,11 @@ p, .section-header p, body {
 /* ==========================================================================
    CAREFUL PERF HELPERS (lightweight; avoid layout breakage)
    ========================================================================== */
-#reviews,
-#refurbished-devices,
-#vapes-showcase,
-.footer {
-    content-visibility: auto;
-    contain-intrinsic-size: 1px 480px;
+#repair-brands,
+#vape-brands,
+.brand-marquee-container {
+    content-visibility: visible !important;
+    contain: none !important;
 }
 @media (prefers-reduced-motion: reduce) {
     .brand-marquee-track {
