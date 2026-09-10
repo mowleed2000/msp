@@ -95,6 +95,24 @@
         images.forEach(function (img) { imageObserver.observe(img); });
     }
 
+    function updateCategoryCounts() {
+        if (typeof productsData === 'undefined') return;
+        var counts = { 'All Products': productsData.length };
+        productsData.forEach(function (product) {
+            counts[product.category] = (counts[product.category] || 0) + 1;
+        });
+        document.querySelectorAll('.sidebar-nav-item').forEach(function (item) {
+            var label = (item.textContent || '').replace(/\s+/g, ' ').trim();
+            var pill = item.querySelector('.item-count-pill');
+            if (!pill) return;
+            Object.keys(counts).forEach(function (cat) {
+                if (label.indexOf(cat) !== -1) {
+                    pill.textContent = String(counts[cat]);
+                }
+            });
+        });
+    }
+
     function renderCatalogue() {
         var grid = document.getElementById('catalogueGrid');
         if (!grid || typeof productsData === 'undefined') return;
@@ -237,6 +255,7 @@
         if (!document.getElementById('catalogueGrid')) return;
 
         function boot() {
+            updateCategoryCounts();
             var params = new URLSearchParams(window.location.search);
             var category = params.get('category');
             if (category) {

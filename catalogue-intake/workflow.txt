@@ -96,12 +96,13 @@ I group by brand + product type, not by flavour and not by exact filename.
 Same for Pod Salt Cali Greens, ELFLIQ, Bar Juice 5000, etc.
 
   CSV flavour rows with no range image  ->  skip those rows
-  Name already live on the site         ->  no duplicate card
+  Name already live on the site         ->  keep the live card (no duplicate)
     (I can add extra flavours onto the live card from the CSV)
+  Photographed accessories stay         ->  include Vodafone, Note 3, iPad 2,
+    Koleer, selfie sticks, mice, ethernet, AZ/Budi/Earldom/NCC, car mounts
+    if you sent the image. Do not drop them for a "short list".
 
-Five similar cases and one saved image = one case card.
-Phones / USBs / memory cards = one card per model you photographed.
-Capacities (32GB | 64GB | 128GB) go in variants if the CSV lists them.
+Missing vape kit photos can wait for a later zip. Live vape cards stay.
 
 Categories to use
 -----------------
