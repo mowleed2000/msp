@@ -133,9 +133,12 @@
         } else {
             img = '<img data-src="' + src + '" alt="' + escapeHtml(product.name) + '" width="400" height="400" decoding="async" loading="lazy">';
         }
+        var ageRestricted = ['Vape Kits', 'Vape Refills', 'E-Liquids', 'Nicotine Pouches'].indexOf(product.category) !== -1;
+        var ageBadge = ageRestricted ? '<span class="age-18-badge" title="18+ only">18+</span>' : '';
         card.innerHTML =
             '<div class="catalogue-card-image">' +
                 '<span class="category-tag-badge">' + escapeHtml(product.category) + '</span>' +
+                ageBadge +
                 img +
             '</div>' +
             '<div class="catalogue-card-content">' +
@@ -270,7 +273,8 @@
         if (!modalImg || !modalCat || !modalTitle || !chipsWrap || !modal) return;
 
         modalImg.src = encodeImagePath(product.image);
-        modalCat.innerText = product.category;
+        var ageRestricted = ['Vape Kits', 'Vape Refills', 'E-Liquids', 'Nicotine Pouches'].indexOf(product.category) !== -1;
+        modalCat.innerText = ageRestricted ? product.category + ' · 18+' : product.category;
         modalTitle.innerText = product.name;
 
         chipsWrap.innerHTML = '';
