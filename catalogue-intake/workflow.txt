@@ -1,0 +1,121 @@
+MSP catalogue rebuild — your side, then mine
+============================================
+
+Your workflow is the right one. Do not dump 500 photos on the site.
+Do not one-image-per-flavour. Do this instead.
+
+Folders
+-------
+msp-stock/
+  batches/batch-01 ... batch-50     (10 photos each)
+  lists/batch-01.csv ...            (AI output)
+  master.csv                        (merged unique products)
+  new-images/                       (one clean pack shot per NEW line)
+
+Step 1 — Sort
+-------------
+Put the 500 photos into folders of 10. Name folders batch-01, batch-02, ...
+No need to name the photos yet.
+
+Step 2 — 50 AI batches
+----------------------
+For each folder:
+  1. Open a new chat (or the same chat).
+  2. Paste batch-prompt.txt
+  3. Type: Batch number: 07
+  4. Attach the 10 photos
+  5. Save the CSV it returns as lists/batch-07.csv
+
+The prompt forces ONE row per product RANGE (Velo, Lost Mary 30K, iPhone 15)
+with flavours in one cell: Cherry | Blueberry | Peppermint
+
+Step 3 — Merge
+--------------
+Paste all 50 CSVs into one sheet (Google Sheets or Excel).
+Remove exact duplicate names (same Lost Mary 30K from 12 photos = 1 row).
+If two rows are the same range with different flavours, keep ONE row and
+join the flavour lists.
+
+You should land around 80–200 unique lines, not 500.
+
+Step 4 — Compare to what is already live
+----------------------------------------
+Open current-catalogue.csv (this folder). It is the live site list (123 items).
+
+Match on name, loosely:
+  "Velo Nicotine Pouches"  = already live  -> action SKIP_ALREADY_IN_CATALOGUE
+  "Lost Mary 30K"          = already live  -> SKIP, but copy any extra flavours
+                                             you found into that row's notes
+  "Elf Bar 600"            = not live      -> action ADD
+
+Anything SKIP does not need a new image.
+Anything ADD needs exactly one image.
+
+Step 5 — Download only the images you want on the site
+-----------------------------------------------------
+Gemini (or any list) can tell you what to grab and what to save the file as.
+Either naming style is fine, as long as the file on disk matches image_filename:
+
+  ven-dens-10d-full-glue-tempered-glass-screen-protector.webp
+  Kingston DataTraveler 70 USB C flash drive 128GB blister transparent.png
+
+Put every downloaded file into one folder (new-images/).
+You do not have to download every row Gemini listed.
+Similar protective cases, cable lengths, flavour SKUs: grab ONE and skip the rest.
+That missing file is how you skip them — no need to edit those rows out of the CSV.
+
+Rules for the photo:
+  - Front of the box / device, as square as you can
+  - One product, not a whole shelf
+  - White or plain background if you can
+  - Not one file per flavour
+
+Use manufacturer pack shots or a cropped photo you took. Not Google Images.
+
+Step 6 — Send the CSV plus the image folder
+-------------------------------------------
+Attach in one follow-up:
+  1. the final CSV (Gemini list / master.csv)
+  2. the folder of images you actually saved
+
+How I will load it
+------------------
+Gemini often lists one CSV row per flavour. You download ONE image per
+brand + product type. The filename may still contain one flavour
+(Lost Mary banana ice 50ml.png). That is expected.
+
+I group by brand + product type, not by flavour and not by exact filename.
+
+  Lost Mary banana ice 50ml.png
+  + every Lost Mary 50ml row in the CSV
+  = ONE card named Lost Mary 50ml
+    image = that one file
+    available flavours = all flavours from the CSV rows
+    no extra images needed
+
+Same for Pod Salt Cali Greens, ELFLIQ, Bar Juice 5000, etc.
+
+  CSV flavour rows with no range image  ->  skip those rows
+  Name already live on the site         ->  keep the live card (no duplicate)
+    (I can add extra flavours onto the live card from the CSV)
+  Photographed accessories stay         ->  include Vodafone, Note 3, iPad 2,
+    Koleer, selfie sticks, mice, ethernet, AZ/Budi/Earldom/NCC, car mounts
+    if you sent the image. Do not drop them for a "short list".
+
+Missing vape kit photos can wait for a later zip. Live vape cards stay.
+
+Categories to use
+-----------------
+Smartphones
+Tablets
+Laptops
+Gaming
+Vape Kits
+Vape Refills
+E-Liquids
+Nicotine Pouches
+Tech Accessories
+Protection & Cases
+
+Vapes / liquids / pouches = flavours field.
+Phones / laptops = variants field (128GB | Unlocked, i5 | 8GB | 256GB).

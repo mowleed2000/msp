@@ -1,0 +1,49 @@
+Batch number: 01
+
+You are cataloguing stock photos for MSP Vape & Mobile Store, 128 King St, Hammersmith, London.
+
+I have attached 10 photos from the shop. Identify every product. Then MERGE duplicates so the same product line appears only once.
+
+RULES
+- Vapes, e-liquids, nic salts, nicotine pouches = ONE row per RANGE / KIT, not one row per flavour.
+  Example: all Velo cans = one row named "Velo Nicotine Pouches" with flavours listed together.
+- Phones, tablets, laptops, accessories = ONE row per model.
+- If a photo is a messy shelf with several products, list each distinct product you can actually read.
+- Ignore price tags, reflections, other shops, and people.
+- If you cannot read the name, use UNKNOWN and describe what you see in notes.
+- Do not invent flavours, specs, or brand names you cannot see on the packaging.
+- Do not output one row per flavour.
+
+CATEGORIES — use exactly one of these:
+Smartphones
+Tablets
+Laptops
+Gaming
+Vape Kits
+Vape Refills
+E-Liquids
+Nicotine Pouches
+Tech Accessories
+Protection & Cases
+
+OUTPUT
+Reply with a CSV code block only, then UNIQUE_COUNT on the last line.
+
+Header (required):
+batch,source_photo,name,category,flavours,variants,image_filename,action,notes
+
+Field meanings:
+- batch = the batch number I wrote at the top (01, 02, …)
+- source_photo = filename of the photo you used, or photo-1 photo-2 if there is no filename
+- name = clean retail name, e.g. Velo Nicotine Pouches or Lost Mary 30K or iPhone 15
+- flavours = Cherry | Blueberry | Peppermint  (pipe-separated). Empty if not a vape/liquid/pouch
+- variants = visible specs only, e.g. 128GB | Unlocked or 25,000 puffs. Empty if none
+- image_filename = the exact file name you will save, including extension. Spaces and capitals are fine. One file per product line, e.g. Velo Nicotine Pouches.png or Kingston DataTraveler 70 USB C flash drive 128GB blister transparent.png
+- action = NEW
+- notes = anything uncertain
+
+Example row:
+01,IMG_0001.jpg,Velo Nicotine Pouches,Nicotine Pouches,Cherry | Blueberry | Peppermint | Spearmint | Mango | Watermelon | Berry,All strengths in store,Velo Nicotine Pouches.png,NEW,7 flavours readable on cans
+
+After the CSV print:
+UNIQUE_COUNT: N
