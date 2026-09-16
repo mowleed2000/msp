@@ -1,0 +1,87 @@
+Zip assessment — do not load yet
+================================
+209 files in msp_images.zip. Average size 10KB. 49 files under 5KB.
+These are thumbnail downloads, not full pack shots. Cards will look
+soft if we use them as-is.
+
+Filenames
+---------
+194 files are Google search names:
+  Apple iPhone 15 pink back transparent png.jpg
+15 files are kebab-case:
+  iqos-iluma-one-heated-tobacco-kit.webp
+
+Gemini CSV wants names like vuse-reload-device-kit.webp.
+Almost no exact filename matches. That is OK for grouping, but only
+if the product is actually in the zip.
+
+The hole
+--------
+Batches 1–17 of the CSV are the vape wall: Vuse, JUUL, SKE, Lost Mary
+Nera/BM6000/BM600, Hayati, Elf Bar kits, IVG, Caliburn, Xros, Smok Nord,
+shortfills (JB Juice Bar, Vampire Vape, Dinner Lady, Donut King, etc).
+
+Those pack shots are not in this zip. If we loaded now, those CSV rows
+would all be skipped. The public catalogue would stay phone/accessory
+heavy and would not show the vape kits people search for.
+
+What is in the zip (and would load)
+-----------------------------------
+Vape / tobacco — collapsed correctly to ranges, not flavours:
+  Bar Juice 5000 (2 flavour photos → 1 card; already live)
+  ELFLIQ
+  Elux Legend
+  Ramillion
+  Pod Salt Cali Greens
+  Pod Salt Core
+  Pod Salt Nexus
+  Pod Salt Origin
+  Pod Salt Reds Apple
+  Pod Salt The Big Tasty
+  Lost Mary Maryliq (already live)
+  IQOS Iluma One
+  Nokia 106 feature phone
+  Zen coconut charcoal (box + cubes → 1 card)
+  Kingston DataTraveler 70 + Exodia
+  Ven-Dens glass (privacy / magic box / tiger)
+
+Phones / tablets / laptops — strong:
+  iPhone 7, 8, 8 Plus, X, XS, XS Max, SE, 11–17 models, 13 mini, 16 Pro
+  Samsung A05s, A07, A14, A15, A16, A16 5G, A17 5G, A26, A34, A36,
+  A52s, A55, A56, S20 5G, S21 FE, S23 Ultra
+  Doro 1380, Honor 10 Lite, Huawei P30 Lite, OPPO A16s, Redmi A2
+  iPads, MacBook Air M2, several MacBook Pros
+  Fire 7, Galaxy Tab S7 FE
+
+Many of those iPhones are already live. New cards would be the gaps
+(A-series, Doro, older iPhones not on the site, M2 Air, etc).
+
+Accessories — mixed:
+  Official Apple / Samsung / JBL / Bose / Galaxy Buds: keep
+  AZ / Budi / Earldom / NCC cables, mice, car mounts, selfie sticks,
+  Koleer speakers, ring light, ethernet, Vodafone boxes, Note 3,
+  iPad 2: skip (same skip list as before)
+
+Cases — still too many SKUs:
+  Several iMaxx colours, several King Kong A07/A33/A35, wallets.
+  Collapse to a few family cards, not one card per colour/model.
+
+Verdict
+-------
+Not confident to build the full Gemini CSV from this zip.
+
+Confident to:
+  - skip every CSV row with no image
+  - collapse flavour SKUs onto one range card
+  - add photographed phones / official Apple-Samsung / salt ranges
+  - skip the clutter accessories even if the photo is in the zip
+
+Not confident to:
+  - put Vuse / Lost Mary kits / Hayati / Xros / Caliburn on the site
+    from this zip (they are not in it)
+  - use these thumbnails as final hero images without a quality pass
+
+To build a good catalogue next, either:
+  1. Accept this zip as phones + salts + chosen accessories only, or
+  2. Add the missing vape kit pack shots (the tonight keep-list kits),
+     then load.

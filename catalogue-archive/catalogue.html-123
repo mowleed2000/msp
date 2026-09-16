@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product & Tech Catalogue | MSP</title>
+    <meta name="description" content="Browse live in-store stock — smartphones, tablets, laptops, vapes, nicotine pouches, and accessories. Call for price & availability.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Outfit:wght@600;700&family=Inter:wght@400;600;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Outfit:wght@600;700&family=Inter:wght@400;600;700&display=swap" rel="stylesheet"></noscript>
+    <link rel="preload" href="style.css?v=20260813_msp4" as="style">
+    <link rel="stylesheet" href="style.css?v=20260813_msp4">
+<link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/fontawesome.min.css" media="print" onload="this.onload=null;this.media='all'">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/solid.min.css" media="print" onload="this.onload=null;this.media='all'">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/brands.min.css" media="print" onload="this.onload=null;this.media='all'">
+    <noscript>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/fontawesome.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/solid.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/brands.min.css">
+    </noscript>
+    </head>
+<body>
+
+
+    <!-- Top Announcement Bar -->
+    
+    <!-- Top Announcement Bar -->
+    <div class="top-bar">
+        <div class="container top-bar-content">
+            <div class="top-contact-item"><i class="fa-solid fa-location-dot"></i> 128 King St, London W6 0QU</div>
+            <div class="top-contact-item"><i class="fa-brands fa-whatsapp" style="color: #25d366;"></i> WhatsApp: <a href="https://wa.me/442080011639" target="_blank">020 8001 1639</a></div>
+            <div class="top-contact-item"><i class="fa-solid fa-envelope" style="color: #e11d2a;"></i> Email: <a href="mailto:msp@gmail.com">msp@gmail.com</a></div>
+        </div>
+    </div>
+
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="container nav-container">
+            <a href="index.html" class="logo">
+                <span class="logo-main">MSP</span>
+                <span class="logo-sub">VAPE & MOBILE STORE</span>
+            </a>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="index.html">Home</a></li>
+                <li class="dropdown">
+                    <a href="screen-repair.html" class="dropdown-trigger">Phone Repairs <i class="fa-solid fa-chevron-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="screen-repair.html"><i class="fa-solid fa-mobile-screen"></i> Screen Repair</a></li>
+                        <li><a href="battery-replacement.html"><i class="fa-solid fa-battery-three-quarters"></i> Power & Battery</a></li>
+                        <li><a href="charging-port.html"><i class="fa-solid fa-plug-circle-bolt"></i> Charging Port Fix</a></li>
+                        <li><a href="water-damage.html"><i class="fa-solid fa-droplet"></i> Water Damage Repair</a></li>
+                        <li><a href="phone-unlocking.html"><i class="fa-solid fa-unlock-keyhole"></i> Phone Unlocking</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="laptopscreen.html" class="dropdown-trigger">Laptop Repairs <i class="fa-solid fa-chevron-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="laptopscreen.html"><i class="fa-solid fa-laptop-code"></i> Laptop Screen Repair</a></li>
+                        <li><a href="keyboardports.html"><i class="fa-solid fa-keyboard"></i> Keyboard & Ports</a></li>
+                        <li><a href="ramstorage.html"><i class="fa-solid fa-memory"></i> RAM & SSD Upgrade</a></li>
+                        <li><a href="datarecovery.html"><i class="fa-solid fa-database"></i> Data Recovery</a></li>
+                        <li><a href="liquidspill.html"><i class="fa-solid fa-droplet"></i> Liquid Spill Repair</a></li>
+                        <li><a href="virusmalware.html"><i class="fa-solid fa-bug-slash"></i> Virus Removal</a></li>
+                        <li><a href="powercharging.html"><i class="fa-solid fa-bolt"></i> Power & Battery Repair</a></li>
+                        <li><a href="slowperformance.html"><i class="fa-solid fa-gauge-high"></i> Performance Tuneups</a></li>
+                    </ul>
+                </li>
+                <li><a href="trade-in.html">Trade-In & Cash</a></li>
+                <li><a href="catalogue.html" class="active">Product Catalogue</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+            <div class="nav-ctas">
+                <a href="tel:02080011639" class="nav-cta-btn" style="background: #b91c1c; color: #ffffff; padding: 8px 16px; border-radius: 99px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 6px;"><i class="fa-solid fa-phone"></i> Call Store</a>
+                <a href="https://wa.me/442080011639" target="_blank" class="nav-whatsapp-btn" style="background: #25d366; color: #ffffff; padding: 8px 16px; border-radius: 99px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 6px;"><i class="fa-brands fa-whatsapp"></i> WhatsApp</a>
+            </div>
+            <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="Toggle Menu"><i class="fa-solid fa-bars"></i></button>
+        </div>
+    </nav>
+
+
+
+    <!-- Page Hero Banner -->
+    <section class="catalogue-page-banner">
+        <span class="catalogue-badge">IN-STORE INVENTORY</span>
+        <h2>Product & Tech Catalogue</h2>
+        <p>Browse live in-store stock — smartphones, tablets, laptops, vapes, nicotine pouches, and accessories. Call for price & availability.</p>
+    </section>
+
+    <!-- Main Section with Left Sidebar & Products Grid -->
+    <section class="catalogue-showcase-section">
+        <div class="catalogue-layout">
+            
+            <!-- Left Sidebar Navigation -->
+            <aside class="catalogue-sidebar">
+                <h3 class="sidebar-title">Categories</h3>
+                <ul class="sidebar-nav-list">
+                    <li class="sidebar-nav-item active" onclick="selectCategory('All Products', this)">
+                        <span><i class="fa-solid fa-layer-group"></i> All Products</span>
+                        <span class="item-count-pill">123</span>
+                    </li>
+                    <li class="sidebar-nav-item " onclick="selectCategory('Smartphones', this)">
+                        <span><i class="fa-solid fa-mobile-screen"></i> Smartphones</span>
+                        <span class="item-count-pill">21</span>
+                    </li>
+                    <li class="sidebar-nav-item " onclick="selectCategory('Tablets', this)">
+                        <span><i class="fa-solid fa-tablet-screen-button"></i> Tablets</span>
+                        <span class="item-count-pill">9</span>
+                    </li>
+                    <li class="sidebar-nav-item " onclick="selectCategory('Laptops', this)">
+                        <span><i class="fa-solid fa-laptop"></i> Laptops</span>
+                        <span class="item-count-pill">17</span>
+                    </li>
+                    <li class="sidebar-nav-item " onclick="selectCategory('Gaming', this)">
+                        <span><i class="fa-solid fa-gamepad"></i> Gaming</span>
+                        <span class="item-count-pill">3</span>
+                    </li>
+                    <li class="sidebar-nav-item " onclick="selectCategory('Vape Kits', this)">
+                        <span><i class="fa-solid fa-wind"></i> Vape Kits</span>
+                        <span class="item-count-pill">11</span>
+                    </li>
+                    <li class="sidebar-nav-item " onclick="selectCategory('Vape Refills', this)">
+                        <span><i class="fa-solid fa-bottle-droplet"></i> Vape Refills</span>
+                        <span class="item-count-pill">4</span>
+                    </li>
+                    <li class="sidebar-nav-item " onclick="selectCategory('E-Liquids', this)">
+                        <span><i class="fa-solid fa-droplet"></i> E-Liquids</span>
+                        <span class="item-count-pill">4</span>
+                    </li>
+                    <li class="sidebar-nav-item " onclick="selectCategory('Nicotine Pouches', this)">
+                        <span><i class="fa-solid fa-box"></i> Nicotine Pouches</span>
+                        <span class="item-count-pill">1</span>
+                    </li>
+                    <li class="sidebar-nav-item " onclick="selectCategory('Tech Accessories', this)">
+                        <span><i class="fa-solid fa-headphones"></i> Tech Accessories</span>
+                        <span class="item-count-pill">50</span>
+                    </li>
+                    <li class="sidebar-nav-item " onclick="selectCategory('Protection & Cases', this)">
+                        <span><i class="fa-solid fa-shield-halved"></i> Protection & Cases</span>
+                        <span class="item-count-pill">3</span>
+                    </li>
+                </ul>
+            </aside>
+
+            <!-- Right Main Content -->
+            <main class="catalogue-main">
+                <input type="text" id="catalogueSearch" class="search-bar-input" placeholder="🔍 Search products by name, brand, specifications, or flavours..." onkeyup="filterProducts()">
+                
+                <div class="catalogue-products-grid" id="catalogueGrid">
+                    <!-- Products rendered by catalogue.js from catalogue-data.js -->
+                </div>
+            </main>
+        </div>
+    </section>
+
+    <!-- Flavor Modal -->
+    <div class="flavor-modal-overlay" id="flavorModal">
+        <div class="flavor-modal-box">
+            <button class="flavor-modal-close" onclick="closeFlavorModal()">✕</button>
+            <div style="height: 180px; background: #fff; border-radius: 12px; display: flex; align-items: center; justify-content: center; margin-bottom: 16px; padding: 12px;">
+                <img id="modalImg" src="" alt="" style="max-height: 150px; max-width: 90%; object-fit: contain;" loading="lazy" decoding="async">
+            </div>
+            <span class="category-tag-badge" id="modalCat" style="position: static; display: inline-block; margin-bottom: 8px;"></span>
+            <h3 id="modalTitle" style="color: #fff; margin: 0 0 12px 0; font-size: 1.25rem;"></h3>
+            <h4 style="color: #cbd5e1; margin: 0 0 10px 0; font-size: 0.9rem;">Available In-Store Flavors:</h4>
+            <div id="modalChips" style="margin-bottom: 20px;"></div>
+            <div style="background: rgba(225,29,42,0.15); color: #f87171; padding: 12px; border-radius: 10px; text-align: center; font-weight: 700; font-size: 0.88rem;">
+                <i class="fa-solid fa-store"></i> In Stock Now at 128 King St
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Footer -->
+    <footer class="footer" style="background: #050505; border-top: 1px solid rgba(225, 29, 42, 0.2); padding: 50px 0 20px;">
+        <div class="container">
+            <div class="footer-grid" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 30px; margin-bottom: 40px;">
+                <div class="footer-col">
+                    <h3 style="color: #ffffff; font-size: 1.2rem; font-weight: 800; margin-bottom: 16px;">MSP</h3>
+                    <p style="color: #94a3b8; font-size: 0.88rem; line-height: 1.6; margin-bottom: 16px;">Serving Hammersmith with authentic vapes, premium tech repairs, and 30-minute express device fixes.</p>
+                    <p style="color: #f87171; font-weight: 700; font-size: 0.9rem;"><i class="fa-solid fa-location-dot"></i> 128 King St, London W6 0QU</p>
+                </div>
+                <div class="footer-col">
+                    <h4 style="color: #f87171; font-size: 1rem; font-weight: 700; margin-bottom: 16px;">Phone Repairs</h4>
+                    <ul style="list-style: none; padding: 0; margin: 0;">
+                        <li style="margin-bottom: 8px;"><a href="screen-repair.html" style="color: #94a3b8; text-decoration: none; font-size: 0.88rem;">Screen Replacement</a></li>
+                        <li style="margin-bottom: 8px;"><a href="battery-replacement.html" style="color: #94a3b8; text-decoration: none; font-size: 0.88rem;">Battery Replacement</a></li>
+                        <li style="margin-bottom: 8px;"><a href="charging-port.html" style="color: #94a3b8; text-decoration: none; font-size: 0.88rem;">Charging Port Fix</a></li>
+                        <li style="margin-bottom: 8px;"><a href="water-damage.html" style="color: #94a3b8; text-decoration: none; font-size: 0.88rem;">Water Damage Recovery</a></li>
+                        <li style="margin-bottom: 8px;"><a href="phone-unlocking.html" style="color: #94a3b8; text-decoration: none; font-size: 0.88rem;">Phone Unlocking</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4 style="color: #f87171; font-size: 1rem; font-weight: 700; margin-bottom: 16px;">Laptop & Tech Repairs</h4>
+                    <ul style="list-style: none; padding: 0; margin: 0;">
+                        <li style="margin-bottom: 8px;"><a href="laptopscreen.html" style="color: #94a3b8; text-decoration: none; font-size: 0.88rem;">Laptop Screen Repair</a></li>
+                        <li style="margin-bottom: 8px;"><a href="ramstorage.html" style="color: #94a3b8; text-decoration: none; font-size: 0.88rem;">RAM & SSD Upgrade</a></li>
+                        <li style="margin-bottom: 8px;"><a href="datarecovery.html" style="color: #94a3b8; text-decoration: none; font-size: 0.88rem;">Data Recovery</a></li>
+                        <li style="margin-bottom: 8px;"><a href="liquidspill.html" style="color: #94a3b8; text-decoration: none; font-size: 0.88rem;">Liquid Spill Fix</a></li>
+                        <li style="margin-bottom: 8px;"><a href="virusmalware.html" style="color: #94a3b8; text-decoration: none; font-size: 0.88rem;">Virus & Malware Removal</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4 style="color: #f87171; font-size: 1rem; font-weight: 700; margin-bottom: 16px;">Contact Store</h4>
+                    <p style="color: #94a3b8; font-size: 0.88rem; margin-bottom: 8px;"><i class="fa-solid fa-phone" style="color: #e11d2a;"></i> Call: <a href="tel:02080011639" style="color: #ffffff; font-weight: 700;">020 8001 1639</a></p>
+                    <p style="color: #94a3b8; font-size: 0.88rem; margin-bottom: 16px;"><i class="fa-brands fa-whatsapp" style="color: #25d366;"></i> WhatsApp: <a href="https://wa.me/442080011639" target="_blank" style="color: #ffffff; font-weight: 700;">020 8001 1639</a></p>
+                    <p style="color: #94a3b8; font-size: 0.82rem; line-height: 1.5;">Mon–Sat 10am–8pm · Sun 10am–6pm</p>
+                    <p style="margin-top: 12px;"><a href="https://deliveroo.co.uk/menu/london/hammersmith/msp-vape-and-mobile" class="btn btn-deliveroo" target="_blank" rel="noopener noreferrer" style="margin-top: 12px; padding: 8px 14px; font-size: 0.8rem;"><svg class="deliveroo-mark" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M7 8V6a5 5 0 0 1 10 0v2h2.2A1.8 1.8 0 0 1 21 9.8v8.4A3.8 3.8 0 0 1 17.2 22H6.8A3.8 3.8 0 0 1 3 18.2V9.8A1.8 1.8 0 0 1 4.8 8H7zm2 0h6V6a3 3 0 0 0-6 0v2z"/></svg> Deliveroo</a></p>
+                </div>
+            </div>
+            <div style="text-align: center; border-top: 1px solid rgba(225,29,42,0.15); padding-top: 20px; color: #64748b; font-size: 0.8rem;">
+                © 2026 MSP Vape &amp; Mobile Store. All rights reserved.
+            </div>
+        </div>
+    </footer>
+
+
+    <a href="https://wa.me/442080011639" class="whatsapp-float" target="_blank" style="position: fixed; bottom: 24px; right: 24px; background: #25d366; color: #fff; width: 56px; height: 56px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.8rem; box-shadow: 0 8px 24px rgba(0,0,0,0.4); z-index: 999; text-decoration: none;">
+        <i class="fa-brands fa-whatsapp"></i>
+    </a>
+    <script src="nav.js" defer></script>
+    <script src="catalogue-data.js?v=20260904_flavours" defer></script>
+    <script src="catalogue.js?v=20260904_flavours" defer></script>
+</body>
+</html>

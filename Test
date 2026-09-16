@@ -1,9 +1,0 @@
-Request ID: 0e8240b8-8cc9-4957-8f97-b29a5aa8f884
-{"error":"ERROR_CUSTOM_MESSAGE","details":{"title":"GitHub repository is empty","detail":"This repository is empty. Add an initial commit to the repository and try again.","isRetryable":false,"additionalInfo":{"scmProvider":"github","scmFailureReason":"repo_empty"},"buttons":[],"planChoices":[],"analyticsMetadata":{"actionRequired":"config"}},"isExpected":true}
-This repository is empty. Add an initial commit to the repository and try again.
-Error
-ConnectError: [not_found] Error
-    at e (vscode-file://vscode-app/c:/Users/fifia/AppData/Local/Programs/cursor/resources/app/out/vs/workbench/workbench.glass.main.js:18426:420609)
-    at async Object.startBackgroundComposerFromSnapshot (vscode-file://vscode-app/c:/Users/fifia/AppData/Local/Programs/cursor/resources/app/out/vs/workbench/workbench.glass.main.js:7514:62288)
-    at async Jmn._startCloudAgent (vscode-file://vscode-app/c:/Users/fifia/AppData/Local/Programs/cursor/resources/app/out/vs/workbench/workbench.glass.main.js:7926:159338)
-    at async Jmn._createAgentReal (vscode-file://vscode-app/c:/Users/fifia/AppData/Local/Programs/cursor/resources/app/out/vs/workbench/workbench.glass.main.js:7926:152232) 

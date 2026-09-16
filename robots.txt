@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /social
+Sitemap: https://mspvapeandmobilestore.com/sitemap.xml
